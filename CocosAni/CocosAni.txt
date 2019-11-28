@@ -1,0 +1,38 @@
+一、精灵帧动画 Sprite
+二、Csb动画 createTimeline
+	1.Cocos Studio制作帧动画，设置帧事件前，勾选“自动记录帧”
+	2.在播放动画前监听帧事件
+	
+三、简单动作 Action
+四、骨骼动画 Skeleton
+五、粒子动画	ParticleSystem  粒子动画的网站：http://www.effecthub.com/particle2dx
+
+cocos2d中各种action方法的应用
+Action示例：
+
+1、移动动作
+cc.MoveBy:create(time, posX, posY)  在time时间内，相对当前位置基础上移动x，y个单位。  
+cc.MoveTo:create(time, posX, posY)  在time时间内，移动到cc.p(posX, posY)位置。
+
+2、缩放动作
+cc.ScaleBy:create(time, scaleX, scaleY) 在time时间内，相对当前大小缩放scale(scaleX, scaleY)个单位
+cc.ScaleTo:create(time, scaleX, scaleY) 在time时间内，缩放到scale(scaleX, scaleY)大小
+
+3 斜歪动作 (skew 和 rotate 的区别是一个是压缩倾斜旋转（形状会变）， 一个是正常旋转（形状不变）)
+cc.SkewTo:create(time, angleX, angleY)  在time时间内，压缩倾斜至angleX, angleY角度 （形状会变）
+cc.SkewBy:create(time, angleX, angleY)  在time时间内，相对当前角度压缩倾斜angleX, angleY角度（形状会变）
+
+4、旋转动作
+cc.RatoteTo:create(time, angleX, angleY)  在time时间内，旋转至angleX, angleY角度（形状不变）
+cc.RatoteBy:create(time, angleX, angleY)  在time时间内，相对当前角度旋转angleX, angleY角度（形状不变）
+
+5、变色动作
+cc.TintTo:create(time, colorR， colorG， colorB)  --第一个参数代表时间， 第2个参数是r，代表红色，第3个参数是g，代表绿色，第4个参数是b，代表蓝色
+
+6、 闪烁运动 
+cc.Blink:create(time,num)  -- 创建两个闪烁动作，第一个参数为持续时间，第二个参数为闪烁次数
+
+7、球面旋转 OrbitCamera类 （action视角按照球面坐标轨迹 围绕屏幕中心进行旋转）
+cc.OrbitCamera:create(2, 1, 0, 0, 180, 0, 0)   -- 创建一个带有起始半径、半径差、起始z角、旋转z角的差、起始x角、旋转x角的差 这些参数的运动视角动作类
+
+总结：xxxTo移动到绝对位置， xxxBy移动一个相对位置， 并且所有的xxxBy动作都有对应的reverse方法。

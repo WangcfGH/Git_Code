@@ -1,0 +1,55 @@
+<Solution>
+  <PropertyGroup Name="CocosProject" Version="2.3.0.1" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fnt">
+          <TTF Name="mainfont.ttf" />
+        </Folder>
+        <Folder Name="images">
+          <Folder Name="jpg">
+            <Image Name="bg_main.jpg" />
+            <Image Name="bg_main2.jpg" />
+            <Image Name="bg_particle.jpg" />
+          </Folder>
+          <Folder Name="plist">
+            <Folder Name="bomb">
+              <Image Name="bb0001.png" />
+              <Image Name="bb0002.png" />
+              <Image Name="bb0003.png" />
+              <Image Name="bb0004.png" />
+              <Image Name="bb0005.png" />
+              <Image Name="bb0006.png" />
+              <Image Name="bb0007.png" />
+              <Image Name="bb0008.png" />
+              <Image Name="bb0009.png" />
+              <Image Name="bb0010.png" />
+              <Image Name="bb0011.png" />
+              <Image Name="bb0012.png" />
+              <Image Name="bb0013.png" />
+              <Image Name="bb0014.png" />
+              <Image Name="bb0015.png" />
+              <Image Name="bb0016.png" />
+              <Image Name="bb0017.png" />
+              <Image Name="bb0018.png" />
+            </Folder>
+            <PlistInfo Name="bomb.csi" Type="Plist" />
+          </Folder>
+          <Folder Name="png">
+            <Image Name="btn_blue.png" />
+            <Image Name="btn_green.png" />
+            <Image Name="btn_red.png" />
+            <Image Name="btn_yellow.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="csb">
+          <Project Name="node_mainscene.csd" Type="Scene" />
+          <Project Name="node_bombani.csd" Type="Node" />
+        </Folder>
+        <Folder Name="skeleton">
+          <ExportJsonFile Name="chongfengqiang.ExportJson" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

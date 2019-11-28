@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>E439935D-B2A2-46AE-856D-2AA408428F33</ProjectGuid>
+    <!--$guid1$-->
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>
+    </StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="scripts\" />
+    <Folder Include="Scripts\.vscode\" />
+    <Folder Include="Scripts\res\" />
+    <Folder Include="Scripts\res\csb\" />
+    <Folder Include="Scripts\res\fnt\" />
+    <Folder Include="Scripts\res\images\" />
+    <Folder Include="Scripts\res\images\jpg\" />
+    <Folder Include="Scripts\res\images\plist\" />
+    <Folder Include="Scripts\res\images\png\" />
+    <Folder Include="Scripts\res\particle\" />
+    <Folder Include="Scripts\res\skeleton\" />
+    <Folder Include="Scripts\src\" />
+    <Folder Include="Scripts\src\app\" />
+    <Folder Include="Scripts\src\cocos\" />
+    <Folder Include="Scripts\src\cocos\3d\" />
+    <Folder Include="Scripts\src\cocos\cocos2d\" />
+    <Folder Include="Scripts\src\cocos\cocosbuilder\" />
+    <Folder Include="Scripts\src\cocos\cocosdenshion\" />
+    <Folder Include="Scripts\src\cocos\cocostudio\" />
+    <Folder Include="Scripts\src\cocos\controller\" />
+    <Folder Include="Scripts\src\cocos\extension\" />
+    <Folder Include="Scripts\src\cocos\framework\" />
+    <Folder Include="Scripts\src\cocos\framework\components\" />
+    <Folder Include="Scripts\src\cocos\framework\extends\" />
+    <Folder Include="Scripts\src\cocos\network\" />
+    <Folder Include="Scripts\src\cocos\physics3d\" />
+    <Folder Include="Scripts\src\cocos\spine\" />
+    <Folder Include="Scripts\src\cocos\ui\" />
+    <Folder Include="Scripts\src\packages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\.vscode\launch.json" />
+    <Content Include="Scripts\config.json" />
+    <Content Include="Scripts\res\csb\node_bombani.csb" />
+    <Content Include="Scripts\res\csb\node_mainscene.csb" />
+    <Content Include="Scripts\res\fnt\mainfont.ttf" />
+    <Content Include="Scripts\res\images\jpg\bg_main.jpg" />
+    <Content Include="Scripts\res\images\jpg\bg_particle.jpg" />
+    <Content Include="Scripts\res\images\plist\bomb.plist" />
+    <Content Include="Scripts\res\images\plist\bomb.png" />
+    <Content Include="Scripts\res\images\png\btn_blue.png" />
+    <Content Include="Scripts\res\images\png\btn_green.png" />
+    <Content Include="Scripts\res\images\png\btn_red.png" />
+    <Content Include="Scripts\res\images\png\btn_yellow.png" />
+    <Content Include="Scripts\res\particle\particle_1.plist" />
+    <Content Include="Scripts\res\particle\particle_2.plist" />
+    <Content Include="Scripts\res\particle\particle_texture.plist" />
+    <Content Include="Scripts\res\particle\particle_texture1.png" />
+    <Content Include="Scripts\res\skeleton\baiying.atlas" />
+    <Content Include="Scripts\res\skeleton\baiying.json" />
+    <Content Include="Scripts\res\skeleton\baiying.png" />
+    <Content Include="Scripts\res\skeleton\chongfengqiang.ExportJson" />
+    <Content Include="Scripts\res\skeleton\chongfengqiang.plist" />
+    <Content Include="Scripts\res\skeleton\chongfengqiang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Scripts\src\app\MyApp.lua" />
+    <Compile Include="Scripts\src\cocos\3d\3dConstants.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\bitExtend.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\Cocos2d.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\Cocos2dConstants.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\deprecated.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\DeprecatedCocos2dClass.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\DeprecatedCocos2dEnum.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\DeprecatedCocos2dFunc.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\DeprecatedOpenglEnum.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\DrawPrimitives.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\functions.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\json.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\luaj.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\luaoc.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\Opengl.lua" />
+    <Compile Include="Scripts\src\cocos\cocos2d\OpenglConstants.lua" />
+    <Compile Include="Scripts\src\cocos\cocosbuilder\CCBReaderLoad.lua" />
+    <Compile Include="Scripts\src\cocos\cocosbuilder\DeprecatedCocosBuilderClass.lua" />
+    <Compile Include="Scripts\src\cocos\cocosdenshion\AudioEngine.lua" />
+    <Compile Include="Scripts\src\cocos\cocosdenshion\DeprecatedCocosDenshionClass.lua" />
+    <Compile Include="Scripts\src\cocos\cocosdenshion\DeprecatedCocosDenshionFunc.lua" />
+    <Compile Include="Scripts\src\cocos\cocostudio\CocoStudio.lua" />
+    <Compile Include="Scripts\src\cocos\cocostudio\DeprecatedCocoStudioClass.lua" />
+    <Compile Include="Scripts\src\cocos\cocostudio\DeprecatedCocoStudioFunc.lua" />
+    <Compile Include="Scripts\src\cocos\cocostudio\StudioConstants.lua" />
+    <Compile Include="Scripts\src\cocos\controller\ControllerConstants.lua" />
+    <Compile Include="Scripts\src\cocos\extension\DeprecatedExtensionClass.lua" />
+    <Compile Include="Scripts\src\cocos\extension\DeprecatedExtensionEnum.lua" />
+    <Compile Include="Scripts\src\cocos\extension\DeprecatedExtensionFunc.lua" />
+    <Compile Include="Scripts\src\cocos\extension\ExtensionConstants.lua" />
+    <Compile Include="Scripts\src\cocos\framework\audio.lua" />
+    <Compile Include="Scripts\src\cocos\framework\components\event.lua" />
+    <Compile Include="Scripts\src\cocos\framework\device.lua" />
+    <Compile Include="Scripts\src\cocos\framework\display.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\LayerEx.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\MenuEx.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\NodeEx.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\SpriteEx.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\UICheckBox.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\UIEditBox.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\UIListView.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\UIPageView.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\UIScrollView.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\UISlider.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\UITextField.lua" />
+    <Compile Include="Scripts\src\cocos\framework\extends\UIWidget.lua" />
+    <Compile Include="Scripts\src\cocos\framework\init.lua" />
+    <Compile Include="Scripts\src\cocos\framework\package_support.lua" />
+    <Compile Include="Scripts\src\cocos\framework\transition.lua" />
+    <Compile Include="Scripts\src\cocos\init.lua" />
+    <Compile Include="Scripts\src\cocos\network\DeprecatedNetworkClass.lua" />
+    <Compile Include="Scripts\src\cocos\network\DeprecatedNetworkEnum.lua" />
+    <Compile Include="Scripts\src\cocos\network\DeprecatedNetworkFunc.lua" />
+    <Compile Include="Scripts\src\cocos\network\NetworkConstants.lua" />
+    <Compile Include="Scripts\src\cocos\physics3d\physics3d-constants.lua" />
+    <Compile Include="Scripts\src\cocos\spine\SpineConstants.lua" />
+    <Compile Include="Scripts\src\cocos\ui\DeprecatedUIEnum.lua" />
+    <Compile Include="Scripts\src\cocos\ui\DeprecatedUIFunc.lua" />
+    <Compile Include="Scripts\src\cocos\ui\experimentalUIConstants.lua" />
+    <Compile Include="Scripts\src\cocos\ui\GuiConstants.lua" />
+    <Compile Include="Scripts\src\config.lua" />
+    <Compile Include="Scripts\src\LuaDebugjit.lua" />
+    <Compile Include="Scripts\src\main.lua" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>

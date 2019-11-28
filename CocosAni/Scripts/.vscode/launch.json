@@ -1,0 +1,21 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cocos2-launch",
+            "type": "lua",
+            "request": "launch",
+            "runtimeType": "Cocos2",
+            "localRoot": "${workspaceRoot}",
+            "commandLine": "-workdir ${workspaceRoot} -file src/main.lua",
+            "port": 7003,
+            "exePath": "F:/CocosAni/Runtime/Runtime.exe",
+            // "exePath": "D:\\otherSVN\\MCRuntime\\v1.3.20170626\\Win32\\runtime\\MCRuntime.exe",
+            "printType": 1,
+            "printDate": true
+        }
+    ]
+}

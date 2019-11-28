@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TempProject_shared_ptr", "TempProject\TempProject.vcxproj", "{10DA6148-07A9-45DD-9889-1967E71207AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TempProject_shared_static_pointer_cast", "TempProject_shared_static_pointer_cast\TempProject_shared_static_pointer_cast.vcxproj", "{F5C7F00F-AA00-4967-A344-42D0973E534B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Event", "Event\Event.vcxproj", "{CFF21686-529F-42F4-876D-3ED86A603D4D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CriticalSection", "CriticalSection\CriticalSection.vcxproj", "{E08F61CD-D9D4-4557-8CE4-FAF1FC219849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10DA6148-07A9-45DD-9889-1967E71207AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10DA6148-07A9-45DD-9889-1967E71207AB}.Debug|Win32.Build.0 = Debug|Win32
+		{10DA6148-07A9-45DD-9889-1967E71207AB}.Release|Win32.ActiveCfg = Release|Win32
+		{10DA6148-07A9-45DD-9889-1967E71207AB}.Release|Win32.Build.0 = Release|Win32
+		{F5C7F00F-AA00-4967-A344-42D0973E534B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5C7F00F-AA00-4967-A344-42D0973E534B}.Debug|Win32.Build.0 = Debug|Win32
+		{F5C7F00F-AA00-4967-A344-42D0973E534B}.Release|Win32.ActiveCfg = Release|Win32
+		{F5C7F00F-AA00-4967-A344-42D0973E534B}.Release|Win32.Build.0 = Release|Win32
+		{CFF21686-529F-42F4-876D-3ED86A603D4D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFF21686-529F-42F4-876D-3ED86A603D4D}.Debug|Win32.Build.0 = Debug|Win32
+		{CFF21686-529F-42F4-876D-3ED86A603D4D}.Release|Win32.ActiveCfg = Release|Win32
+		{CFF21686-529F-42F4-876D-3ED86A603D4D}.Release|Win32.Build.0 = Release|Win32
+		{E08F61CD-D9D4-4557-8CE4-FAF1FC219849}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E08F61CD-D9D4-4557-8CE4-FAF1FC219849}.Debug|Win32.Build.0 = Debug|Win32
+		{E08F61CD-D9D4-4557-8CE4-FAF1FC219849}.Release|Win32.ActiveCfg = Release|Win32
+		{E08F61CD-D9D4-4557-8CE4-FAF1FC219849}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="bomb" Type="Plist" ID="cb8660f3-1cd5-4f12-b603-591e8d868958" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="images/plist/bomb/bb0001.png" />
+      <FilePathData Path="images/plist/bomb/bb0002.png" />
+      <FilePathData Path="images/plist/bomb/bb0003.png" />
+      <FilePathData Path="images/plist/bomb/bb0004.png" />
+      <FilePathData Path="images/plist/bomb/bb0005.png" />
+      <FilePathData Path="images/plist/bomb/bb0006.png" />
+      <FilePathData Path="images/plist/bomb/bb0007.png" />
+      <FilePathData Path="images/plist/bomb/bb0008.png" />
+      <FilePathData Path="images/plist/bomb/bb0009.png" />
+      <FilePathData Path="images/plist/bomb/bb0010.png" />
+      <FilePathData Path="images/plist/bomb/bb0011.png" />
+      <FilePathData Path="images/plist/bomb/bb0012.png" />
+      <FilePathData Path="images/plist/bomb/bb0013.png" />
+      <FilePathData Path="images/plist/bomb/bb0014.png" />
+      <FilePathData Path="images/plist/bomb/bb0015.png" />
+      <FilePathData Path="images/plist/bomb/bb0016.png" />
+      <FilePathData Path="images/plist/bomb/bb0017.png" />
+      <FilePathData Path="images/plist/bomb/bb0018.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

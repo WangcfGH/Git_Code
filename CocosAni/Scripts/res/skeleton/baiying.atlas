@@ -1,0 +1,55 @@
+
+baiying.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gd_meihua_chibang001
+  rotate: false
+  xy: 365, 355
+  size: 78, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+gd_meihua_chibang002
+  rotate: false
+  xy: 167, 98
+  size: 95, 107
+  orig: 95, 107
+  offset: 0, 0
+  index: -1
+gd_meihua_chibang003
+  rotate: true
+  xy: 288, 215
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+gd_meihua_chibang_di
+  rotate: false
+  xy: 288, 326
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+gd_meihua_dun
+  rotate: false
+  xy: 2, 207
+  size: 284, 269
+  orig: 284, 269
+  offset: 0, 0
+  index: -1
+gd_meihua_qi
+  rotate: false
+  xy: 2, 2
+  size: 163, 203
+  orig: 163, 203
+  offset: 0, 0
+  index: -1
+gd_meihua_qi001
+  rotate: false
+  xy: 445, 343
+  size: 33, 133
+  orig: 33, 133
+  offset: 0, 0
+  index: -1
