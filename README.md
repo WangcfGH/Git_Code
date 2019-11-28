@@ -2,7 +2,8 @@
 私人代码库
 CocosAni：cocos动画例子
 
-CocosMyGame：Cocos自建项目，参考网址
+CocosMyGame：Cocos自建项目，参考网址：
+
 https://blog.csdn.net/by_icefire/article/details/50113627
 
 https://blog.csdn.net/by_icefire/article/details/50125699
