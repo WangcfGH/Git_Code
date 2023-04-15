@@ -1,0 +1,176 @@
+syntax = "proto2";
+
+package halllogon; // package game
+
+	message LogOnUser{
+		optional int32  userid 			= 1;
+		optional int32  hallsvrid 		= 2;
+		optional int32  agentgroupid 	= 3;
+		optional uint32 ipaddr 			= 4;
+		optional uint32 logonflags 		= 5;
+		optional int32  tokenid 		= 6;
+		optional string username 		= 7;	//要求gb编码,和v2/v3一致
+		optional string password 		= 8;
+		optional string hardid 			= 9;
+		optional string volumeid 		= 10;	 
+		optional string machineid 		= 11;
+		optional string hashpwd 		= 12;	
+		optional string rndkey 			= 13;
+		optional uint32 sysver 			= 14;     
+		optional int32  logonsvrid 		= 15; 
+		optional int32  hallbuildno 	= 16;
+		optional int32  hallnetdelay 	= 17;	
+		optional int32  hallruncount 	= 18;
+		optional int32	gameid 			= 19;   //自身游戏id
+		optional string gamever 		= 20;
+		optional int32	recommenderid 	= 21;   //推广码
+		optional int32  channelid 		= 22;   //渠道号
+		optional string gamecode 		= 23;
+		optional int32 	recommgameid 	= 24;   //推荐游戏id
+		optional string recommgamecode 	= 25;
+		optional string accesstoken 	= 26;		
+		optional int32 	justforverify 	= 27;	//是否多重登陆,0否,1是
+		
+		optional string recommgamever 	= 28;
+		optional int32  pkgtype 		= 29;
+		optional string cuid 			= 30;
+
+		optional string imsiid 			= 31;   // imsi,从SIM卡读取
+		optional string simserialno 	= 32;   // sim卡序列号,从SIM卡读取
+		
+		optional string uniqueid		= 33;	// justforverify 为 true 时有效
+		
+		optional int32  queryflags		= 34;	// 扩展QueryUserGameInfo
+
+        optional string addinfo         = 38;   // 客户端附带消息，内容自己约定
+		
+		optional string gsclientdata	= 39;	// 新版gsclientdata
+	}
+
+	message UserGameInfoMB{
+		optional int32 userid			= 1;	// 用户ID
+		optional int32 gameid			= 2;	// 游戏ID
+		optional int32 deposit			= 3;	// 银子
+		optional int32 playerlevel		= 4;	// 级别
+		optional int32 score			= 5;	// 积分
+		optional int32 experience		= 6;	// 经验(分钟，已废弃)
+		optional int32 breakoff			= 7;	// 断线
+		optional int32 win				= 8;	// 赢
+		optional int32 loss				= 9;	// 输
+		optional int32 standoff			= 10;	// 和
+		optional int32 bout				= 11;	// 回合
+		optional int32 timecost			= 12;	// 花时(秒)
+		optional int32 salarytime		= 13;
+		optional int32 salarydeposit	= 14;
+		optional int32 totalsalary		= 15;
+		optional int32 flags			= 16;   // 一些状态标记          
+	}
+	
+	message GameMPSvr
+	{
+		optional int32 id       = 1;       //索引，无意义
+		optional int32 gameid   = 2;       // 游戏id
+		optional int32 status   = 3;       // 0表示隐藏  1 表示有效
+		optional int32 options  = 4;       //0x00000001 表示内测区
+		optional int32 port     = 5;
+		optional string ip      = 6;       //1.1.1.1 ip地址
+		optional string www     = 7;       //// xxx.youxi8848.com 域名地址
+	}
+
+	message LogOnSucceed{
+		optional int32  userid			= 1;
+		optional int32  nicksex			= 2;
+		optional int32  portrait		= 3;
+		optional int32  usertype		= 4;
+		optional int32  clothingid		= 5;
+		optional int32  registergroup	= 6;
+		optional int32  downloadgroup	= 7;
+		optional int32  agentgroupid	= 8;
+		optional int32  expiration		= 9;
+		optional int32  memberlevel		= 10;
+		optional int32  hallid			= 11;
+		optional string username		= 12;
+		optional string nickname		= 13;
+		optional string uniqueid		= 14;
+		optional string imtoken			= 15;
+		optional string idcard			= 16;
+		
+		optional UserGameInfoMB usergameinfo = 17;
+
+		repeated GameMPSvr svrs         = 18;      // commonmp 集合
+		optional int32  createday       = 19;   // 账号创建的日期
+		optional int32  createhour      = 20;   // 账号创建的日期
+	}
+
+	message LogOnUserOK{
+		optional int32  userid			= 1;	// 用户ID
+		optional uint32 logonflags		= 2;	// 登录选项标志，大厅赋值
+		optional string username		= 3;	 
+		optional string hardid			= 4;
+		optional string volumeid		= 5;	 
+		optional string machineid		= 6;
+		optional string nickname		= 7;	// 绰号 用户名
+		optional string uniqueid		= 8;    //
+		optional string imtoken			= 9;
+		optional int32  nicksex			= 10;	// 显示性别 -1: 未知= 1; 0: 男性= 1; 1: 女性
+		optional int32  portrait		= 11;	// 头像
+		optional int32  friendcount		= 12;
+		optional int32  usertype		= 13;	// 类型
+		optional int32  subtype			= 14;
+		optional int32  clothingid		= 15;	// 
+		optional int32  registergroup	= 16;
+		optional int32  downloadgroup	= 17;
+		optional int32  agentgroupid	= 18;
+		optional int32  expiration		= 19;
+		optional int32  forbidexpiration= 20;
+		optional int32  regfrom			= 21;
+		optional int32  havebind		= 22;	//用户已绑定
+		optional int32  onregmachine	= 23;
+		optional int32  birthday		= 24;
+		optional int32  memberlevel		= 25;
+		optional string idcard			= 26;	// 用户身份证id
+		optional string gamecode		= 27;	// From LOGON_USER_V2 add by cloud at 2018.2.27
+		optional int32  justforverify	= 28;
+		optional uint32 ipaddr			= 29;
+		
+		optional int32  gameid			= 30;
+		optional string gamever			= 31;
+		optional int32  recommgameid	= 32;
+		optional string recommgamecode	= 33;
+		optional string recommgamever	= 34;
+	
+		optional int32  channel			= 35;
+
+		optional int32  pkgtype			= 36;
+		optional string cuid			= 37;
+
+		optional string imsiid			= 38;
+		optional string simserialno		= 39;
+		
+		optional UserGameInfoMB usergameinfo = 40;
+	}
+	
+	message PlayerLogOn{
+		optional bytes  playerlogon     = 1;
+
+		optional string gamever 		= 2;
+		optional string recommgamever 	= 3;
+		optional int32  pkgtype 		= 4;	// 包体类型 [100	移动游戏单包 200	移动电玩城单包 1000 游戏合集包, 300	微信小游戏, 0	pc]
+		optional string cuid 			= 5;
+
+		optional string imsiid 			= 6;   // imsi,从SIM卡读取
+		optional string simserialno 	= 7;   // sim卡序列号,从SIM卡读取
+	}
+    
+    message LiQuanExchInfo
+    {
+        optional int32 userid     = 1;
+        optional int32 num        = 2;    // 本次操作的礼券数量
+        optional int32 srctype    = 3;    // 来源类型(1-奖励 2-兑换 3-过期 4-消耗)
+        optional int32 srcid      = 4;    // 活动id
+        optional string serialno  = 5;    // 订单号
+        optional int64 createtime = 6;    // 记录产生时间ms
+        optional string desc      = 7;    // 描述 utf8
+        optional int32 left       = 8;    // 当前用户兑换券数量
+        optional int32 expire     = 9;    // 过期时间 如20190501
+    }

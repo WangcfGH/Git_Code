@@ -1,0 +1,111 @@
+
+yuele.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengl
+  rotate: true
+  xy: 745, 134
+  size: 117, 127
+  orig: 117, 127
+  offset: 0, 0
+  index: -1
+diban
+  rotate: false
+  xy: 2, 55
+  size: 298, 196
+  orig: 298, 196
+  offset: 0, 0
+  index: -1
+g_00000
+  rotate: false
+  xy: 466, 100
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 874, 134
+  size: 117, 127
+  orig: 117, 127
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 619, 65
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 700, 74
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+niu_xing
+  rotate: false
+  xy: 619, 130
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1
+shoub
+  rotate: false
+  xy: 302, 57
+  size: 162, 194
+  orig: 162, 194
+  offset: 0, 0
+  index: -1
+xue
+  rotate: false
+  xy: 2, 20
+  size: 291, 33
+  orig: 291, 33
+  offset: 0, 0
+  index: -1
+yuele
+  rotate: false
+  xy: 466, 37
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+zhi1
+  rotate: false
+  xy: 586, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zhi2
+  rotate: false
+  xy: 1003, 235
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+zhi3
+  rotate: true
+  xy: 22, 4
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+zhi4
+  rotate: false
+  xy: 2, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+zhi5
+  rotate: false
+  xy: 586, 73
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1

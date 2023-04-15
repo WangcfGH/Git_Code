@@ -1,0 +1,18 @@
+{
+    "HLS_MOVESAFEDEPOSIT_NOTENOUGH":"您的取出银两超过了保险箱内的银两总额。",
+	"HLS_DEPOSIT_NOTENOUGH":"对不起，您的银子不够。",
+	"HLS_PLEASE_INPUT":"请输入准确数额",
+	"HLS_SECUREPWD_KEY_ERROR":"保护密码输入错误。",
+	"HLS_CONTINUE_SECUREPWDERROR_TAKEDEPOSIT":"由于您连续的保护密码计算结果错误,\n系统禁止您在这段时间内取银子。",
+	"HLS_CHECK_USER_NAME":"您输入的用户名可以注册。",
+	"HLS_OBJECT_NOT_EXIST":"对象不存在。",
+	"HLS_INPUTLIMIT_DAILY":"系统限定每日划入游戏不能超过%d两，\n今天您最多还可以划入%d两。",
+	"HLS_OUTPUT_BOUT_NOTENOUGH":"很抱歉，由于您在初次进入游戏房间时获赠了银两，请您至少玩 %d 局才能转出。",
+	"HLS_OUTPUT_TIMECOST_NOTENOUGH":"很抱歉，由于您在初次进入游戏房间时获赠了银两，请您至少玩 %d 分钟才能转出。",
+	"FORBID_UNEXPIRATION":"您的账号被禁用，到%d年%d月%d日 %02d:%02d:%02d系统将自动解禁，详情请与管理员联系。",
+	"SAFEBOX_USE_TOO_FAST":"您操作保险箱过于频繁，请稍后再试!",
+	"SAFEBOX_MOVE_SUCCESS":"银子操作成功！",
+	"SAFEBOX_USER_DEPOSIT_MUST_KEEP":"很抱歉，由于您在初次进入游戏时获赠了银两，这些银子无法转出。(至少保留%d两)",
+	"BACKBOX_NAME":"后备箱",
+	"SAFEBOX_ADD_BTN":"已达到最大存取值"
+}

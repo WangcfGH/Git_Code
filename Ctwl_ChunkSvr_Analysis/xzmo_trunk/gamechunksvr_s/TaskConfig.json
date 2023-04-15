@@ -1,0 +1,159 @@
+{
+	"我是注释readme":"GroupID与后台任务组ID无关，为本地显示每个组所用，后台任务组ID 只需申请两个分别对应日常和成长即可，TagIcon为任务类型（0=分享通用，1=通用，2=房卡，3=经典， 4=设置界面）",
+	"ImagePath":"res/hall/hallpic/missionicon/",
+
+	"Reward":[{"Type":1, "Text":"×", "Image":"res/hallcocosstudio/images/png/Icon_Common/Hall_IconExchange.png"},
+            {"Type":2},
+            {"Type":3, "Text":"×", "Image":"res/hallcocosstudio/images/png/Icon_Common/Hall_IconDeposit.png"}],
+
+	"Failed":"任务奖励领取失败，请稍候再试。",
+	"TaskSuccess":"恭喜你获得%d张兑换券",
+	"TaskSuccessRoomCard":"恭喜你完成首次创建房间任务获得%d枚欢乐币",
+	"TaskSuccessTip":"任务奖励领取成功",
+	"TaskSuccessCard":"恭喜你获得%d枚欢乐币",
+
+"Task":
+    [                  
+	{ "GroupID":2, "BeginID":5, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"清一色总次数","Image":"mission_icon_222.png","FormatName":"清一色胡%d次",
+      "TaskList":[
+      { "ID":5, "Name":"清一色胡1次", "Type":3, "Condition": [{"ConType":6, "ConValue":1}], "WebID":"a1001",
+      "Reward":[{"RewardType":3, "RewardValueMin":100, "RewardValueMax":100}], "NextID":6},
+	  { "ID":6, "Name":"清一色胡3次", "Type":3, "Condition": [{"ConType":6, "ConValue":3}], "WebID":"a1002",
+      "Reward":[{"RewardType":3, "RewardValueMin":300, "RewardValueMax":300}], "NextID":7},
+	  { "ID":7, "Name":"清一色胡5次", "Type":3, "Condition": [{"ConType":6, "ConValue":5}], "WebID":"a1003",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":8},
+	  { "ID":8, "Name":"清一色胡10次", "Type":3, "Condition": [{"ConType":6, "ConValue":10}], "WebID":"a1004",
+      "Reward":[{"RewardType":3, "RewardValueMin":800, "RewardValueMax":800}], "NextID":0}
+      ]
+    },
+   	{ "GroupID":3, "BeginID":9, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"血流模式中，胡特定次以上","Image":"mission_icon_444.png","FormatName":"一局内胡%d次",
+      "TaskList":[
+      { "ID":9, "Name":"一局内胡2次以上", "Type":3, "Condition": [{"ConType":7, "ConValue":1}], "WebID":"a1005",
+      "Reward":[{"RewardType":3, "RewardValueMin":200, "RewardValueMax":200}], "NextID":10},
+	  { "ID":10, "Name":"一局内胡4次以上", "Type":1, "Condition": [{"ConType":18, "ConValue":1}], "WebID":"a1006",
+      "Reward":[{"RewardType":1, "RewardValueMin":3, "RewardValueMax":3}], "NextID":11},
+	  { "ID":11, "Name":"一局内胡8次以上", "Type":3, "Condition": [{"ConType":19, "ConValue":1}], "WebID":"a1007",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":12},
+	  { "ID":12, "Name":"一局内胡10次以上", "Type":1, "Condition": [{"ConType":20, "ConValue":1}], "WebID":"a1008",
+      "Reward":[{"RewardType":1, "RewardValueMin":8, "RewardValueMax":8}], "NextID":0}
+      ]
+    },  
+   	{ "GroupID":4, "BeginID":13, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"游戏总局数","Image":"mission_icon_333.png","FormatName":"任意房间游戏%d次",
+      "TaskList":[
+      { "ID":13, "Name":"任意房间游戏2局", "Type":3, "Condition": [{"ConType":1001, "ConValue":2}], "WebID":"a1009",
+      "Reward":[{"RewardType":3, "RewardValueMin":200, "RewardValueMax":200}], "NextID":14},
+	  { "ID":14, "Name":"任意房间游戏5局", "Type":3, "Condition": [{"ConType":1001, "ConValue":5}], "WebID":"a1010",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":15},
+	  { "ID":15, "Name":"任意房间游戏10局", "Type":1, "Condition": [{"ConType":1001, "ConValue":10}], "WebID":"a1011",
+      "Reward":[{"RewardType":1, "RewardValueMin":6, "RewardValueMax":6}], "NextID":16},
+	  { "ID":16, "Name":"任意房间游戏15局", "Type":3, "Condition": [{"ConType":1001, "ConValue":15}], "WebID":"a1012",
+      "Reward":[{"RewardType":3, "RewardValueMin":1000, "RewardValueMax":1000}], "NextID":0}
+      ]
+    }, 
+    { "GroupID":5, "BeginID":17, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"杠总次数","Image":"mission_icon_333.png","FormatName":"累计杠%d次",
+      "TaskList":[
+      { "ID":17, "Name":"累计杠2次", "Type":3, "Condition": [{"ConType":8, "ConValue":2}], "WebID":"a1013",
+      "Reward":[{"RewardType":3, "RewardValueMin":100, "RewardValueMax":100}], "NextID":18},
+	  { "ID":18, "Name":"累计杠5次", "Type":3, "Condition": [{"ConType":8, "ConValue":5}], "WebID":"a1014",
+      "Reward":[{"RewardType":3, "RewardValueMin":300, "RewardValueMax":300}], "NextID":19},
+	  { "ID":19, "Name":"累计杠10次", "Type":3, "Condition": [{"ConType":8, "ConValue":10}], "WebID":"a1015",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":20},
+	  { "ID":20, "Name":"累计杠18次", "Type":3, "Condition": [{"ConType":8, "ConValue":18}], "WebID":"a1016",
+      "Reward":[{"RewardType":3, "RewardValueMin":1000, "RewardValueMax":1000}], "NextID":0}
+      ]
+    }, 
+    { "GroupID":6, "BeginID":21, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"赢特定金额以上","Image":"mission_icon_5555.png","FormatName":"单局赢%d两银子",
+      "TaskList":[
+      { "ID":21, "Name":"单局赢2000两银子以上", "Type":3, "Condition": [{"ConType":9, "ConValue":1}], "WebID":"a1017",
+      "Reward":[{"RewardType":3, "RewardValueMin":200, "RewardValueMax":200}], "NextID":22},
+	  { "ID":22, "Name":"单局赢5000两银子以上", "Type":3, "Condition": [{"ConType":10, "ConValue":1}], "WebID":"a1018",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":23},
+	  { "ID":23, "Name":"单局赢15000两银子以上", "Type":3, "Condition": [{"ConType":11, "ConValue":1}], "WebID":"a1019",
+      "Reward":[{"RewardType":3, "RewardValueMin":1500, "RewardValueMax":1500}], "NextID":24},
+	  { "ID":24, "Name":"单局赢50000两银子以上", "Type":1, "Condition": [{"ConType":12, "ConValue":1}], "WebID":"a1020",
+      "Reward":[{"RewardType":1, "RewardValueMin":10, "RewardValueMax":10}], "NextID":0}
+      ]
+    }, 
+    { "GroupID":7, "BeginID":25, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"自摸总次数","Image":"mission_icon_333.png","FormatName":"自摸%d次",
+      "TaskList":[
+      { "ID":25, "Name":"自摸3次", "Type":3, "Condition": [{"ConType":13, "ConValue":3}], "WebID":"a1021",
+      "Reward":[{"RewardType":3, "RewardValueMin":200, "RewardValueMax":200}], "NextID":26},
+	  { "ID":26, "Name":"自摸6次", "Type":3, "Condition": [{"ConType":13, "ConValue":6}], "WebID":"a1022",
+      "Reward":[{"RewardType":3, "RewardValueMin":300, "RewardValueMax":300}], "NextID":27},
+	  { "ID":27, "Name":"自摸10次", "Type":3, "Condition": [{"ConType":13, "ConValue":10}], "WebID":"a1023",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":28},
+	  { "ID":28, "Name":"自摸15次", "Type":1, "Condition": [{"ConType":13, "ConValue":15}], "WebID":"a1024",
+      "Reward":[{"RewardType":1, "RewardValueMin":10, "RewardValueMax":10}], "NextID":0}
+      ]
+    },    
+    { "GroupID":8, "BeginID":29, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"胡特定倍数以上","Image":"mission_icon_333.png","FormatName":"胡16倍以上%d次",
+      "TaskList":[
+      { "ID":29, "Name":"胡16倍以上", "Type":3, "Condition": [{"ConType":14, "ConValue":1}], "WebID":"a1025",
+      "Reward":[{"RewardType":3, "RewardValueMin":200, "RewardValueMax":200}], "NextID":30},
+	  { "ID":30, "Name":"胡32倍以上", "Type":3, "Condition": [{"ConType":15, "ConValue":1}], "WebID":"a1026",
+      "Reward":[{"RewardType":3, "RewardValueMin":300, "RewardValueMax":300}], "NextID":31},
+	  { "ID":31, "Name":"胡64倍以上", "Type":3, "Condition": [{"ConType":16, "ConValue":1}], "WebID":"a1027",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":32},
+	  { "ID":32, "Name":"胡128倍以上", "Type":1, "Condition": [{"ConType":17, "ConValue":1}], "WebID":"a1028",
+      "Reward":[{"RewardType":1, "RewardValueMin":10, "RewardValueMax":10}], "NextID":0}
+      ]
+    }    
+    ],
+
+  "TaskLevel":
+  [
+	{ "GroupID":9, "BeginID":33, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"初级及以上房间游戏1局","Image":"mission_icon_3.png","FormatName":"初级及以上房间游戏%d局",
+      "TaskList":[
+      { "ID":33, "Name":"初级及以上房间游戏1局", "Type":3, "Condition": [{"ConType":21, "ConValue":1}], "WebID":"a1002",
+      "Reward":[{"RewardType":3, "RewardValueMin":2000, "RewardValueMax":2000}], "NextID":37},
+      { "ID":37, "Name":"中级及以上房间游戏1局", "Type":1, "Condition": [{"ConType":22, "ConValue":1}], "WebID":"a1001",
+      "Reward":[{"RewardType":1, "RewardValueMin":10, "RewardValueMax":10}], "NextID":41},
+      { "ID":41, "Name":"高级及以上房间游戏1局", "Type":1, "Condition": [{"ConType":23, "ConValue":1}], "WebID":"a1001",
+      "Reward":[{"RewardType":1, "RewardValueMin":10, "RewardValueMax":10}], "NextID":0}      
+      ]
+    },
+	{ "GroupID":10, "BeginID":34, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"任意碰牌5次","Image":"mission_icon_3.png","FormatName":"任意碰牌%d次",
+      "TaskList":[
+      { "ID":34, "Name":"任意碰牌5次", "Type":3, "Condition": [{"ConType":24, "ConValue":5}], "WebID":"a1002",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":38},
+      { "ID":38, "Name":"任意碰20次", "Type":1, "Condition": [{"ConType":24, "ConValue":20}], "WebID":"a1001",
+      "Reward":[{"RewardType":1, "RewardValueMin":8, "RewardValueMax":8}], "NextID":0}
+      ]
+    }, 
+   	{ "GroupID":11, "BeginID":35, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"任意杠牌2次","Image":"mission_icon_3.png","FormatName":"任意杠牌%d次",
+      "TaskList":[
+      { "ID":35, "Name":"任意杠牌2次", "Type":3, "Condition": [{"ConType":25, "ConValue":2}], "WebID":"a1002",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":39},
+      { "ID":39, "Name":"任意杠牌10次", "Type":1, "Condition": [{"ConType":25, "ConValue":10}], "WebID":"a1001",
+      "Reward":[{"RewardType":1, "RewardValueMin":8, "RewardValueMax":8}], "NextID":0}
+      ]
+    },  
+   	{ "GroupID":12, "BeginID":36, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+      "Title":"单局累计赢1000两","Image":"mission_icon_5555.png","FormatName":"单局累计赢%d两",
+      "TaskList":[
+      { "ID":36, "Name":"单局累计赢1000两", "Type":3, "Condition": [{"ConType":26, "ConValue":1}], "WebID":"a1003",
+      "Reward":[{"RewardType":3, "RewardValueMin":500, "RewardValueMax":500}], "NextID":40},
+      { "ID":40, "Name":"单局累计赢5000银子", "Type":1, "Condition": [{"ConType":27, "ConValue":1}], "WebID":"a1001",
+      "Reward":[{"RewardType":1, "RewardValueMin":8, "RewardValueMax":8}], "NextID":0}
+      ]
+    } 
+    ], 
+    
+
+
+	"Button":
+	[
+		"去做任务",
+		"分享一下"
+	]
+}

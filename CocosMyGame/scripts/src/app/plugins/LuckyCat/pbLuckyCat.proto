@@ -1,0 +1,79 @@
+syntax = "proto2";
+package pbLuckyCat;
+
+// local开头的为pb内部使用的数据结构
+
+//#define GR_LUCKY_CAT_MSG_BEGIN           GAME_REQ_INDIVIDUAL + 2200
+//#define GR_LUCKY_CAT_QUERY_DATA          (GR_LUCKY_CAT_MSG_BEGIN + 1)    // 获取招财猫活动数据
+message localTaskData {
+    optional int32 groupID = 1;    // 任务组ID
+	optional int32 subID   = 2;    // 任务子ID
+    optional int32 flag    = 3;    // 任务状态 (0:未领取 1:已领取)
+}
+
+message localTaskParam {
+    optional int32 type  = 1;      // 任务类型
+    optional int32 param = 2;      // 任务量
+}
+
+message localCatData {
+    optional int32 driedFishNum     = 1;    // 当前鱼干数量
+    optional int32 multiGrade       = 2;    // 当前升级倍数
+    optional int32 flag             = 3;    // 领奖状态 (0:未领取 1:已领取)
+}
+
+message luckyCatData {
+    optional int32 userID               = 1;    // 用户ID
+    repeated localTaskData taskData     = 2;    // 任务状态数据
+    repeated localTaskParam taskParam   = 3;    // 任务量数据
+    optional localCatData catData       = 4;    // 鱼干数据 
+    optional int32 state                = 5;    // 当前活动状态 (0:关闭 1:做任务 2:瓜分奖励)
+    optional int32 divideNum            = 6;    // 当前瓜分人数
+    optional bool needConfig            = 7;    // 是否需要配置
+    optional bytes config               = 8;    // json配置
+}
+
+//#define GR_TASK_CHANGE_DATA       (GR_LUCKY_CAT_MSG_BEGIN + 2)         // 改变做任务数据
+message taskDataChange {
+    optional int32 userID  = 1;     // 用户ID
+    optional int32 groupID = 2;     // 任务组ID
+	optional int32 subID   = 3;     // 任务子ID
+	optional int32 flag    = 4;     // 任务状态
+}
+
+//#define GR_TASK_CHANGE_PARAM      (GR_LUCKY_CAT_MSG_BEGIN + 3)         // 改变任务量数据
+message taskParamChange {
+	optional int32 userID       = 1;    // 用户ID
+	optional int32 type         = 2;    // 任务类型
+	optional int32 value        = 3;    // 任务数值
+}
+
+//#define GR_TASK_AWARD_PRIZE       (GR_LUCKY_CAT_MSG_BEGIN + 4)         // 领取任务奖励
+message taskResult {
+    optional int32 userID       = 1;    // 用户ID
+	optional int32 groupID      = 2;    // 任务组ID
+	optional int32 subID        = 3;    // 任务子ID
+    optional int32 flag         = 4;    // 任务标志
+    optional int32 actID        = 5;    // 领奖actID
+	optional bytes webID        = 6;    // 领奖webID
+	optional int32 rewardType   = 7;    // 奖励类型(1:银子 2:兑换券 3:小鱼干)
+	optional int32 rewardNum    = 8;    // 奖励数量
+    optional int32 result       = 9;    // 领奖结果(0:成功 其他:错误码)
+}
+
+//#define GR_LUCKY_CAT_UPGRADE          (GR_LUCKY_CAT_MSG_BEGIN + 5)    // 招财猫升级
+message luckyCatUpgrade {
+    optional int32 userID           = 1;    // 用户ID
+    optional string userName        = 2;    // 用户名字
+    optional int32 driedFishNum     = 3;    // 当前鱼干数量
+    optional int32 multiGrade       = 4;    // 当前升级倍数
+}
+
+//#define GR_LUCKY_CAT_TAKE_AWARD       (GR_LUCKY_CAT_MSG_BEGIN + 6)    // 领取招财猫奖励
+message luckyCatAward {
+    optional int32 userID           = 1;    // 用户ID
+    optional int32 rewardType       = 2;    // 奖励类型(1:银子 2:兑换券)
+    optional int32 rewardNum        = 3;    // 奖励数量
+    optional int32 actID            = 4;    // 领奖actID
+    optional bytes webID            = 5;    // 领奖webID
+}

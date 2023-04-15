@@ -1,0 +1,18 @@
+﻿syntax = "proto2";
+package pbAdvert;
+
+// local开头的为pb内部使用的数据结构
+
+//贵族玩家登录信息
+message AdvertLog {
+    required int32 userID		= 1;          //玩家ID
+	optional int32 channel		= 2;   		  //渠道号
+	optional int32 roomID		= 3;          //房间号
+    optional int32 sceneID		= 4;          //场景ID
+	optional string sceneName	= 5;          //场景名称
+	optional string sdkName		= 6;          //SDK名称
+	optional int32 adType		= 7;          //广告类型
+	optional string opeType		= 8;          //操作类型
+	optional string strDate		= 9;          //触发日期
+	optional string strTime		= 10;         //触发时间
+}

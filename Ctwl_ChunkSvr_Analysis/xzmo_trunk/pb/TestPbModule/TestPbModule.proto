@@ -1,0 +1,17 @@
+package TestPbModulePg;
+
+message ReqTestPbModule1
+{
+    required int32 userid = 1;
+    required int32 channel = 2;
+};
+
+message TestPbModuleData1 {
+    required int32 f1 = 1;
+    optional string f2 = 2;
+};
+
+message RspTestPbModule1 {
+    required bool ok = 1;
+    repeated TestPbModuleData1 list_data = 2;
+};

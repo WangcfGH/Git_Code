@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_AddBuy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{403,761},{95,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{95,81}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_FirstBuy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{365,661},{96,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{96,81}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_PlusSign.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{208,708},{42,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{42,41}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_RechargeBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,596},{147,171}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{147,171}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_RechargeNumbBG1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{261,596},{156,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{156,61}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_RechargeNumbBG2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{257,820},{156,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{156,61}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_SendSilver.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{322,820},{120,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,77}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_SixYuan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,771},{108,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,104}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_TenYuan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,883},{108,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,104}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_TwentyYuan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{153,596},{108,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,104}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Img_TwoYuan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{257,708},{108,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{108,104}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/NewUser_Close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{153,708},{51,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,51}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Recharge_LackSilver.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{95,771},{234,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{234,50}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Recharge_TipsBox.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{506,590}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{506,590}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Recharge_Img/Tips_Btn_Recharge.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,771},{212,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{212,89}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Recharge_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>Recharge_Img.png</string>
+			<key>size</key>
+			<string>{510,1007}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>510</integer>
+			<key>height</key>
+			<integer>1007</integer>
+		</dict>
+	</dict>
+</plist>

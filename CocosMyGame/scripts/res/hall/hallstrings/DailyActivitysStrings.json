@@ -1,0 +1,13 @@
+{
+	"relief_invalid":"敬请期待",
+	"relief_used_up":"明天再来",
+	"relief_unsatisfied":"未破产",
+	"relief_not_logined":"未登录",
+	
+	"checkin_not_logined":"未登录",
+	"invalid_verify_code":"验证失败",
+	"unexpected_network":"网络异常",
+	"busy":"系统繁忙",
+	"Month":"月",
+	"Day":"日"
+}

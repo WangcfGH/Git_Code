@@ -1,0 +1,17 @@
+{
+  "HLS_TASK_NAME_1":"任意分享游戏%d次", 
+  "HLS_TASK_NAME_2":"任意房间游戏%d局",
+	"HLS_TASK_NAME_3":"做上狗腿%d局",
+	"HLS_TASK_NAME_4":"逮到狗腿%d次",
+	"HLS_TASK_NAME_5":"打出蝴蝶%d次",
+	"HLS_TASK_NAME_6":"获得喜钱奖励%d次",
+	"HLS_TASK_REWARD":"奖励分数：%d 分",
+	"HLS_TASK_GOTASK":"去做任务",
+	"HLS_TASK_RUNNING":"进行中",
+	"HLS_TASK_PRIZE":"领取奖励",
+	"HLS_TASK_SHARE":"分享一下",
+	"HLS_PRIZE_SUCCESS":"领取奖励成功！",
+	"HLS_PRIZE_FAIL":"领取奖励失败！",
+	"HLS_TASK_FINISH":"完成任务",
+	"HLS_TASK_YINZI":"银子"
+}

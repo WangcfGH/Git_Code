@@ -1,0 +1,69 @@
+
+zhipairen.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiangbei
+  rotate: false
+  xy: 115, 57
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 6
+  size: 111, 120
+  orig: 111, 120
+  offset: 0, 0
+  index: -1
+ym
+  rotate: false
+  xy: 140, 28
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+ys
+  rotate: false
+  xy: 115, 23
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 185, 74
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+zb
+  rotate: false
+  xy: 115, 2
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+zm
+  rotate: false
+  xy: 209, 115
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 185, 93
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+zy
+  rotate: false
+  xy: 140, 37
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1

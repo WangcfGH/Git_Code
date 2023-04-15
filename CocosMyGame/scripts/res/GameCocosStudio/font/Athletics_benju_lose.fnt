@@ -1,0 +1,20 @@
+info face="»ª¿µÔ²ÌåW7(P)" size=40 bold=1 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=3,3,3,3 spacing=3,3
+common lineHeight=50 base=35 scaleW=512 scaleH=128 pages=1 packed=0
+page id=0 file="Athletics_benju_lose.png"
+chars count=15
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=35    xadvance=14     page=0  chnl=0 
+char id=47   x=0     y=0     width=19     height=40     xoffset=-2     yoffset=2    xadvance=12     page=0  chnl=0 
+char id=54   x=19     y=0     width=26     height=35     xoffset=0     yoffset=5    xadvance=23     page=0  chnl=0 
+char id=52   x=45     y=0     width=28     height=35     xoffset=-1     yoffset=5    xadvance=23     page=0  chnl=0 
+char id=57   x=73     y=0     width=26     height=34     xoffset=0     yoffset=5    xadvance=23     page=0  chnl=0 
+char id=56   x=99     y=0     width=26     height=34     xoffset=0     yoffset=5    xadvance=23     page=0  chnl=0 
+char id=53   x=125     y=0     width=26     height=34     xoffset=0     yoffset=6    xadvance=23     page=0  chnl=0 
+char id=51   x=151     y=0     width=27     height=34     xoffset=-1     yoffset=5    xadvance=23     page=0  chnl=0 
+char id=50   x=178     y=0     width=26     height=34     xoffset=0     yoffset=5    xadvance=23     page=0  chnl=0 
+char id=49   x=204     y=0     width=17     height=34     xoffset=3     yoffset=5    xadvance=23     page=0  chnl=0 
+char id=48   x=221     y=0     width=26     height=34     xoffset=0     yoffset=5    xadvance=23     page=0  chnl=0 
+char id=55   x=247     y=0     width=26     height=33     xoffset=0     yoffset=6    xadvance=23     page=0  chnl=0 
+char id=43   x=273     y=0     width=25     height=25     xoffset=-1     yoffset=14    xadvance=20     page=0  chnl=0 
+char id=44   x=298     y=0     width=15     height=18     xoffset=-1     yoffset=26    xadvance=10     page=0  chnl=0 
+char id=46   x=313     y=0     width=15     height=13     xoffset=-1     yoffset=26    xadvance=10     page=0  chnl=0 
+char id=45   x=328     y=0     width=19     height=11     xoffset=-1     yoffset=21    xadvance=14     page=0  chnl=0 

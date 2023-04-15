@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{468,748},{83,85}}</string>
+				<key>offset</key>
+				<string>{0,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,864},{127,136}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1324,1},{166,176}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{553,748},{173,177}}</string>
+				<key>offset</key>
+				<string>{4,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1249,233},{207,213}}</string>
+				<key>offset</key>
+				<string>{2,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1106,1},{230,216}}</string>
+				<key>offset</key>
+				<string>{5,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{728,748},{261,253}}</string>
+				<key>offset</key>
+				<string>{4,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{983,717},{291,292}}</string>
+				<key>offset</key>
+				<string>{3,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{922,383},{325,332}}</string>
+				<key>offset</key>
+				<string>{1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{440,1},{359,371}}</string>
+				<key>offset</key>
+				<string>{-1,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,451},{400,411}}</string>
+				<key>offset</key>
+				<string>{-1,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/bao0012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{437,448}}</string>
+				<key>offset</key>
+				<string>{-2,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{500,514}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/chuizi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,864},{140,154}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,154}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/guangshu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{480,935},{45,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{45,180}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/lie1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{403,748},{63,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{63,114}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/lie2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{272,935},{69,206}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{69,206}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/lie3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{272,864},{69,208}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{69,208}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/suidan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{403,451},{517,295}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{517,295}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/jindan/zhengdan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{801,1},{303,380}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{303,380}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>jindan.png</string>
+			<key>realTextureFileName</key>
+			<string>jindan.png</string>
+			<key>size</key>
+			<string>{1491,1019}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1491</integer>
+			<key>height</key>
+			<integer>1019</integer>
+		</dict>
+	</dict>
+</plist>

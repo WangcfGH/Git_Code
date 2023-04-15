@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/BuyBtn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{828,201},{279,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{279,90}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/BuySliveImg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,569},{125,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/BuyTipImg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,695},{91,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/CardMakerImg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{828,480},{152,121}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{152,121}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/CloseBtn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,756},{88,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{88,91}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/ItemBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{828,0},{155,201}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,201}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/PanelBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{828,569}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{828,569}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/ReliefSliveImg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{125,569},{125,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/ReliefTipImg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{91,756},{91,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/TakeBtn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{250,569},{193,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{193,61}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/BuyBtnBgImg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{918,201},{279,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{279,90}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/BytTipBgImg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,844},{88,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{88,53}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PromptRelief/TakeBtn_VideoAD.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,695},{193,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{193,61}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PromptRelief.png</string>
+			<key>realTextureFileName</key>
+			<string>PromptRelief.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

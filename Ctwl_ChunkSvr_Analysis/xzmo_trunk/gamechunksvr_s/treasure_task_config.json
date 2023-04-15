@@ -1,0 +1,40 @@
+{
+	"task_rewards":[
+		{"id":1,"count":1000,"webid":"a1001","type":0},
+		{"id":2,"count":1200,"webid":"a1001","type":0},
+		{"id":3,"count":1500,"webid":"a1001","type":0},
+		{"id":4,"count":1000,"webid":"a1002","type":0},
+		{"id":5,"count":1200,"webid":"a1002","type":0},
+		{"id":6,"count":1500,"webid":"a1002","type":0}
+	],
+	"room_baoxiang":[
+		{
+			"roomid":17901,
+			"baoxiang_color":0,
+			"tasks":[
+				{"task_goal":3,"reward":[{"rewardid":1,"rate":20},{"rewardid":2,"rate":50},{"rewardid":3,"rate":30}]},
+				{"task_goal":5,"reward":[{"rewardid":1,"rate":20},{"rewardid":2,"rate":50},{"rewardid":3,"rate":30}]},
+				{"task_goal":10,"reward":[{"rewardid":1,"rate":20},{"rewardid":2,"rate":50},{"rewardid":3,"rate":30}]}
+			]
+		},
+		{
+			"roomid":17902,
+			"baoxiang_color":1,
+			"tasks":[
+				{"task_goal":3,"reward":[{"rewardid":1,"rate":20},{"rewardid":2,"rate":50},{"rewardid":3,"rate":30}]},
+				{"task_goal":5,"reward":[{"rewardid":1,"rate":20},{"rewardid":2,"rate":50},{"rewardid":3,"rate":30}]},
+				{"task_goal":10,"reward":[{"rewardid":1,"rate":20},{"rewardid":2,"rate":50},{"rewardid":3,"rate":30}]}
+			]
+		},
+		{
+			"roomid":17903,
+			"baoxiang_color":2,
+			"tasks":[
+				{"task_goal":3,"reward":[{"rewardid":1,"rate":20},{"rewardid":2,"rate":50},{"rewardid":3,"rate":30}]},
+				{"task_goal":5,"reward":[{"rewardid":1,"rate":20},{"rewardid":2,"rate":50},{"rewardid":3,"rate":30}]},
+				{"task_goal":10,"reward":[{"rewardid":1,"rate":20},{"rewardid":2,"rate":50},{"rewardid":3,"rate":30}]}
+			]
+		}
+	
+	]
+}

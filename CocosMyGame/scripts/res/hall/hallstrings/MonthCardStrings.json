@@ -1,0 +1,21 @@
+{
+	"MCARD_AREADY_PAY":						"您已经购买过月卡，无需再购买哦~",
+	"MCARD_ACHIEVE_CLICK_TOO_FREQ":			"今日已经领取过啦，明日记得来领取哦~",
+	"MCARD_PAY_CLICK_TOO_FREQ":				"操作太快啦，服务器忙不过来哦...~",
+	"MCARD_AREADY_ACHIEVE":					"今日已经领取过啦，明日再来吧！",
+	"MCARD_AREADY_OVER":					"您的月卡到期了，不能在领取了",
+	"MCARD_GIFT_DEPOSIT_FAILED":			"赠送银两失败（soap调用失败）！！！",
+	"MCARD_GIFT_DEPOSIT_TIPS":				"赠送银成功，若有延迟请到个人信息中查看！",
+    "MCARD_PAY_SUCCESS_BUT_NO_CHUNK_MSG": "赠送银处理异常，请联系客服处理！",
+    "MCARD_GET_DATA_FAILED":	            "服务未响应，请稍后再试！",
+	"MCARD_DEAFULT":						"领取异常，请稍后再试",
+    "MCARD_GIFT_1500_DEPOSIT":              "1500两银子",
+    "MCARD_GIFT_3000_DEPOSIT":              "3000两银子",
+    "MCARD_GIFT_3300_DEPOSIT":              "3300两银子",
+    "MCARD_GIFT_10W_DEPOSIT":               "10万两银子",
+    "MCARD_GIFT_12W_DEPOSIT":               "12万两银子",
+    "MCARD_12RMB_TO_BUY":                   "12元购买",
+    "MCARD_28RMB_TO_BUY":                   "28元购买",
+    "MCARD_TOO_MANY_PLAYERS_ONE_DEVICE": "该设备当前购买月卡账户已达上限!"
+
+}

@@ -1,0 +1,118 @@
+
+czlg_icon.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lz
+  rotate: false
+  xy: 99, 6
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 168, 10
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+xingd
+  rotate: false
+  xy: 234, 27
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 2, 3
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+ym
+  rotate: false
+  xy: 243, 2
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 168, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 271, 44
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 253, 18
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 243, 7
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+z4
+  rotate: true
+  xy: 177, 2
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+z5
+  rotate: false
+  xy: 11, 21
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 30
+  size: 95, 32
+  orig: 95, 32
+  offset: 0, 0
+  index: -1
+zj
+  rotate: false
+  xy: 271, 51
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+zm
+  rotate: false
+  xy: 289, 58
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 234, 13
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+zy
+  rotate: false
+  xy: 234, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1

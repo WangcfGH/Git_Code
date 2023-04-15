@@ -1,0 +1,202 @@
+
+dingshisai_j.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gg_00000
+  rotate: false
+  xy: 444, 361
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00001
+  rotate: false
+  xy: 589, 435
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00002
+  rotate: false
+  xy: 2, 30
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00003
+  rotate: true
+  xy: 107, 105
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00004
+  rotate: false
+  xy: 686, 435
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00005
+  rotate: false
+  xy: 783, 435
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00006
+  rotate: false
+  xy: 880, 435
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00007
+  rotate: false
+  xy: 187, 195
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00008
+  rotate: false
+  xy: 179, 123
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00009
+  rotate: false
+  xy: 303, 262
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00010
+  rotate: false
+  xy: 284, 190
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00011
+  rotate: false
+  xy: 276, 118
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00012
+  rotate: false
+  xy: 444, 289
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00013
+  rotate: true
+  xy: 541, 336
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+gg_00014
+  rotate: false
+  xy: 613, 363
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+jjc_dd
+  rotate: false
+  xy: 2, 102
+  size: 103, 98
+  orig: 103, 98
+  offset: 0, 0
+  index: -1
+jjc_di
+  rotate: false
+  xy: 2, 299
+  size: 299, 206
+  orig: 299, 206
+  offset: 0, 0
+  index: -1
+jjc_jb
+  rotate: false
+  xy: 303, 334
+  size: 139, 171
+  orig: 139, 171
+  offset: 0, 0
+  index: -1
+jjc_pai
+  rotate: true
+  xy: 977, 453
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+jjc_qd
+  rotate: false
+  xy: 444, 433
+  size: 143, 72
+  orig: 143, 72
+  offset: 0, 0
+  index: -1
+jjc_xx
+  rotate: false
+  xy: 710, 385
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+jjc_zi
+  rotate: false
+  xy: 2, 202
+  size: 183, 63
+  orig: 183, 63
+  offset: 0, 0
+  index: -1
+jjc_zx1
+  rotate: false
+  xy: 400, 322
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+jjc_zx2
+  rotate: true
+  xy: 381, 242
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+jjc_zx3
+  rotate: false
+  xy: 977, 437
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+jjc_zx4
+  rotate: false
+  xy: 2, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+jjc_zx5
+  rotate: false
+  xy: 179, 109
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+xue
+  rotate: false
+  xy: 2, 267
+  size: 289, 30
+  orig: 289, 30
+  offset: 0, 0
+  index: -1

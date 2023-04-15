@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/Img_Setting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,81},{102,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{102,42}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/silence.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{131,118},{57,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,60}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/sliderProcess.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,2},{279,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{279,33}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/sliderTrack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,81},{279,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{279,33}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/unsilence.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{186,182},{57,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,60}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/Btn_Right.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,2},{75,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,92}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/Setting_BtnLine1.png.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{180,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{180,60}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/Setting_BtnLine2.png.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,186},{180,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,60}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/ChBox_BG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,118},{61,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{61,61}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Setting_Img/ChBox_Tick.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{445,2},{76,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{76,62}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Setting_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>Setting_Img.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

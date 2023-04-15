@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/charteredroomFriends/Game_BtnAccept.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{140,73},{105,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroomFriends/Game_BtnDismiss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{140,4},{108,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,61}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroomFriends/Game_CheckboxBG_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,134},{50,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{50,51}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroomFriends/Game_CheckboxTick_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,134},{47,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,47}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroomFriends/Game_TipsBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{128,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,122}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>charteredroomFriends.png</string>
+			<key>realTextureFileName</key>
+			<string>charteredroomFriends.png</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,15 @@
+info face="·½Õý´ÖÔ²_GBK" size=60 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0
+common lineHeight=77 base=57 scaleW=512 scaleH=64 pages=1 packed=0
+page id=0 file="room_basedeposit.png"
+chars count=10
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=57    xadvance=20     page=0  chnl=0 
+char id=48   x=0     y=0     width=38     height=50     xoffset=-1     yoffset=11    xadvance=38     page=0  chnl=0 
+char id=57   x=38     y=0     width=36     height=50     xoffset=0     yoffset=11    xadvance=38     page=0  chnl=0 
+char id=56   x=74     y=0     width=36     height=50     xoffset=0     yoffset=11    xadvance=38     page=0  chnl=0 
+char id=54   x=110     y=0     width=36     height=50     xoffset=0     yoffset=11    xadvance=38     page=0  chnl=0 
+char id=51   x=146     y=0     width=36     height=50     xoffset=-1     yoffset=11    xadvance=38     page=0  chnl=0 
+char id=53   x=182     y=0     width=35     height=49     xoffset=-1     yoffset=12    xadvance=38     page=0  chnl=0 
+char id=52   x=217     y=0     width=39     height=49     xoffset=-2     yoffset=11    xadvance=38     page=0  chnl=0 
+char id=50   x=256     y=0     width=35     height=49     xoffset=0     yoffset=11    xadvance=38     page=0  chnl=0 
+char id=55   x=291     y=0     width=37     height=48     xoffset=-2     yoffset=12    xadvance=36     page=0  chnl=0 
+char id=49   x=328     y=0     width=23     height=48     xoffset=-1     yoffset=12    xadvance=26     page=0  chnl=0 

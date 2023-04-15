@@ -1,0 +1,14 @@
+local NobilityPrivilegeGiftDef = 
+{
+    GR_NOBILITY_PRIVILEGE_GIFT_GET_INFO    = 403101,
+    GR_NOBILITY_PRIVILEGE_GIFT_TRANSFER  = 403102,
+    GR_NOBILITY_PRIVILEGE_GIFT_PAY_SUCCESS  = 403103,
+
+    NOBILITY_PRIVILEGE_GIFT_APPTYPE_AN     = 1,
+	NOBILITY_PRIVILEGE_GIFT_APPTYPE_IOS    = 2,
+	NOBILITY_PRIVILEGE_GIFT_APPTYPE_SET    = 3,
+    
+	NobilityPrivilegeGiftInfoRet        = "NobilityPrivilegeGiftInfoRet",
+}
+
+return NobilityPrivilegeGiftDef

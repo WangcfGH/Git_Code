@@ -1,0 +1,111 @@
+
+gehk_icon.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_1
+  rotate: false
+  xy: 72, 40
+  size: 5, 23
+  orig: 5, 23
+  offset: 0, 0
+  index: -1
+e_2
+  rotate: true
+  xy: 79, 73
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 2, 19
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 2, 65
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+x_1
+  rotate: false
+  xy: 212, 101
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+x_2
+  rotate: false
+  xy: 91, 60
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xingd
+  rotate: false
+  xy: 175, 91
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+y_1
+  rotate: true
+  xy: 236, 101
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+y_2
+  rotate: false
+  xy: 2, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+y_3
+  rotate: false
+  xy: 47, 4
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+z_1
+  rotate: false
+  xy: 147, 72
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+z_2
+  rotate: false
+  xy: 117, 73
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+z_4
+  rotate: true
+  xy: 20, 4
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+z_5
+  rotate: false
+  xy: 79, 52
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 79, 94
+  size: 94, 32
+  orig: 94, 32
+  offset: 0, 0
+  index: -1

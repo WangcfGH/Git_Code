@@ -1,0 +1,33 @@
+{
+    "outgame1": {
+        "domain": "https://g.tcy365.com/",
+        "interface": "play2",
+        "gamecode": "cqllsy",
+        "channelid": "1000001204",
+        "horizontal": "1"
+    },
+    "outgame2": {
+        "domain": "https://g.tcy365.com/",
+        "interface": "play2",
+        "gamecode": "dslhsy",
+        "channelid": "1000001204",
+        "horizontal": "1"
+    },
+    "outgame3": {
+        "domain": "https://g.tcy365.com/",
+        "interface": "play2",
+        "gamecode": "myllsy",
+        "channelid": "1000001204",
+        "horizontal": "1"
+    },
+    "outgame4": {
+        "domain": "https://g.tcy365.com/",
+        "interface": "play2",
+        "gamecode": "rxhjsy",
+        "channelid": "1000001204",
+        "horizontal": "1"
+    }	
+}
+/*测试      https://g.tcy365.org:1507*/
+/*外网内测  https://g2.tcy365.com*/
+/*外网      https://g.tcy365.com*/

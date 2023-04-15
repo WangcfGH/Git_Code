@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yinzi_6bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{125,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz1d_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{137,4},{88,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{88,65}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz1_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,138},{125,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz2d_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{368,259},{118,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz2_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,272},{125,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz3d_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,401},{104,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{104,119}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz3_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,4},{125,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{125,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz4d_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{137,271},{122,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,107}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz4_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,4},{125,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{125,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz5d_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{252,271},{108,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,119}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz5_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{137,137},{125,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz6_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,406},{106,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{106,78}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz7_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{359,398},{107,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{107,114}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz6d_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{118,406},{106,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{106,78}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/CheckIn_IconDeposit/yz7d_bg_pic.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{270,137},{107,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{107,114}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CheckIn_IconDeposit.png</string>
+			<key>realTextureFileName</key>
+			<string>CheckIn_IconDeposit.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

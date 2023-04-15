@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00026.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00027.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,321},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00028.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,411},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00029.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{92,2},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00030.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{182,2},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00031.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{272,2},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00032.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{321,321},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00033.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{321,411},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00034.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{640,2},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00035.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{362,2},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00036.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{452,2},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00037.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{542,2},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00038.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{632,92},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00039.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{632,182},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00040.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{640,272},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_ennsg/ennsg_00041.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{640,362},{315,86}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,86}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Ani_ennsg.png</string>
+			<key>realTextureFileName</key>
+			<string>Ani_ennsg.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

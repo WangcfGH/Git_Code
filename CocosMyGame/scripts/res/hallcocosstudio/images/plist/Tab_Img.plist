@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_AboutUs_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,105},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_AboutUs_N.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,105},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{234,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,93}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_FAQ_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{348,105},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_FAQ_N.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,207},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_Feedback_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,207},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_Feedback_N.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{348,277},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_Items_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,309},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_Items_N.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,309},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_N.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{246,4},{234,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,93}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_PersonInfo_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,411},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_PersonInfo_N.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{176,411},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_Rules_F.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{348,449},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Tab_Img/Hall_Tab_Rules_N.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,513},{164,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{164,94}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Tab_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>Tab_Img.png</string>
+			<key>size</key>
+			<string>{512,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

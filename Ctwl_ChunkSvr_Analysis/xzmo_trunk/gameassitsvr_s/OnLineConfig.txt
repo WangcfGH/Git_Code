@@ -1,0 +1,32 @@
+{
+	"TaskID":886,
+	"WebID":"a1001",
+	"RewardSharedAddition":10,
+	"RewardCondition":100,
+	"RewardLimit":499,
+	"RewardUnit":10,
+	"RewardType":1,
+	"ConditionReward":[
+		{
+			"Condition":0,
+			"Reward":1
+		},
+		{
+			"Condition":3,
+			"Reward":3
+		},
+		{
+			"Condition":5,
+			"Reward":5
+		},
+		{
+			"Condition":10,
+			"Reward":8
+		},
+		{
+			"Condition":20,
+			"Reward":10
+		}
+		
+	]
+}

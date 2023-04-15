@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/Game_apply_star.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{425,1},{246,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{246,114}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{535,174},{29,64}}</string>
+				<key>offset</key>
+				<string>{-109,-21}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{484,175},{49,69}}</string>
+				<key>offset</key>
+				<string>{-99,-18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{246,180},{61,64}}</string>
+				<key>offset</key>
+				<string>{-84,-12}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{64,180},{60,69}}</string>
+				<key>offset</key>
+				<string>{-62,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{309,180},{58,66}}</string>
+				<key>offset</key>
+				<string>{-41,4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{369,180},{57,66}}</string>
+				<key>offset</key>
+				<string>{-20,5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{428,175},{54,65}}</string>
+				<key>offset</key>
+				<string>{1,6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{425,117},{56,67}}</string>
+				<key>offset</key>
+				<string>{24,5}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,180},{59,70}}</string>
+				<key>offset</key>
+				<string>{47,3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,180},{61,72}}</string>
+				<key>offset</key>
+				<string>{70,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,180},{57,70}}</string>
+				<key>offset</key>
+				<string>{90,-17}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{494,117},{35,64}}</string>
+				<key>offset</key>
+				<string>{101,-20}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/sl0014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{494,154},{18,50}}</string>
+				<key>offset</key>
+				<string>{110,-27}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{320,128}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_win/Succeed_img_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{422,177}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{422,177}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Arena_win.png</string>
+			<key>realTextureFileName</key>
+			<string>Arena_win.png</string>
+			<key>size</key>
+			<string>{672,253}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>672</integer>
+			<key>height</key>
+			<integer>253</integer>
+		</dict>
+	</dict>
+</plist>

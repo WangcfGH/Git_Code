@@ -2,9 +2,9 @@
 #include <process.h>
 #include <stdio.h>
 #include <tchar.h>
-#include "Lock.h"
+#include <mutex>
 
-CRITICAL_SECTION CIOCPServer::m_cs;
+std::recursive_mutex CIOCPServer::m_mtx;	// 互斥量
 
 CIOCPServer::CIOCPServer()
 {
@@ -24,11 +24,10 @@ CIOCPServer::~CIOCPServer()
 {
 }
 
-bool CIOCPServer::StartIOCP(NOTIFYPROC pNotifyProc, const UINT& nPort)
+bool CIOCPServer::StartIOCP(std::function<void(LPVOID, PER_IO_CONTEXT*, UINT)> fucNotifyProc, const UINT& nPort)
 {
 	m_nPort = nPort;
-	m_pNotifyProc = pNotifyProc;
-	InitializeCriticalSection(&m_cs);
+	m_pNotifyProc = fucNotifyProc;
 	
 	bool bRet = false;
 	do 
@@ -247,6 +246,7 @@ unsigned __stdcall CIOCPServer::ThreadPoolFunc(LPVOID lpParam)
 			break;
 
 		pIoContext = CONTAINING_RECORD(pOverlapped, PER_IO_CONTEXT, m_ol);
+		//((PER_IO_CONTEXT *)((PCHAR)(pOverlapped)-(ULONG_PTR)(&((PER_IO_CONTEXT *)0)->m_ol)))
 
 		if (!bRet)// 处理错误信息
 		{
@@ -367,7 +367,7 @@ bool CIOCPServer::OnAccept(PER_IO_CONTEXT* pIoContext)
 		MoveToFreeParamPool(pIocpParam);
 	}
 
-	CLock cs(m_cs, "OnAccept");
+	std::lock_guard<std::recursive_mutex> lck(m_mtx);
 
 	pIoContext->Clear();		// 再次初始化，便于再次利用
 	return PostAcceptEx(pIoContext);
@@ -391,7 +391,7 @@ bool CIOCPServer::OnClientAccept(PER_IO_CONTEXT* pIOContext, DWORD dwSize /*= 0*
 
 bool CIOCPServer::OnClientReading(PER_IO_CONTEXT* pIOContext, DWORD dwSize /*= 0*/)
 {
-	CLock cs(m_cs, "OnClientReading");
+	std::lock_guard<std::recursive_mutex> lck(m_mtx);
 	bool bRet = false;
 	try
 	{
@@ -490,7 +490,7 @@ bool CIOCPServer::AssociateSocketWithCompletionPort(SOCKET socket, DWORD dwCompl
 
 PER_IO_CONTEXT* CIOCPServer::AllocateClientIOContext()
 {
-	CLock cs(this->m_cs, "AllocateSocketContext");
+	std::lock_guard<std::recursive_mutex> lck(m_mtx);
 
 	PER_IO_CONTEXT* pIoContext = NULL;
 	if (!m_listFreeIoContext.empty())
@@ -516,7 +516,7 @@ PER_IO_CONTEXT* CIOCPServer::AllocateClientIOContext()
 
 IOCP_PARAM* CIOCPServer::AllocateIocpParam()
 {
-	CLock cs(m_cs, "AllocateIocpParam");
+	std::lock_guard<std::recursive_mutex> lck(m_mtx);
 
 	IOCP_PARAM* pIocpParam = NULL;
 	if (!m_listFreeIocpParam.empty())
@@ -539,7 +539,7 @@ IOCP_PARAM* CIOCPServer::AllocateIocpParam()
 
 VOID CIOCPServer::RemoveStaleClient(PER_IO_CONTEXT* pIoContext, BOOL bGraceful/*是否中止连接*/)
 {
-	CLock cs(m_cs, "RemoveStaleClient");
+	std::lock_guard<std::recursive_mutex> lck(m_mtx);
 
 	LINGER lingerStruct;
 
@@ -571,15 +571,14 @@ VOID CIOCPServer::RemoveStaleClient(PER_IO_CONTEXT* pIoContext, BOOL bGraceful/*
 
 		// 回调函数，发送退出消息
 		m_pNotifyProc(NULL, pIoContext, NC_CLIENT_DISCONNECT);
-
-		MoveToFreePool(pIoContext);
+		MoveToFreePool(pIoContext);		
 	}
 }
 
 
 VOID CIOCPServer::MoveToFreeParamPool(IOCP_PARAM* pIocpParam)
 {
-	CLock cs(m_cs, "MoveToFreeParamPool");
+	std::lock_guard<std::recursive_mutex> lck(m_mtx);
 
 	IocpParamList::iterator iter;
 	iter = find(m_listIocpParam.begin(), m_listIocpParam.end(), pIocpParam);
@@ -592,7 +591,7 @@ VOID CIOCPServer::MoveToFreeParamPool(IOCP_PARAM* pIocpParam)
 
 VOID CIOCPServer::MoveToFreePool(PER_IO_CONTEXT* pIoContext)
 {
-	CLock cs(m_cs, "MoveToFreePool");
+	std::lock_guard<std::recursive_mutex> lck(m_mtx);
 
 	IOContextList::iterator iter;
 	iter = find(m_listIoContext.begin(), m_listIoContext.end(), pIoContext);
@@ -607,9 +606,6 @@ VOID CIOCPServer::MoveToFreePool(PER_IO_CONTEXT* pIoContext)
 
 VOID CIOCPServer::ReleaseResource()
 {
-	// 删除关键段
-	DeleteCriticalSection(&m_cs);
-
 	// 释放 系统退出事件句柄
 	RELEASE_HANDLE(m_hShutDownEvent);
 

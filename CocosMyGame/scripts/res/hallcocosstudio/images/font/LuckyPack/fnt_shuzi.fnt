@@ -1,0 +1,28 @@
+﻿info face="fnt_shuzi" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=50 base=26 scaleW=256 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt_shuzi.png"
+chars count=22
+char id=48 x=90 y=50 width=29 height=40 xoffset=0 yoffset=10 xadvance=31 page=0 chnl=0 letter="0"
+char id=49 x=119 y=91 width=18 height=39 xoffset=0 yoffset=11 xadvance=20 page=0 chnl=0 letter="1"
+char id=50 x=118 y=211 width=26 height=39 xoffset=0 yoffset=11 xadvance=28 page=0 chnl=0 letter="2"
+char id=51 x=118 y=131 width=27 height=39 xoffset=0 yoffset=11 xadvance=29 page=0 chnl=0 letter="3"
+char id=52 x=47 y=0 width=29 height=40 xoffset=0 yoffset=10 xadvance=31 page=0 chnl=0 letter="4"
+char id=53 x=118 y=171 width=26 height=39 xoffset=0 yoffset=11 xadvance=28 page=0 chnl=0 letter="5"
+char id=54 x=90 y=131 width=27 height=40 xoffset=0 yoffset=10 xadvance=29 page=0 chnl=0 letter="6"
+char id=55 x=90 y=212 width=27 height=39 xoffset=0 yoffset=11 xadvance=29 page=0 chnl=0 letter="7"
+char id=56 x=90 y=172 width=27 height=39 xoffset=0 yoffset=11 xadvance=29 page=0 chnl=0 letter="8"
+char id=57 x=90 y=91 width=28 height=39 xoffset=0 yoffset=11 xadvance=30 page=0 chnl=0 letter="9"
+char id=20803 x=45 y=141 width=44 height=46 xoffset=0 yoffset=8 xadvance=46 page=0 chnl=0 letter="元"
+char id=36141 x=46 y=93 width=43 height=47 xoffset=0 yoffset=7 xadvance=45 page=0 chnl=0 letter="购"
+char id=20080 x=0 y=47 width=45 height=46 xoffset=0 yoffset=8 xadvance=47 page=0 chnl=0 letter="买"
+char id=25277 x=45 y=188 width=44 height=47 xoffset=0 yoffset=7 xadvance=46 page=0 chnl=0 letter="抽"
+char id=21462 x=0 y=0 width=46 height=46 xoffset=0 yoffset=8 xadvance=48 page=0 chnl=0 letter="取"
+char id=32418 x=0 y=94 width=45 height=46 xoffset=0 yoffset=7 xadvance=47 page=0 chnl=0 letter="红"
+char id=21253 x=0 y=141 width=44 height=47 xoffset=0 yoffset=7 xadvance=46 page=0 chnl=0 letter="包"
+char id=24320 x=0 y=189 width=44 height=46 xoffset=0 yoffset=8 xadvance=46 page=0 chnl=0 letter="开"
+char id=21551 x=90 y=0 width=43 height=49 xoffset=0 yoffset=6 xadvance=45 page=0 chnl=0 letter="启"
+char id=24050 x=46 y=47 width=43 height=45 xoffset=0 yoffset=8 xadvance=45 page=0 chnl=0 letter="已"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0

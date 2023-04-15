@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{403,201},{339,63}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{493,115},{400,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,768},{490,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,570},{567,97}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{567,112}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{570,1},{567,112}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,669},{567,97}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,115},{490,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,201},{400,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/11_00019.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,275},{339,63}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_baofen/Defeated_img_zi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{570,570},{321,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{567,142}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Arena_baofen.png</string>
+			<key>realTextureFileName</key>
+			<string>Arena_baofen.png</string>
+			<key>size</key>
+			<string>{683,892}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>683</integer>
+			<key>height</key>
+			<integer>892</integer>
+		</dict>
+	</dict>
+</plist>

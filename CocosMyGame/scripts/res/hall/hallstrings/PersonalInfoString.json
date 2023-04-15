@@ -1,0 +1,16 @@
+{
+    "male" :"男",
+    "female" : "女",
+    "ID":"同城游序号：",
+    "IP":"网络地址",
+    "backboxLabel":"后备箱银子",
+    "WIN_RATE":"%d%%(%d胜/%d负/%d平）",
+	"UPLOAD_SUCCESS":"头像上传成功",
+	"UPLOAD_FAILED":"头像上传失败",
+	"UNKOWN_FAILED":"未知的上传失败",
+    "PERSONALCENTER_QUDAO":"个人中心",
+	"BIND_OK":"绑定成功",
+	"SAFEBOX_DEPOSIT_CHARGE":0,
+	"GAME_DEPOSIT_CHARGE":1,
+	"B_WINRATE_SUPPORT":1
+}

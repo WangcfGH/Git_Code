@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/RakReward_Img/guoqing_jiangbei.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{419,419}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{419,419}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RakReward_Img/img_guang_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,425},{393,393}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{393,393}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RakReward_Img/img_hongchengbu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,822},{723,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{723,116}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RakReward_Img/img_xingxing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,942},{58,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{58,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RakReward_Img/img_shouji.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{63,942},{51,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,54}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>RankReward_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>RankReward_Img.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

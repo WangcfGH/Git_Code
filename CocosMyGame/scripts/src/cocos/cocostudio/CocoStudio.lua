@@ -3,10 +3,10 @@ if nil == ccs then
 end
 
 if not json then
-    require "cocos.cocos2d.json"
+    require "src.cocos.cocos2d.json"
 end
 
-require "cocos.cocostudio.StudioConstants"
+require "src.cocos.cocostudio.StudioConstants"
 
 function ccs.sendTriggerEvent(event)
     local triggerObjArr = ccs.TriggerMng.getInstance():get(event)

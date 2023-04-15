@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{807,1},{112,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,109}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{837,260},{120,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,107}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{708,290},{127,108}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{127,108}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{806,131},{127,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{127,110}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{573,290},{133,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{133,105}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{695,1},{128,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{128,110}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{691,162},{126,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{126,113}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{573,162},{126,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{126,116}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/liuguang0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{980,1},{42,41}}</string>
+				<key>offset</key>
+				<string>{-12,-13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,67}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/liuguang0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{918,62},{54,54}}</string>
+				<key>offset</key>
+				<string>{-6,-7}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,67}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/liuguang0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{918,1},{60,59}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,67}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/liuguang0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{918,118},{54,54}}</string>
+				<key>offset</key>
+				<string>{7,6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,67}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/liuguang0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{980,44},{41,41}}</string>
+				<key>offset</key>
+				<string>{13,13}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,67}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/skill016_hit_0000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{549,1},{144,159}}</string>
+				<key>offset</key>
+				<string>{-4,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{156,162}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/skill016_hit_0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,202},{198,195}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,198}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/skill016_hit_0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{199,198}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/skill016_hit_0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{201,1},{174,199}}</string>
+				<key>offset</key>
+				<string>{13,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/skill016_hit_0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{201,202},{174,199}}</string>
+				<key>offset</key>
+				<string>{13,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/skill016_hit_0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{377,1},{170,198}}</string>
+				<key>offset</key>
+				<string>{11,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{194,200}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shenfen/skill016_hit_0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{402,201},{169,184}}</string>
+				<key>offset</key>
+				<string>{9,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,186}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>shenfen.png</string>
+			<key>realTextureFileName</key>
+			<string>shenfen.png</string>
+			<key>size</key>
+			<string>{1023,399}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1023</integer>
+			<key>height</key>
+			<integer>399</integer>
+		</dict>
+	</dict>
+</plist>

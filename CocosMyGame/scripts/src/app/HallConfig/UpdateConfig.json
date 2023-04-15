@@ -1,0 +1,64 @@
+{
+	"UpdateConfig":
+	{
+		"ResourceServerDomain":"https://rmsyssvc.uc108.net",
+		"DebugResourceServerDomain":"http://rmsyssvc.uc108.org:1505",
+
+		"DownloadTimeOut":8
+	},
+
+	"UpdateString":
+	{
+		"UpdateTitle":"发现新版本",
+		"NetWorkStatus":"您当前正处于%s网络连接下",
+		"ChannelUpdate":"请您前去应用市场更新",
+		"TCYChannelUpdate":"请前往同城游进行更新",
+		"DownloadSize":"需下载文件大小: %0.2f%s",
+		"UpdateTips":"正在更新 %.2f%s/%.2f%s（%d%%）",
+		"UpdateCompleteTips":"下载完成 %.2f%s/%.2f%s（%d%%）",
+		"CheckTips":"正在校验文件",
+		"CheckComplete":"校验完毕，等待安装",
+		"Connecting":"正在连接服务器",
+		"DecompressTips":"正在解压",
+		"DecompressCompleteTips":"解压完毕",
+		"UpdateError":"更新出错",
+		"UpdateErrorTips":"更新出错，请检查您的网络连接。",
+		"CheckUpdateError":"检查更新失败",
+		"CheckUpdateErrorTips":"检查更新失败，请检查网络或联系客服。",
+		"CheckUpdateAbort":"放弃更新",
+		"PackageError":"包解析错误",
+		"PackageErrorTips":"安装包解析错误。",
+		"EnterGameWithoutNetwork":"无网进入游戏",
+		"UpdateBreak":"更新中断",
+		"UpdateContinueTip":"检测到您当前处于%s网络，还需下载%.2fM，是否继续？",
+		"Retry":"重试",
+		"Update":"更新",
+		"Cancel":"取消",
+		"OK":"确定",
+		"Quit":"退出游戏",
+		"Disconnection":"无连接",
+		"Unknow":"未知",
+		"Wifi":"无线",
+		"String2G":"2G",
+		"String3G":"3G",
+		"String4G":"4G",
+		"StringPhone":"2G/3G/4G",
+		"MB":"MB",
+		"KB":"KB"
+	},
+
+	"UpdateSceneConfig":
+	{
+		"AutoUpdateSize":2,
+		"CheckUpdateStay":0,
+		"UpdateTransition":"CROSSFADE",
+		"UpdateTransitionTime":1
+	},
+
+	"RequireFile":
+	{
+		"CHECKSCENE":"src.app.update.CheckScene",
+		"UPDATESCENE":"src.app.update.UpdateScene",
+		"MODEL":"src.app.update.UpdateModel"
+	}
+}

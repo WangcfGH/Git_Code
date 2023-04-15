@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/aleady_exchange.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{765,67},{103,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{103,33}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/flowers.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1034},{589,232}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{589,232}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/get_rightnow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{595,1258},{259,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{259,67}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/get_vocher1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{765,2},{105,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,61}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/get_vocher2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{618,715},{388,453}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{388,453}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/get_vocher3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{874,2},{140,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,38}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/light.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{759,709}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{759,709}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/open_package.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{595,1172},{267,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{267,82}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/small_vocher.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{962,86},{28,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{28,18}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/tips.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,715},{612,315}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{612,315}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/tommrow_login.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{451,1329},{270,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{270,33}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/vocher1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1270},{445,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,164}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/wait_exchange.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,86},{86,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,32}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/duihuanliquan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{874,44},{138,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,38}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/RedPack100Vocher/evetyday_login.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1438},{681,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{681,28}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>RedPack100Vocher.png</string>
+			<key>realTextureFileName</key>
+			<string>RedPack100Vocher.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,5 @@
+{
+	"exit":"退出",
+	"login_extra":"{\"Recommenderid\":\"123123\"}",
+	"pay_ext_args":"{\"platform_app_client_id\":\"100200\",\"product_subjest\":\"这是测试标题\",\"product_body\":\"这是测试描述\",\"platform_cooperate_way_id\":\"100002\"}"
+}

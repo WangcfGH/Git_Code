@@ -1,0 +1,19 @@
+info face="ººÒÇ´ÖºÚ¼ò" size=90 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=3,3,3,3 spacing=0,0
+common lineHeight=96 base=72 scaleW=1024 scaleH=128 pages=1 packed=0
+page id=0 file="shu.png"
+chars count=14
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=72    xadvance=51     page=0  chnl=0 
+char id=81   x=0     y=0     width=65     height=72     xoffset=1     yoffset=3    xadvance=72     page=0  chnl=0 
+char id=65   x=65     y=0     width=65     height=71     xoffset=1     yoffset=-5    xadvance=72     page=0  chnl=0 
+char id=74   x=130     y=0     width=53     height=71     xoffset=1     yoffset=3    xadvance=61     page=0  chnl=0 
+char id=56   x=183     y=0     width=46     height=71     xoffset=0     yoffset=3    xadvance=51     page=0  chnl=0 
+char id=55   x=229     y=0     width=43     height=71     xoffset=2     yoffset=3    xadvance=51     page=0  chnl=0 
+char id=54   x=272     y=0     width=45     height=71     xoffset=1     yoffset=3    xadvance=51     page=0  chnl=0 
+char id=53   x=317     y=0     width=45     height=71     xoffset=0     yoffset=3    xadvance=51     page=0  chnl=0 
+char id=75   x=362     y=0     width=60     height=70     xoffset=2     yoffset=0    xadvance=60     page=0  chnl=0 
+char id=57   x=422     y=0     width=43     height=70     xoffset=1     yoffset=3    xadvance=51     page=0  chnl=0 
+char id=52   x=465     y=0     width=47     height=70     xoffset=0     yoffset=3    xadvance=56     page=0  chnl=0 
+char id=51   x=512     y=0     width=45     height=70     xoffset=0     yoffset=3    xadvance=51     page=0  chnl=0 
+char id=50   x=557     y=0     width=44     height=70     xoffset=1     yoffset=1    xadvance=51     page=0  chnl=0 
+char id=49   x=601     y=0     width=31     height=70     xoffset=3     yoffset=-1    xadvance=40     page=0  chnl=0 
+char id=48   x=632     y=0     width=46     height=70     xoffset=0     yoffset=-1    xadvance=50     page=0  chnl=0 

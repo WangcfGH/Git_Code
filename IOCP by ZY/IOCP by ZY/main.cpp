@@ -1,5 +1,6 @@
 #include "IOCPServer.h"
 #include <iostream>
+#include <functional>
 using namespace std;
 
 CIOCPServer* pIOCP;
@@ -51,7 +52,9 @@ void CALLBACK NotifyProc(LPVOID lparam, PER_IO_CONTEXT* pIoContext, UINT uFlag)
 int main()
 {
 	pIOCP = new CIOCPServer;
-	pIOCP->StartIOCP(NotifyProc, 5850);
+	std::function<void(LPVOID lparam, PER_IO_CONTEXT* pIoContext, UINT uFlag)> pfuncNotifyProc(NotifyProc);
+	pIOCP->StartIOCP(pfuncNotifyProc, 5150);
+
 	char szIn[32];
 	while (1)
 	{

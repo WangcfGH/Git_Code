@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameSvr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mj\MjServer.cpp">
+      <Filter>mj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\mj\MjTable.cpp">
+      <Filter>mj</Filter>
+    </ClCompile>
+    <ClCompile Include="commonBase\CommonBaseServer.cpp">
+      <Filter>commonbase</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\commonbase\CommonBaseTable.cpp">
+      <Filter>commonbase</Filter>
+    </ClCompile>
+    <ClCompile Include="game.pb.cc">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\HttpClient.cpp">
+      <Filter>源文件\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\ItemSysHttpTool.cpp">
+      <Filter>源文件\common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\MsgRecorder.cpp">
+      <Filter>源文件\common</Filter>
+    </ClCompile>
+    <ClCompile Include="commonBase\LotteryDelegate.cpp">
+      <Filter>commonbase\lottery</Filter>
+    </ClCompile>
+    <ClCompile Include="commonBase\PropDelegate.cpp">
+      <Filter>commonbase\prop</Filter>
+    </ClCompile>
+    <ClCompile Include="commonBase\RankMatchDelegate.cpp">
+      <Filter>commonbase\rankmatch</Filter>
+    </ClCompile>
+    <ClCompile Include="commonBase\TaskDelegate.cpp">
+      <Filter>commonbase\task</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\mj\MJCalclator.cpp">
+      <Filter>mj\mjcalclator</Filter>
+    </ClCompile>
+    <ClCompile Include="DataRecord.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\dataloger\DataLoger.cpp">
+      <Filter>源文件\common\dataloger</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tool\ConTool.cpp">
+      <Filter>源文件\common\tool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tool\CThreadPool.cpp">
+      <Filter>源文件\common\tool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tool\WorkThread.cpp">
+      <Filter>源文件\common\tool</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogData.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="commonBase\TreasureDelegate.cpp">
+      <Filter>commonbase\treasure</Filter>
+    </ClCompile>
+    <ClCompile Include="MyRobot.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\DingTalkRobot.cpp">
+      <Filter>tcycomponents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\DumpUnhandleException.cpp">
+      <Filter>tcycomponents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\HttpSoapModule.cpp">
+      <Filter>tcycomponents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\MySvrInOut.cpp">
+      <Filter>tcycomponents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\TcyInputTest.cpp">
+      <Filter>tcycomponents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\TcyMsgCenter.cpp">
+      <Filter>tcycomponents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\TcySockClient.cpp">
+      <Filter>tcycomponents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\TcySockSvr.cpp">
+      <Filter>tcycomponents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\plana\component\Component.cpp">
+      <Filter>plana\component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\plana\thread_pool\EventPools.cpp">
+      <Filter>plana\threadpools</Filter>
+    </ClCompile>
+    <ClCompile Include="GameToChunkClient.cpp">
+      <Filter>commonbase\chunkclient</Filter>
+    </ClCompile>
+    <ClCompile Include="GameToChunklogClient.cpp">
+      <Filter>commonbase\chunklogclient</Filter>
+    </ClCompile>
+    <ClCompile Include="Predefine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="siphash.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="commonBase\PromptLine.cpp">
+      <Filter>commonbase\promptLine</Filter>
+    </ClCompile>
+    <ClCompile Include="commonBase\RobotPlayerDataDelegate.cpp">
+      <Filter>commonbase\RobotPlayerData</Filter>
+    </ClCompile>
+    <ClCompile Include="mj\FlauntBout.cpp">
+      <Filter>mj\flauntBout</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\mj\GameHuUnitsMaker.cpp">
+      <Filter>mj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\mj\MJHuUnitMake.cpp">
+      <Filter>mj</Filter>
+    </ClCompile>
+    <ClCompile Include="commonBase\SysMsgToServer.cpp">
+      <Filter>commonbase</Filter>
+    </ClCompile>
+    <ClCompile Include="mj\MJSysMsgToServer.cpp">
+      <Filter>mj</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\my\MyTbl.cpp">
+      <Filter>my</Filter>
+    </ClCompile>
+    <ClCompile Include="my\MyLotteryDelegate.cpp">
+      <Filter>my\lottery</Filter>
+    </ClCompile>
+    <ClCompile Include="my\MyPlayerInfoDelegate.cpp">
+      <Filter>my\playerInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="my\MyWxTaskDelegate.cpp">
+      <Filter>my\wxtask</Filter>
+    </ClCompile>
+    <ClCompile Include="my\MyTaskDelegate.cpp">
+      <Filter>my\task</Filter>
+    </ClCompile>
+    <ClCompile Include="my\MyServer.cpp">
+      <Filter>my</Filter>
+    </ClCompile>
+    <ClCompile Include="MySysMsgToServer.cpp">
+      <Filter>my</Filter>
+    </ClCompile>
+    <ClCompile Include="my\ResultRestore.cpp">
+      <Filter>my\resultrestore</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameSvr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mj\MjServer.h">
+      <Filter>mj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\mj\MjDef.h">
+      <Filter>mj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\mj\MjReq.h">
+      <Filter>mj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\mj\MjTable.h">
+      <Filter>mj</Filter>
+    </ClInclude>
+    <ClInclude Include="commonBase\CommonBaseServer.h">
+      <Filter>commonbase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\commonbase\CommonBaseReq.h">
+      <Filter>commonbase</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\commonbase\CommonBaseTable.h">
+      <Filter>commonbase</Filter>
+    </ClInclude>
+    <ClInclude Include="game.pb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\ItemSysHttpTool.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\BroadcastReq.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\CommonDef.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\CommonReq.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\DataRecordReq.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\HttpClient.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\LotteryReq.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Common\ModuleReq.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\MsgRecorder.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\ProjectDef.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\TaskReq.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="commonBase\LotteryDelegate.h">
+      <Filter>commonbase\lottery</Filter>
+    </ClInclude>
+    <ClInclude Include="commonBase\PropDelegate.h">
+      <Filter>commonbase\prop</Filter>
+    </ClInclude>
+    <ClInclude Include="commonBase\RankMatchDelegate.h">
+      <Filter>commonbase\rankmatch</Filter>
+    </ClInclude>
+    <ClInclude Include="commonBase\TaskDelegate.h">
+      <Filter>commonbase\task</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\mj\MJCalclator.h">
+      <Filter>mj\mjcalclator</Filter>
+    </ClInclude>
+    <ClInclude Include="DataRecord.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\dataloger\DataLoger.h">
+      <Filter>头文件\common\dataloger</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tool\ConTool.h">
+      <Filter>头文件\common\tool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tool\CThreadPool.h">
+      <Filter>头文件\common\tool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tool\Runable.h">
+      <Filter>头文件\common\tool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tool\WorkThread.h">
+      <Filter>头文件\common\tool</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLogData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\ExPlayerInfoReq.h">
+      <Filter>头文件\common</Filter>
+    </ClInclude>
+    <ClInclude Include="commonBase\TreasureDelegate.h">
+      <Filter>commonbase\treasure</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\TreasureReq.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyRobot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\RobotReq.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WxTaskReq.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\DingTalkRobot.h">
+      <Filter>tcycomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\DumpUnhandleException.h">
+      <Filter>tcycomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\HttpSoapModule.h">
+      <Filter>tcycomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\MySvrInOut.h">
+      <Filter>tcycomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\TcyInputTest.h">
+      <Filter>tcycomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\TcyMsgCenter.h">
+      <Filter>tcycomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\TcySockClient.h">
+      <Filter>tcycomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\TcySockSvr.h">
+      <Filter>tcycomponents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\plana\component\Component.h">
+      <Filter>plana\component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\plana\event\Event.h">
+      <Filter>plana\event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\plana\thread_pool\EventPools.h">
+      <Filter>plana\threadpools</Filter>
+    </ClInclude>
+    <ClInclude Include="GameToChunkClient.h">
+      <Filter>commonbase\chunkclient</Filter>
+    </ClInclude>
+    <ClInclude Include="GameToChunklogClient.h">
+      <Filter>commonbase\chunklogclient</Filter>
+    </ClInclude>
+    <ClInclude Include="siphash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="commonBase\PromptLine.h">
+      <Filter>commonbase\promptLine</Filter>
+    </ClInclude>
+    <ClInclude Include="commonBase\RobotPlayerDataDelegate.h">
+      <Filter>commonbase\RobotPlayerData</Filter>
+    </ClInclude>
+    <ClInclude Include="Predefine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mj\FlauntBout.h">
+      <Filter>mj\flauntBout</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\mj\GameHuUnitsMaker.h">
+      <Filter>mj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\mj\MJHuUnitMake.h">
+      <Filter>mj</Filter>
+    </ClInclude>
+    <ClInclude Include="commonBase\SysMsgToServer.h">
+      <Filter>commonbase</Filter>
+    </ClInclude>
+    <ClInclude Include="mj\MJSysMsgToServer.h">
+      <Filter>mj</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\my\MyDef.h">
+      <Filter>my</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\my\MyReq.h">
+      <Filter>my</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\my\MyTbl.h">
+      <Filter>my</Filter>
+    </ClInclude>
+    <ClInclude Include="my\MyLotteryDelegate.h">
+      <Filter>my\lottery</Filter>
+    </ClInclude>
+    <ClInclude Include="my\MyPlayerInfoDelegate.h">
+      <Filter>my\playerInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="my\MyTaskDelegate.h">
+      <Filter>my\task</Filter>
+    </ClInclude>
+    <ClInclude Include="my\MyWxTaskDelegate.h">
+      <Filter>my\wxtask</Filter>
+    </ClInclude>
+    <ClInclude Include="my\MyServer.h">
+      <Filter>my</Filter>
+    </ClInclude>
+    <ClInclude Include="MySysMsgToServer.h">
+      <Filter>my</Filter>
+    </ClInclude>
+    <ClInclude Include="my\ResultRestore.h">
+      <Filter>my\resultrestore</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{68d01d92-bc28-4ea5-bf48-ab346525fe53}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{a06c05c1-cab6-43f4-9a71-0ae41f2bd310}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="mj">
+      <UniqueIdentifier>{312c5e7a-e633-4fbc-8b1e-ee095cbb7006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{cbc8aed3-7d89-41f3-81a7-9d164874eddd}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="commonbase">
+      <UniqueIdentifier>{9b30be25-0409-4cdd-948a-e213a47b38ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\common">
+      <UniqueIdentifier>{3d9b4154-3750-4a4b-b537-f220b61296cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\common">
+      <UniqueIdentifier>{1a1cf869-eefc-4b79-b1aa-169fdf2ea6b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonbase\lottery">
+      <UniqueIdentifier>{33fa39b9-ab00-4e9b-b610-28272b2561c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonbase\prop">
+      <UniqueIdentifier>{acc109a3-1937-4709-a204-b1aeb5019342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonbase\rankmatch">
+      <UniqueIdentifier>{2beae1c6-db1d-4991-b80a-8385ad121f74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonbase\task">
+      <UniqueIdentifier>{a3b7708d-cbcb-4af1-81a6-ee985f021503}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mj\mjcalclator">
+      <UniqueIdentifier>{493acdab-2990-4932-a14c-3b371e2d6b36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\common\dataloger">
+      <UniqueIdentifier>{9910e2fb-cc50-46f0-b40f-9feff8ff8607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\common\tool">
+      <UniqueIdentifier>{d148b00f-62d1-4c80-a7f1-e462b631ff85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\common\dataloger">
+      <UniqueIdentifier>{6c916f2a-dbbd-4734-b865-393ab2715c50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\common\tool">
+      <UniqueIdentifier>{4032bac5-4695-49c4-afd3-9b7b8a378539}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonbase\treasure">
+      <UniqueIdentifier>{fac49123-7cce-4cb2-87e0-c5dba403cf21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tcycomponents">
+      <UniqueIdentifier>{d0a72caf-ac6e-4708-a6eb-8d1339f6a490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plana">
+      <UniqueIdentifier>{10602458-d1bf-4515-8328-d35f28cccf77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plana\component">
+      <UniqueIdentifier>{17cce59d-051e-43c8-9a5b-4c3858d29e49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plana\event">
+      <UniqueIdentifier>{f034f4af-540b-412d-9e62-85ecdf856063}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="plana\threadpools">
+      <UniqueIdentifier>{1d280592-7b67-426c-ac8f-0270b3196169}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonbase\promptLine">
+      <UniqueIdentifier>{91b07c7e-b7c5-4ef9-bda3-1761207c1989}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonbase\RobotPlayerData">
+      <UniqueIdentifier>{fbb11f3b-ece9-4443-a559-5a071796a3ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonbase\chunkclient">
+      <UniqueIdentifier>{c9dcd4c6-e71d-46d4-91f5-4283a19ccc40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="commonbase\chunklogclient">
+      <UniqueIdentifier>{14578f14-b3f8-42ac-8699-23ac456509f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mj\flauntBout">
+      <UniqueIdentifier>{c5152fbb-e643-48cf-8c96-accc04723514}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="my">
+      <UniqueIdentifier>{678965a7-b0c4-45a6-9d55-83db26affe47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="my\lottery">
+      <UniqueIdentifier>{958f0e45-91d9-4a4f-8574-fb41b0715b57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="my\task">
+      <UniqueIdentifier>{f958f1ec-3e97-48a3-ac99-0351897959d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="my\wxtask">
+      <UniqueIdentifier>{ff5d8250-67d5-415d-8b83-4b4a68bbf229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="my\playerInfo">
+      <UniqueIdentifier>{8b73969c-74ea-4e3c-96d0-da50fd20fb08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="my\resultrestore">
+      <UniqueIdentifier>{d9492abd-f5f2-4f40-8396-c106cf982f1a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="gameSvr.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

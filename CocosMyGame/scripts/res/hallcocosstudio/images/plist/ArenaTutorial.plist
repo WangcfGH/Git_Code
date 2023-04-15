@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{709,405}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{709,405}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_btn_direction.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{96,947},{65,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,69}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_btn_direction2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{165,947},{65,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,69}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_cartoon1-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,411},{178,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,250}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_cartoon1-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,665},{178,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,250}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_cartoon1-3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{700,732},{178,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,250}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_cartoon2-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,2},{244,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{244,264}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_cartoon2-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,250},{244,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{244,264}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_cartoon3-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,411},{244,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,264}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_cartoon3-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{250,411},{244,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{244,264}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_cartoon4-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{250,659},{244,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{244,264}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_cartoon4-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,679},{244,264}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,264}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_img_ji.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{700,498},{230,253}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{230,253}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_title1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{983,2},{129,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{129,35}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_title2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{983,135},{129,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{129,35}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_title3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{983,268},{129,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{129,35}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_title4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{983,401},{129,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{129,35}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ArenaTutorial/Guide_Next.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,947},{90,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{90,57}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ArenaTutorial.png</string>
+			<key>realTextureFileName</key>
+			<string>ArenaTutorial.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

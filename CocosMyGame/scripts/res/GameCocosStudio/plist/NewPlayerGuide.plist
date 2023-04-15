@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/NewPlayerGuide_Img/Img_Bubble.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,424},{245,159}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{245,159}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewPlayerGuide_Img/Img_Chick.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{342,418}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{342,418}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewPlayerGuide_Img/Img_Finger.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,673},{93,135}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{93,135}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>NewPlayerGuide.png</string>
+			<key>realTextureFileName</key>
+			<string>NewPlayerGuide.png</string>
+			<key>size</key>
+			<string>{346,810}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>346</integer>
+			<key>height</key>
+			<integer>810</integer>
+		</dict>
+	</dict>
+</plist>

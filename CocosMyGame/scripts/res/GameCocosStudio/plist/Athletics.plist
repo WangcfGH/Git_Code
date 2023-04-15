@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_btn_Richard card.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{122,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,56}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_btn_Richard card1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,128},{122,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,56}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_btn_Richard card2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,254},{122,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,56}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_btn_Richard card3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,380},{122,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,56}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_btn_Richard card4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,506},{122,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,56}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_btn_Richard chat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,632},{122,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,56}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_btn_Richard Reset.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,758},{122,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,56}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_img_Council.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,91},{70,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{70,32}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_img_love1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,261},{44,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,40}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_img_love2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{99,165},{44,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,40}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_img_total.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,187},{70,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{70,33}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_tiao_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,2},{67,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,85}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_tiaoX_bg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,91},{92,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{92,27}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Athletics/Athletics_btn_Richard autocomb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,884},{122,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{122,56}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Athletics.png</string>
+			<key>realTextureFileName</key>
+			<string>Athletics.png</string>
+			<key>size</key>
+			<string>{141,1008}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>141</integer>
+			<key>height</key>
+			<integer>1008</integer>
+		</dict>
+	</dict>
+</plist>

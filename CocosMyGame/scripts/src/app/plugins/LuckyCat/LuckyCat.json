@@ -1,0 +1,715 @@
+{
+	"ActID":1223,
+    "StartTime":20200401,
+    "RewardTime":20200601,
+    "EndTime":20200608,
+	"RwardBufferData":7,
+    "DividePeopleAddNum":[25, 35],
+    "DailyTask": [
+        {
+            "Title": "每日任务",
+            "TaskGroupList": [
+                {
+                    "GroupID": 1,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "登录游戏",
+                            "Condition": [
+                                {
+                                    "ConType": 1,
+                                    "ConValue": 1
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 1
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 2,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "分享游戏",
+                            "Condition": [
+                                {
+                                    "ConType": 2,
+                                    "ConValue": 1
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 1
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 3,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "惊喜夺宝",
+                            "Condition": [
+                                {
+                                    "ConType": 3,
+                                    "ConValue": 1
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 3
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 4,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "领取金银杯奖励",
+                            "Condition": [
+                                {
+                                    "ConType": 4,
+                                    "ConValue": 1
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 3
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 5,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "使用互动表情",
+                            "Condition": [
+                                {
+                                    "ConType": 5,
+                                    "ConValue": 1
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 3
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 6,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "经典场对局",
+                            "Condition": [
+                                {
+                                    "ConType": 6,
+                                    "ConValue": 2
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 5
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 7,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "不洗牌场对局",
+                            "Condition": [
+                                {
+                                    "ConType": 7,
+                                    "ConValue": 2
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 5
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 8,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "打出同花顺",
+                            "Condition": [
+                                {
+                                    "ConType": 8,
+                                    "ConValue": 10
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 10
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 9,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "头游",
+                            "Condition": [
+                                {
+                                    "ConType": 9,
+                                    "ConValue": 3
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 30
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 10,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "充值",
+                            "Condition": [
+                                {
+                                    "ConType": 10,
+                                    "ConValue": 1
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 50
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 11,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "经典大师房对局",
+                            "Condition": [
+                                {
+                                    "ConType": 11,
+                                    "ConValue": 2
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 80
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 12,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "不洗牌大师房对局",
+                            "Condition": [
+                                {
+                                    "ConType": 12,
+                                    "ConValue": 2
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 100
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "WelfareTask": [
+        {
+            "Title": "福利任务",
+            "TaskGroupList": [
+                {
+                    "GroupID": 101,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "实名认证",
+                            "Condition": [
+                                {
+                                    "ConType": 101,
+                                    "ConValue": 1
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 1
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 102,
+					"BeginID": 1,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "对局累计获胜",
+                            "Condition": [
+                                {
+                                    "ConType": 102,
+                                    "ConValue": 10
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 50
+                                }
+                            ],
+                            "NextID": 2
+                        },
+                        {
+                            "ID": 2,
+                            "Name": "对局累计获胜",
+                            "Condition": [
+                                {
+                                    "ConType": 102,
+                                    "ConValue": 20
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 60
+                                }
+                            ],
+                            "NextID": 3
+                        },
+                        {
+                            "ID": 3,
+                            "Name": "对局累计获胜",
+                            "Condition": [
+                                {
+                                    "ConType": 102,
+                                    "ConValue": 50
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 180
+                                }
+                            ],
+                            "NextID": 4
+                        },
+                        {
+                            "ID": 4,
+                            "Name": "对局累计获胜",
+                            "Condition": [
+                                {
+                                    "ConType": 102,
+                                    "ConValue": 100
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 300
+                                }
+                            ],
+                            "NextID": 5
+                        },
+                        {
+                            "ID": 5,
+                            "Name": "对局累计获胜",
+                            "Condition": [
+                                {
+                                    "ConType": 102,
+                                    "ConValue": 150
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 300
+                                }
+                            ],
+                            "NextID": 6
+                        },
+                        {
+                            "ID": 6,
+                            "Name": "对局累计获胜",
+                            "Condition": [
+                                {
+                                    "ConType": 102,
+                                    "ConValue": 200
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 300
+                                }
+                            ],
+                            "NextID": 7
+                        },
+                        {
+                            "ID": 7,
+                            "Name": "对局累计获胜",
+                            "Condition": [
+                                {
+                                    "ConType": 102,
+                                    "ConValue": 250
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 300
+                                }
+                            ],
+                            "NextID": 8
+                        },
+                        {
+                            "ID": 8,
+                            "Name": "对局累计获胜",
+                            "Condition": [
+                                {
+                                    "ConType": 102,
+                                    "ConValue": 300
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 300
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                },
+                {
+                    "GroupID": 103,
+					"BeginID": 1,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "累计充值",
+                            "Condition": [
+                                {
+                                    "ConType": 103,
+                                    "ConValue": 10
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 250
+                                }
+                            ],
+                            "NextID": 2
+                        },
+                        {
+                            "ID": 2,
+                            "Name": "累计充值",
+                            "Condition": [
+                                {
+                                    "ConType": 103,
+                                    "ConValue": 20
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 300
+                                }
+                            ],
+                            "NextID": 3
+                        },
+                        {
+                            "ID": 3,
+                            "Name": "累计充值",
+                            "Condition": [
+                                {
+                                    "ConType": 103,
+                                    "ConValue": 50
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 900
+                                }
+                            ],
+                            "NextID": 4
+                        },
+                        {
+                            "ID": 4,
+                            "Name": "累计充值",
+                            "Condition": [
+                                {
+                                    "ConType": 103,
+                                    "ConValue": 100
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 1500
+                                }
+                            ],
+                            "NextID": 5
+                        },
+                        {
+                            "ID": 5,
+                            "Name": "累计充值",
+                            "Condition": [
+                                {
+                                    "ConType": 103,
+                                    "ConValue": 200
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 3000
+                                }
+                            ],
+                            "NextID": 6
+                        },
+                        {
+                            "ID": 6,
+                            "Name": "累计充值",
+                            "Condition": [
+                                {
+                                    "ConType": 103,
+                                    "ConValue": 300
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 3000
+                                }
+                            ],
+                            "NextID": 0
+                        },
+                        {
+                            "ID": 7,
+                            "Name": "累计充值",
+                            "Condition": [
+                                {
+                                    "ConType": 103,
+                                    "ConValue": 500
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "RewardType": 15,
+                                    "RewardCount": 6000
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "BoxTask": [
+        {
+            "Title": "宝箱任务",
+            "TaskGroupList": [
+                {
+                    "GroupID": 201,
+                    "BeginID": 1,
+                    "TaskList": [
+                        {
+                            "ID": 1,
+                            "Name": "宝箱1",
+                            "Condition": [
+                                {
+                                    "ConType": 201,
+                                    "ConValue": 3
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "WebID": "a1001",
+                                    "RewardType": 1,
+                                    "RewardCount": 400
+                                }
+                            ],
+                            "NextID": 2
+                        },
+                        {
+                            "ID": 2,
+                            "Name": "宝箱2",
+                            "Condition": [
+                                {
+                                    "ConType": 201,
+                                    "ConValue": 6
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "WebID": "a1002",
+                                    "RewardType": 1,
+                                    "RewardCount": 600
+                                }
+                            ],
+                            "NextID": 3
+                        },
+                        {
+                            "ID": 3,
+                            "Name": "宝箱3",
+                            "Condition": [
+                                {
+                                    "ConType": 201,
+                                    "ConValue": 10
+                                }
+                            ],
+                            "Reward": [
+                                {
+                                    "WebID": "a1003",
+                                    "RewardType": 1,
+                                    "RewardCount": 2000
+                                }
+                            ],
+                            "NextID": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+	"DriedCatUpgradeMax":38,
+    "DriedCatUpgrade":[
+        {
+            "1":291,
+            "2":61,
+            "3":288,
+            "4":50,
+            "5":50,
+            "6":50,
+            "7":50,
+            "8":100,
+            "9":100,
+            "10":100,
+            "11":100,
+            "12":100,
+            "13":250,
+            "14":250,
+            "15":250,
+            "16":250,
+            "17":250,
+            "18":500,
+            "19":500,
+            "20":500,
+            "21":500,
+            "22":500,
+            "23":500,
+            "24":500,
+            "25":500,
+            "26":500,
+            "27":500,
+            "28":500,
+            "29":500,
+            "30":500,
+            "31":500,
+            "32":500,
+            "33":500,
+            "34":500,
+            "35":500,
+            "36":500,
+            "37":500,
+            "38":500
+        }
+    ],
+	"LuckyCatReward": [
+		{
+			"WebID": "a1004",
+            "RewardType": 1,
+            "RewardCount": 100
+		}
+    ],
+    "RoomType": [
+        {
+            "classic": [8136, 10321, 10163],
+            "nowash":[18148, 19015, 21040],
+            "classicMaster":[18934],
+            "nowashMaster":[21758]
+        }
+    ],
+    "RoomType_125": [
+        {
+            "classic": [2579, 2660, 2661, 7851, 7852, 7853, 11459, 11460, 11461],
+            "nowash":[7627, 7628, 10185, 11306, 11307, 11308, 11467, 11468, 11469],
+            "classicMaster":[8803, 7854, 11462],
+            "nowashMaster":[10560, 11309, 11470]
+        }
+    ],
+    "Channel": [
+        {
+            "open":[],
+            "close":[]
+        }
+    ],
+    "BroadCastShowGrade":[1,5,10,15]
+}

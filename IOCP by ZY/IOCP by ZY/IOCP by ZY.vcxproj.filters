@@ -18,9 +18,6 @@
     <ClInclude Include="IOCPServer.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Lock.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="Mapper.h">
       <Filter>头文件</Filter>
     </ClInclude>

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/anniui.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{197,74}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{197,74}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{203,2},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,80},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{397,2},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{591,2},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{785,2},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{196,81},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,159},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{390,81},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{584,81},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{778,81},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{196,160},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,238},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/PeakRankBtnAni/sg4_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{390,160},{190,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{190,75}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PeakRankBtnAni.png</string>
+			<key>realTextureFileName</key>
+			<string>PeakRankBtnAni.png</string>
+			<key>size</key>
+			<string>{977,315}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>977</integer>
+			<key>height</key>
+			<integer>315</integer>
+		</dict>
+	</dict>
+</plist>

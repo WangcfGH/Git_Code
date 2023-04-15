@@ -1,0 +1,160 @@
+
+ji.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji/g_00000
+  rotate: false
+  xy: 799, 347
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00001
+  rotate: false
+  xy: 878, 454
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00002
+  rotate: false
+  xy: 2, 44
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00003
+  rotate: false
+  xy: 64, 94
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00004
+  rotate: false
+  xy: 799, 305
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00005
+  rotate: false
+  xy: 878, 412
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00006
+  rotate: false
+  xy: 920, 454
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00007
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00008
+  rotate: false
+  xy: 106, 94
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00009
+  rotate: false
+  xy: 920, 412
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00010
+  rotate: false
+  xy: 962, 454
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00011
+  rotate: false
+  xy: 148, 94
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00012
+  rotate: false
+  xy: 962, 412
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/g_00013
+  rotate: false
+  xy: 190, 94
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+ji/han1
+  rotate: false
+  xy: 841, 354
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+ji/han2
+  rotate: false
+  xy: 44, 64
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+ji/ji
+  rotate: true
+  xy: 557, 274
+  size: 220, 240
+  orig: 220, 240
+  offset: 0, 0
+  index: -1
+ji/laba
+  rotate: false
+  xy: 799, 389
+  size: 77, 105
+  orig: 77, 105
+  offset: 0, 0
+  index: -1
+ji/san
+  rotate: false
+  xy: 2, 136
+  size: 294, 358
+  orig: 294, 358
+  offset: 0, 0
+  index: -1
+ji/san_s
+  rotate: false
+  xy: 298, 99
+  size: 283, 166
+  orig: 283, 166
+  offset: 0, 0
+  index: -1
+ji/ying
+  rotate: false
+  xy: 298, 267
+  size: 257, 227
+  orig: 257, 227
+  offset: 0, 0
+  index: -1
+ji/zba
+  rotate: false
+  xy: 2, 86
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1

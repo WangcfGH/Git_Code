@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dog-anim-run",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.15,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -332,
+            0
+          ],
+          "motionPath": [
+            [
+              -45,
+              210,
+              -171,
+              210,
+              102,
+              210
+            ]
+          ]
+        },
+        {
+          "frame": 0.15,
+          "value": [
+            221,
+            0
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

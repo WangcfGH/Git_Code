@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/NewMode/bg_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{173,624},{199,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{199,130}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewMode/bg_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,820},{209,139}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{209,139}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewMode/bg2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,624},{196,173}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{196,173}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewMode/btn_common.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,959},{158,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{158,56}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewMode/btn_cz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,754},{196,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{196,95}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewMode/btn_qr.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{304,754},{196,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{196,95}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewMode/bg_paixing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,959},{168,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{168,45}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewMode/rule_score.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{372,624},{94,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{94,90}</string>
+			</dict>
+			<key>GameCocosStudio/plist/NewMode/jisuscorerule.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1014,624}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1014,624}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>NewMode.png</string>
+			<key>realTextureFileName</key>
+			<string>NewMode.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

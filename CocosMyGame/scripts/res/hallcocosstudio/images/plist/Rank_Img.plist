@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Rank_Img/Rank_Ribbon1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{233,4},{94,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{94,65}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Rank_Img/Rank_Ribbon2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{221,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{221,116}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Rank_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>Rank_Img.png</string>
+			<key>size</key>
+			<string>{512,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

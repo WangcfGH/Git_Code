@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Connect/Connect_Text1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,129},{112,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,31}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Connect/Connect_Text2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,90},{12,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{12,12}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Connect/Connect_Wifi1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{39,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,114}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Connect/Connect_Wifi2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{54,5},{32,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,75}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Connect.png</string>
+			<key>realTextureFileName</key>
+			<string>Connect.png</string>
+			<key>size</key>
+			<string>{122,165}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>122</integer>
+			<key>height</key>
+			<integer>165</integer>
+		</dict>
+	</dict>
+</plist>

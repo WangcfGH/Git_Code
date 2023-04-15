@@ -1,0 +1,19 @@
+{
+    "GIFT_SILVER_COUNT":"%d银子",
+    "GIFT_TICKET_COUNT":"%d礼券",
+    "GIFT_DAY_1":"一",
+    "GIFT_DAY_2":"二",
+    "GIFT_DAY_3":"三",
+    "GIFT_DAY_4":"四",
+    "GIFT_DAY_5":"五",
+    "GIFT_DAY_6":"六",
+    "GIFT_DAY_7":"七",
+
+    "NEWPLAYER_GIFT_REDIS_ERROR":"redis错误",
+    "NEWPLAYER_GIFT_INDEX_INVALID":"对应天数没有奖励",
+    "NEWPLAYER_GIFT_JSON_PARSE_ERROR":"json解析错误",
+    "NEWPLAYER_GIFT_COUNT_ERROR":"物品数量错误",
+    "NEWPLAYER_GIFT_REWARDED":"今天已经领过礼包",
+    "NEWPLAYER_GIFT_SOAP_ERROR":"soap调用失败",
+    "NEWPLAYER_GIFT_INVALID_RESULT":"无效的返回结果"
+}

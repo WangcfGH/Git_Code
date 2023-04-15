@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Animation/shengji/01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{115,411},{108,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{838,364},{115,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,257},{121,112}}</string>
+				<key>offset</key>
+				<string>{0,-3}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{843,245},{117,119}}</string>
+				<key>offset</key>
+				<string>{-6,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,371},{109,113}}</string>
+				<key>offset</key>
+				<string>{-6,6}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,1},{136,134}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{853,1},{136,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{853,123},{131,120}}</string>
+				<key>offset</key>
+				<string>{-3,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,137},{126,118}}</string>
+				<key>offset</key>
+				<string>{0,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,411},{112,104}}</string>
+				<key>offset</key>
+				<string>{-5,-4}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{221,411},{87,83}}</string>
+				<key>offset</key>
+				<string>{3,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{306,411},{75,76}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,136}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/Upgrade_Light1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{408,408}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{416,416}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/shengji/Upgrade_Light2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{411,1},{416,302}}</string>
+				<key>offset</key>
+				<string>{0,4}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{416,416}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>shengji.png</string>
+			<key>realTextureFileName</key>
+			<string>shengji.png</string>
+			<key>size</key>
+			<string>{990,520}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>990</integer>
+			<key>height</key>
+			<integer>520</integer>
+		</dict>
+	</dict>
+</plist>

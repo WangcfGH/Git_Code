@@ -1,0 +1,33 @@
+local DailyRechargeDef = 
+{
+	GR_DAILY_RECHARGE_REQ_STATUS = (400000 + 3801),
+    GR_DAILY_RECHARGE_REQ_TAKE_AWARD = (400000 + 3802),
+	GR_DAILY_RECHARGE_PAY_SUCCEED = (400000 + 3803),
+	GR_DAILY_RECHARGE_TRIGGER_EVT =  (400000 + 3804),
+	GR_DAILY_RECHARGE_PURCHASE_EVT = (400000 + 3805),
+
+	ID_IN_ACTIVITY_CENTER = 106,
+
+    DAILY_RECHARGE_APPTYPE_AN_TCY = 1,
+	DAILY_RECHARGE_APPTYPE_AN_SINGLE = 2,
+	DAILY_RECHARGE_APPTYPE_AN_SET = 3,
+	DAILY_RECHARGE_APPTYPE_IOS_TCY = 4,
+    DAILY_RECHARGE_APPTYPE_IOS_SINGLE = 5,
+
+	ServiceClose = 'ServiceClose',          -- 服务端enbale为0,所有接口关闭
+    ServiceOK = 'ServiceOK',      
+
+	DAILY_RECHARGE_STATUS_RSP = 'DAILY_RECHARGE_STATUS_RSP',
+	DAILY_RECHARGE_UPDATE_REDDOT = 'DAILY_RECHARGE_UPDATE_REDDOT',
+	
+	REWARD_CANNOT_GET = 0,
+    REWARD_CAN_GET = 1,
+	REWARD_ALREADY_GET = 2,
+	
+	TakeFail = 'TakeFail',       
+    TaskNotComplete = 'TaskNotComplete',    
+    TaskRewarded = 'TaskRewarded',    
+    TakeSucceed = 'TakeSucceed',    
+}
+
+return DailyRechargeDef

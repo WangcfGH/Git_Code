@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{35b3dd13-11a6-4a93-aeed-ed8b393add55}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{e595e074-2d2c-4e31-88c8-7b437c0ec025}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{e4c996b0-efc0-461b-b9e3-4dfb571aad82}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="CommonFiles">
+      <UniqueIdentifier>{e0ebbfa8-9157-477a-a260-fa7e95e27995}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonFiles\plana">
+      <UniqueIdentifier>{297ac98c-a1d5-47c7-80b4-3087c702c218}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonFiles\plana\event">
+      <UniqueIdentifier>{1cbf3d3f-9b61-4674-9ddd-566ae72a61a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonFiles\plana\threadPools">
+      <UniqueIdentifier>{9e1fa805-6ea5-40ff-9871-a69a8f9719d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonFiles\plana\component">
+      <UniqueIdentifier>{18671d5d-c344-4fbf-9825-c2a68ee58621}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules">
+      <UniqueIdentifier>{c8768a89-8364-4678-946f-8cac969e7656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tcycomponent">
+      <UniqueIdentifier>{38f5f78b-df4d-46e8-93e9-4b69bda907b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CommonFiles\HttpClient">
+      <UniqueIdentifier>{7d380a70-5171-4fec-8118-a4bb9c672ff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChunkLogSocket">
+      <UniqueIdentifier>{430e398c-c347-429c-b4d7-adf6b57fe4ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Modules\DataRecord">
+      <UniqueIdentifier>{39705db7-6ca3-4a3c-8c7c-896693deec37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DbConnect">
+      <UniqueIdentifier>{7f0d6e72-a374-4f28-90e7-31a228cf6847}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DbConnect\DbConnectPool">
+      <UniqueIdentifier>{f094eaec-ac69-4833-b3c0-ea09f463c510}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\plana\component\Component.cpp">
+      <Filter>CommonFiles\plana\component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\plana\thread_pool\EventPools.cpp">
+      <Filter>CommonFiles\plana\threadPools</Filter>
+    </ClCompile>
+    <ClCompile Include="MainServer.cpp">
+      <Filter>ChunkLogSocket</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\HttpClient.cpp">
+      <Filter>CommonFiles\HttpClient</Filter>
+    </ClCompile>
+    <ClCompile Include="Predefine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\DingTalkRobot.cpp">
+      <Filter>tcycomponent</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\DumpUnhandleException.cpp">
+      <Filter>tcycomponent</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\TcyMsgCenter.cpp">
+      <Filter>tcycomponent</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\TcySockClient.cpp">
+      <Filter>tcycomponent</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\TcySockSvr.cpp">
+      <Filter>tcycomponent</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\tcycomponents\TcyInputTest.cpp">
+      <Filter>tcycomponent</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleSubClient.cpp">
+      <Filter>ChunkLogSocket</Filter>
+    </ClCompile>
+    <ClCompile Include="DataRecord.cpp">
+      <Filter>Modules\DataRecord</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\dbconnectpool\DBConnectPool.cpp">
+      <Filter>DbConnect\DbConnectPool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\dbconnectpool\TcyMySqlConnect.cpp">
+      <Filter>DbConnect\DbConnectPool</Filter>
+    </ClCompile>
+    <ClCompile Include="GameDbPool.cpp">
+      <Filter>DbConnect</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\CommonDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\CommonReq.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\plana\event\Event.h">
+      <Filter>CommonFiles\plana\event</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\plana\component\Component.h">
+      <Filter>CommonFiles\plana\component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\plana\thread_pool\EventPools.h">
+      <Filter>CommonFiles\plana\threadPools</Filter>
+    </ClInclude>
+    <ClInclude Include="MainServer.h">
+      <Filter>ChunkLogSocket</Filter>
+    </ClInclude>
+    <ClInclude Include="Predefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\HttpClient.h">
+      <Filter>CommonFiles\HttpClient</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\DingTalkRobot.h">
+      <Filter>tcycomponent</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\DumpUnhandleException.h">
+      <Filter>tcycomponent</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\TcyMsgCenter.h">
+      <Filter>tcycomponent</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\TcySockClient.h">
+      <Filter>tcycomponent</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\TcySockSvr.h">
+      <Filter>tcycomponent</Filter>
+    </ClInclude>
+    <ClInclude Include="ChunkDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\ProjectDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\tcycomponents\TcyInputTest.h">
+      <Filter>tcycomponent</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleSubClient.h">
+      <Filter>ChunkLogSocket</Filter>
+    </ClInclude>
+    <ClInclude Include="DataRecord.h">
+      <Filter>Modules\DataRecord</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\dbconnectpool\DBConnectPool.h">
+      <Filter>DbConnect\DbConnectPool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\dbconnectpool\TcyMySqlConnect.h">
+      <Filter>DbConnect\DbConnectPool</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDbPool.h">
+      <Filter>DbConnect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="gamechunklog.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

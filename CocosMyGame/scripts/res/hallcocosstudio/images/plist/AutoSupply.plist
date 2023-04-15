@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_btn_guan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{300,64},{132,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{132,51}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_btn_jia.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{211,173},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_btn_jian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{265,173},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_btn_kai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{156,64},{136,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,51}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_Deposit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{319,162},{42,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,31}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_quying_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{144,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_quying_bg_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{310,123},{43,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,31}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_shurukuang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{363,4},{72,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,34}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_taitou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,175},{199,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{199,52}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_taitou1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{156,4},{199,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{199,52}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_tishi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{156,123},{146,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{146,42}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AutoSupply/AutoSupply_xian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,235},{392,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{392,2}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AutoSupply.png</string>
+			<key>realTextureFileName</key>
+			<string>AutoSupply.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

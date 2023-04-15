@@ -1,0 +1,13 @@
+{
+    "code error":"录像码已过期",
+	"invaild code":"请输入完整的录像码",
+	"game mismatch":"不是本游戏的录像码",
+	"download error":"录像下载失败，请稍后再试",
+	"record uploading":"录像正在上传中，请重试",
+	"not install wechat":"没有安装微信",
+	"not support share":"微信版本过低，不支持分享",
+	"content":"请选择分享到：",
+	"title":"录像",
+	"shere success":"分享成功",
+	"share failed":"分享失败"
+}

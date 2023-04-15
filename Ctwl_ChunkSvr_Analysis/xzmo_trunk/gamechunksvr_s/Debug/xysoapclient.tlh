@@ -1,0 +1,109 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.00.24215.1 (1f520211).
+//
+// e:\wangcfgh\git_code\ctwl_chunksvr_analysis\xzmo_trunk\gamechunksvr_s\debug\xysoapclient.tlh
+//
+// C++ source equivalent of Win32 type library XYSoapClient.dll
+// compiler-generated file created 04/24/20 at 10:11:48 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace XYSOAPCLIENTLib {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("52f29144-a404-4071-913e-4306636abffc"))
+/* LIBID */ __XYSOAPCLIENTLib;
+struct /* coclass */ XYSoapClient;
+struct __declspec(uuid("56fdbc41-47d1-4175-8116-487b0cb069d7"))
+/* dual interface */ IXYSoapClient;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IXYSoapClient, __uuidof(IXYSoapClient));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("c377bde0-45c3-4eb8-bd80-52d442dc1558"))
+XYSoapClient;
+    // [ default ] interface IXYSoapClient
+
+struct __declspec(uuid("56fdbc41-47d1-4175-8116-487b0cb069d7"))
+IXYSoapClient : IDispatch
+{
+    //
+    // Wrapper methods for error-handling
+    //
+
+    long InitService (
+        _bstr_t WSDL,
+        _bstr_t ServiceName,
+        _bstr_t Port,
+        _bstr_t WSML );
+    long SetClientProperty (
+        _bstr_t PropName,
+        const _variant_t & PropValue );
+    long SetConnectorProperty (
+        _bstr_t PropName,
+        const _variant_t & PropValue );
+    _bstr_t GetLastError ( );
+    _variant_t InvokeMethod (
+        _bstr_t MethodName,
+        const _variant_t & Input1 = vtMissing,
+        const _variant_t & Input2 = vtMissing,
+        const _variant_t & Input3 = vtMissing,
+        const _variant_t & Input4 = vtMissing,
+        const _variant_t & Input5 = vtMissing );
+    _bstr_t SetSoapToolkitVersion (
+        _bstr_t sVersion );
+
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall raw_InitService (
+        /*[in]*/ BSTR WSDL,
+        /*[in]*/ BSTR ServiceName,
+        /*[in]*/ BSTR Port,
+        /*[in]*/ BSTR WSML,
+        /*[out,retval]*/ long * pOutput ) = 0;
+      virtual HRESULT __stdcall raw_SetClientProperty (
+        /*[in]*/ BSTR PropName,
+        /*[in]*/ VARIANT PropValue,
+        /*[out,retval]*/ long * pOutput ) = 0;
+      virtual HRESULT __stdcall raw_SetConnectorProperty (
+        /*[in]*/ BSTR PropName,
+        /*[in]*/ VARIANT PropValue,
+        /*[out,retval]*/ long * pOutput ) = 0;
+      virtual HRESULT __stdcall raw_GetLastError (
+        /*[out,retval]*/ BSTR * pOutput ) = 0;
+      virtual HRESULT __stdcall raw_InvokeMethod (
+        /*[in]*/ BSTR MethodName,
+        /*[in]*/ VARIANT Input1,
+        /*[in]*/ VARIANT Input2,
+        /*[in]*/ VARIANT Input3,
+        /*[in]*/ VARIANT Input4,
+        /*[in]*/ VARIANT Input5,
+        /*[out,retval]*/ VARIANT * pOutput ) = 0;
+      virtual HRESULT __stdcall raw_SetSoapToolkitVersion (
+        /*[in]*/ BSTR sVersion,
+        /*[out,retval]*/ BSTR * pOutput ) = 0;
+};
+
+//
+// Wrapper method implementations
+//
+
+#include "e:\wangcfgh\git_code\ctwl_chunksvr_analysis\xzmo_trunk\gamechunksvr_s\debug\xysoapclient.tli"
+
+} // namespace XYSOAPCLIENTLib
+
+#pragma pack(pop)

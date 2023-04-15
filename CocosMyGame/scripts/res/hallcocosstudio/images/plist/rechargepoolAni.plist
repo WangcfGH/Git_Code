@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{635,92},{147,87}}</string>
+				<key>offset</key>
+				<string>{-97,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,524},{187,86}}</string>
+				<key>offset</key>
+				<string>{-76,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,276},{226,86}}</string>
+				<key>offset</key>
+				<string>{-54,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{545,2},{267,86}}</string>
+				<key>offset</key>
+				<string>{-34,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{365,2},{308,86}}</string>
+				<key>offset</key>
+				<string>{-13,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{275,2},{322,86}}</string>
+				<key>offset</key>
+				<string>{-6,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{274,335},{328,86}}</string>
+				<key>offset</key>
+				<string>{-3,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{94,2},{329,87}}</string>
+				<key>offset</key>
+				<string>{-3,3}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{93,337},{330,87}}</string>
+				<key>offset</key>
+				<string>{-2,2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{331,88}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{364,328},{305,87}}</string>
+				<key>offset</key>
+				<string>{11,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{455,2},{270,86}}</string>
+				<key>offset</key>
+				<string>{27,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{545,273},{247,86}}</string>
+				<key>offset</key>
+				<string>{37,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{668,2},{288,86}}</string>
+				<key>offset</key>
+				<string>{16,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{337,667},{327,86}}</string>
+				<key>offset</key>
+				<string>{-4,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{185,2},{329,86}}</string>
+				<key>offset</key>
+				<string>{-5,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{184,335},{330,86}}</string>
+				<key>offset</key>
+				<string>{-5,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,337},{331,87}}</string>
+				<key>offset</key>
+				<string>{-6,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/line_00018.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,672},{331,87}}</string>
+				<key>offset</key>
+				<string>{-6,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/rechargepoolAni/liuguang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,763},{47,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,31}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>rechargepoolAni.png</string>
+			<key>realTextureFileName</key>
+			<string>rechargepoolAni.png</string>
+			<key>size</key>
+			<string>{958,796}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>958</integer>
+			<key>height</key>
+			<integer>796</integer>
+		</dict>
+	</dict>
+</plist>

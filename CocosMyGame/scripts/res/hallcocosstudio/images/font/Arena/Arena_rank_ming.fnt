@@ -1,0 +1,18 @@
+info face="Î¢ÈíÑÅºÚ Bold" size=44 bold=1 italic=1 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=5,5,5,5 spacing=4,4
+common lineHeight=73 base=47 scaleW=512 scaleH=128 pages=1 packed=0
+page id=0 file="Arena_rank_ming.png"
+chars count=13
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=47    xadvance=20     page=0  chnl=0 
+char id=57   x=0     y=0     width=38     height=46     xoffset=-1     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=56   x=38     y=0     width=40     height=46     xoffset=-2     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=55   x=78     y=0     width=41     height=46     xoffset=0     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=54   x=119     y=0     width=38     height=46     xoffset=-1     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=53   x=157     y=0     width=36     height=46     xoffset=-1     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=52   x=193     y=0     width=39     height=46     xoffset=-3     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=51   x=232     y=0     width=36     height=46     xoffset=-1     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=50   x=268     y=0     width=40     height=46     xoffset=-2     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=49   x=308     y=0     width=33     height=46     xoffset=-1     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=48   x=341     y=0     width=40     height=46     xoffset=-1     yoffset=7    xadvance=34     page=0  chnl=0 
+char id=58   x=381     y=0     width=24     height=36     xoffset=-3     yoffset=17    xadvance=20     page=0  chnl=0 
+char id=43   x=405     y=0     width=36     height=35     xoffset=2     yoffset=16    xadvance=41     page=0  chnl=0 
+char id=45   x=441     y=0     width=26     height=17     xoffset=-1     yoffset=26    xadvance=26     page=0  chnl=0 

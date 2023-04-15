@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_ben_eggdi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{293,960},{69,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,39}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_ben_iconbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{695,677},{134,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,134}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/text_arena_level_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{659,941},{197,46}}</string>
+				<key>offset</key>
+				<string>{0,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{209,52}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/text_arena_level_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{858,941},{197,46}}</string>
+				<key>offset</key>
+				<string>{0,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{209,52}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/text_arena_level_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{951,677},{195,46}}</string>
+				<key>offset</key>
+				<string>{1,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{209,52}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/text_arena_level_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1000,570},{196,46}}</string>
+				<key>offset</key>
+				<string>{1,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{209,52}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_ rankingBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,875},{290,112}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{290,112}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_img_titlezi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{293,875},{364,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{364,83}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/ranking_img_jianshang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{442,532},{118,133}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{127,145}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/ranking_img_jianxia.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{831,677},{118,134}}</string>
+				<key>offset</key>
+				<string>{0,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{127,145}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/ranking_ranking_tiao1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{894,371},{151,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{151,101}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/ranking_ranking_tiao2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{894,524},{151,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{151,101}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_ben_kuang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{1280,368}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1280,368}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_ben_kuang2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,818},{692,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{692,55}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_ben_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1057,371},{606,204}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{606,204}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_ben_titlebg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{695,371},{197,159}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{197,159}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_ben_zongfen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1000,768},{75,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{75,40}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_img_best.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{442,667},{80,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,91}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_guangbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,371},{445,439}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{445,439}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/athletics_noaward.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{659,875},{339,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{339,64}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/text_arena_level_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{695,813},{196,46}}</string>
+				<key>offset</key>
+				<string>{1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{209,52}</string>
+			</dict>
+			<key>GameCocosStudio/plist/ArenaOverStatement/text_arena_level_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1000,371},{197,46}}</string>
+				<key>offset</key>
+				<string>{0,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{209,52}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ArenaOverStatement.png</string>
+			<key>realTextureFileName</key>
+			<string>ArenaOverStatement.png</string>
+			<key>size</key>
+			<string>{1282,1000}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1282</integer>
+			<key>height</key>
+			<integer>1000</integer>
+		</dict>
+	</dict>
+</plist>

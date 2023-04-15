@@ -1,0 +1,100 @@
+{
+    "txtPhoneTitle": "%d元话费",
+	"txtScoreSuccess": "撒花！中奖啦！恭喜您获得%d积分！",
+	"txtSilverSuccess": "撒花！中奖啦！恭喜您获得%d两银子！",
+	"txtTicketSuccess": "撒花！中奖啦！恭喜您获得%d份礼券！",
+	"txtUnknowSuccess": "撒花！中奖啦！恭喜您获得%d份未知道具！",
+	"txtHFSuccess": "话费领取成功了，请注意查收！！",
+	"txtActivityClose": "抽奖活动结束啦，下一期活动很快就会到来啦，敬请期待吧！！",
+	"txtDataNotReady": "还未就绪，请稍等。",
+	"txtLastLotteryNotReturn": "请耐心等待抽奖结果哦！~",
+	"txtGetNothing": "很遗憾，您这次什么都没抽到哦，下次继续努力！~",
+	"txtTodayNoChance": "今日抽奖次数已经用完，明天继续加油哦！！",
+	"txtGotoShare": "抽奖次数用完，分享游戏到微信还能再获取抽奖机会哦！快去试试吧！",
+	"txtErrPhoneNum": "请正确输入手机号！！",
+	"txtServerErr": "服务器异常，抽奖失败，请换个时间段再试！",
+	"txtRulesText": "赠送说明：\n%s\n\n活动时间：%d~%d，千载难逢，不要错过！\n\n\n补充说明：\n赠送的抽奖次数仅当天有效，请及时使用。",
+	"txtRuleShare": "每日首次分享赠送1次抽奖机会",
+	"txtRuleClassic": "经典模式每玩%d局赠送一次抽奖机会，每日最多送%d次",
+	"txtRuleYQWJuShu": "一起玩每玩%d局赠送一次抽奖机会，每日最多送%d次",
+	"txtRuleYQWKaiFang": "一起玩每创%d次房并完成对局赠送一次抽奖机会，每日最多送%d次",
+	"GetText": "获得",
+	"txtTotal": "当日经典场累计局数%d局,还差%d局才能免费抽奖哦",
+	"txtYQWTotal": "当日一起玩累计局数%d局,还差%d局才能免费抽奖哦",
+	"txtYQWKfTotal": "当日一起玩累计开房%d次,还差%d次才能免费抽奖哦",
+	"maxLottryRecord": 20,
+	"PrizeType": [
+        {
+            "ID": 1,
+            "Unit": "两",
+            "Name": "银子",
+            "Image": "res/hall/hallpic/commonitems/commonitem3.png"
+        },
+        {
+            "ID": 2,
+            "Unit": "元",
+            "Name": "话费",
+            "Image": "res/hall/hallpic/commonitems/commonitem8.png"
+        },
+        {
+            "ID": 4,
+            "Unit": "个",
+            "Name": "道具",
+            "Image": "res/hall/hallpic/commonitems/commonitem6.png"
+        },
+        {
+            "ID": 6,
+            "Unit": "",
+            "Name": "积分",
+            "Image": "res/hall/hallpic/commonitems/commonitem4.png"
+        },
+        {
+            "ID": 8,
+            "Unit": "张",
+            "Name": "礼券",
+            "Image": "res/hall/hallpic/commonitems/commonitem1.png"
+        }
+    ],
+    "PrizeList": [
+        {
+            "TypeID": 8,
+            "PrizeNum": 5,
+            "StartAngle": 337.5
+        },
+        {
+            "TypeID": 2,
+            "PrizeNum": 1,
+            "StartAngle": 22.5
+        },
+        {
+            "TypeID": 8,
+            "PrizeNum": 10,
+            "StartAngle": 67.5
+        },
+        {
+            "TypeID": 2,
+            "PrizeNum": 2,
+            "StartAngle": 112.5
+        },
+        {
+            "TypeID": 8,
+            "PrizeNum": 30,
+            "StartAngle": 157.5
+        },
+        {
+            "TypeID": 2,
+            "PrizeNum": 10,
+            "StartAngle":202.5
+        },
+		{
+            "TypeID": 8,
+            "PrizeNum": 50,
+            "StartAngle": 247.5
+        },
+        {
+            "TypeID": 1,
+            "PrizeNum": 188,
+            "StartAngle": 292.5
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>common/common_btn/img_btn_close_dialog.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{301,52},{60,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,61}</string>
+			</dict>
+			<key>common/common_btn/img_btnbk_green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{195,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{195,79}</string>
+			</dict>
+			<key>common/common_btn/img_btnbk_yellow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{79,0},{195,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{195,79}</string>
+			</dict>
+			<key>common/common_btn/img_text_backbox.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,0},{111,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_cancel.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,151},{72,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_confirm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{301,113},{75,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_continue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{438,0},{70,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_exit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{438,38},{67,37}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_exitgame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{137,195},{138,37}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_noticed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,195},{137,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_recharge.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{361,0},{68,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_safebox.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,38},{105,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_seniorroom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,113},{102,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_submit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{378,188},{72,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_zhongjiroom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{275,193},{103,37}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_dashiroom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,151},{104,37}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_chujiroom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{158,76},{105,37}}</string>
+				<key>offset</key>
+				<string>{-2,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_zhizhunroom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{263,52},{104,38}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_text_zongshiroom.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{262,156},{104,37}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>common/common_btn/img_btn_report.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{275,0},{86,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,52}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>common_btn.png</string>
+			<key>realTextureFileName</key>
+			<string>common_btn.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

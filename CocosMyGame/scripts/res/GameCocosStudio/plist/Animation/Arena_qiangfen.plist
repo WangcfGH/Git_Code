@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Animation/Arena_qiangfen/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{437,406},{343,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{343,79}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_qiangfen/ability_up_002@2x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{437,1},{366,403}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{366,403}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_qiangfen/dazibao_002@2x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{539,434}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{539,434}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_qiangfen/mabifen@2x.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,542},{551,349}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{551,349}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/Arena_qiangfen/Succeed_img_zi2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{782,406},{321,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{321,59}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Arena_qiangfen.png</string>
+			<key>realTextureFileName</key>
+			<string>Arena_qiangfen.png</string>
+			<key>size</key>
+			<string>{842,892}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>842</integer>
+			<key>height</key>
+			<integer>892</integer>
+		</dict>
+	</dict>
+</plist>

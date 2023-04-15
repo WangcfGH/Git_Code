@@ -1,0 +1,21 @@
+info face="font_num_bill" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=52 base=26 scaleW=128 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="font_num_bill.png"
+chars count=15
+char id=48 x=31 y=92 width=29 height=50 xoffset=0 yoffset=3 xadvance=32 page=0 chnl=0 letter="0"
+char id=49 x=61 y=50 width=20 height=48 xoffset=0 yoffset=4 xadvance=23 page=0 chnl=0 letter="1"
+char id=50 x=45 y=0 width=27 height=49 xoffset=0 yoffset=3 xadvance=30 page=0 chnl=0 letter="2"
+char id=51 x=31 y=143 width=29 height=50 xoffset=0 yoffset=3 xadvance=32 page=0 chnl=0 letter="3"
+char id=52 x=0 y=43 width=31 height=48 xoffset=0 yoffset=4 xadvance=34 page=0 chnl=0 letter="4"
+char id=53 x=30 y=194 width=29 height=49 xoffset=0 yoffset=4 xadvance=32 page=0 chnl=0 letter="5"
+char id=54 x=0 y=92 width=30 height=50 xoffset=0 yoffset=3 xadvance=33 page=0 chnl=0 letter="6"
+char id=55 x=60 y=194 width=24 height=48 xoffset=0 yoffset=4 xadvance=27 page=0 chnl=0 letter="7"
+char id=56 x=0 y=194 width=29 height=50 xoffset=0 yoffset=3 xadvance=32 page=0 chnl=0 letter="8"
+char id=57 x=0 y=143 width=30 height=50 xoffset=0 yoffset=3 xadvance=33 page=0 chnl=0 letter="9"
+char id=44 x=32 y=50 width=9 height=16 xoffset=0 yoffset=42 xadvance=12 page=0 chnl=0 letter=","
+char id=46 x=0 y=245 width=10 height=10 xoffset=0 yoffset=42 xadvance=13 page=0 chnl=0 letter="."
+char id=20004 x=0 y=0 width=44 height=42 xoffset=0 yoffset=10 xadvance=47 page=0 chnl=0 letter="两"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=18 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=144 page=0 chnl=0 letter="	"
+
+kernings count=0

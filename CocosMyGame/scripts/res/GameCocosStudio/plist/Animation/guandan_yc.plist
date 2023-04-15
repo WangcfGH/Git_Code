@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{815,260},{133,90}}</string>
+				<key>offset</key>
+				<string>{-2,-153}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{284,131},{133,90}}</string>
+				<key>offset</key>
+				<string>{-2,-153}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{421,131},{133,90}}</string>
+				<key>offset</key>
+				<string>{-2,-153}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{284,225},{133,90}}</string>
+				<key>offset</key>
+				<string>{-2,-153}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{720,113},{149,91}}</string>
+				<key>offset</key>
+				<string>{-2,-152}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{909,383},{149,99}}</string>
+				<key>offset</key>
+				<string>{-2,-156}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{554,113},{162,103}}</string>
+				<key>offset</key>
+				<string>{2,-163}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{914,211},{168,102}}</string>
+				<key>offset</key>
+				<string>{1,-165}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{914,2},{205,101}}</string>
+				<key>offset</key>
+				<string>{1,-166}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{284,2},{266,125}}</string>
+				<key>offset</key>
+				<string>{-7,-163}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,870},{280,146}}</string>
+				<key>offset</key>
+				<string>{0,-163}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,468},{278,398}}</string>
+				<key>offset</key>
+				<string>{1,-37}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{278,462}}</string>
+				<key>offset</key>
+				<string>{0,-5}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{554,2},{263,107}}</string>
+				<key>offset</key>
+				<string>{2,-181}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Animation/guandan_yc/hj_ps0015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{821,2},{254,89}}</string>
+				<key>offset</key>
+				<string>{0,-185}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{280,472}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>guandan_yc.png</string>
+			<key>realTextureFileName</key>
+			<string>guandan_yc.png</string>
+			<key>size</key>
+			<string>{1018,1018}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1018</integer>
+			<key>height</key>
+			<integer>1018</integer>
+		</dict>
+	</dict>
+</plist>

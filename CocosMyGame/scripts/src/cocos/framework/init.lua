@@ -1,6 +1,6 @@
 --[[
 
-Copyright (c) 2014-2017 Chukong Technologies Inc.
+Copyright (c) 2011-2015 chukong-incc.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -29,31 +29,31 @@ printInfo("")
 printInfo("# DEBUG                        = " .. DEBUG)
 printInfo("#")
 
-device     = require("cocos.framework.device")
-display    = require("cocos.framework.display")
-audio      = require("cocos.framework.audio")
-transition = require("cocos.framework.transition")
+device     = require("src.cocos.framework.device")
+display    = require("src.cocos.framework.display")
+audio      = require("src.cocos.framework.audio")
+transition = require("src.cocos.framework.transition")
 
-require("cocos.framework.extends.NodeEx")
-require("cocos.framework.extends.SpriteEx")
-require("cocos.framework.extends.LayerEx")
-require("cocos.framework.extends.MenuEx")
+require("src.cocos.framework.extends.NodeEx")
+require("src.cocos.framework.extends.SpriteEx")
+require("src.cocos.framework.extends.LayerEx")
+require("src.cocos.framework.extends.MenuEx")
 
 if ccui then
-require("cocos.framework.extends.UIWidget")
-require("cocos.framework.extends.UICheckBox")
-require("cocos.framework.extends.UIEditBox")
-require("cocos.framework.extends.UIListView")
-require("cocos.framework.extends.UIPageView")
-require("cocos.framework.extends.UIScrollView")
-require("cocos.framework.extends.UISlider")
-require("cocos.framework.extends.UITextField")
+require("src.cocos.framework.extends.UIWidget")
+require("src.cocos.framework.extends.UICheckBox")
+require("src.cocos.framework.extends.UIEditBox")
+require("src.cocos.framework.extends.UIListView")
+require("src.cocos.framework.extends.UIPageView")
+require("src.cocos.framework.extends.UIScrollView")
+require("src.cocos.framework.extends.UISlider")
+require("src.cocos.framework.extends.UITextField")
 end
 
-require("cocos.framework.package_support")
+require("src.cocos.framework.package_support")
 
 -- register the build-in packages
-cc.register("event", require("cocos.framework.components.event"))
+cc.register("event", require("src.cocos.framework.components.event"))
 
 -- export global variable
 local __g = _G

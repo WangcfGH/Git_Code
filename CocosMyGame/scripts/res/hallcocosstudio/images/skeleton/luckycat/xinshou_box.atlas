@@ -1,0 +1,153 @@
+
+xinshou_box.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ds_glow001
+  rotate: false
+  xy: 601, 193
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+gaizi
+  rotate: true
+  xy: 2, 2
+  size: 280, 159
+  orig: 280, 159
+  offset: 0, 0
+  index: -1
+gaizi2
+  rotate: false
+  xy: 2, 284
+  size: 289, 226
+  orig: 289, 226
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 592, 13
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+hezi
+  rotate: false
+  xy: 565, 302
+  size: 270, 208
+  orig: 270, 208
+  offset: 0, 0
+  index: -1
+hezi2
+  rotate: false
+  xy: 293, 265
+  size: 270, 245
+  orig: 270, 245
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 484, 148
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+hudiejie1
+  rotate: true
+  xy: 163, 106
+  size: 176, 127
+  orig: 176, 127
+  offset: 0, 0
+  index: -1
+hudiejie2
+  rotate: true
+  xy: 601, 122
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+hudiejie3
+  rotate: false
+  xy: 163, 5
+  size: 114, 56
+  orig: 114, 56
+  offset: 0, 0
+  index: -1
+libao_glow
+  rotate: false
+  xy: 837, 360
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+lijuan1
+  rotate: false
+  xy: 837, 280
+  size: 156, 78
+  orig: 156, 78
+  offset: 0, 0
+  index: -1
+lijuan2
+  rotate: false
+  xy: 815, 218
+  size: 135, 60
+  orig: 135, 60
+  offset: 0, 0
+  index: -1
+lijuan3
+  rotate: false
+  xy: 706, 205
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+lijuan4
+  rotate: false
+  xy: 467, 62
+  size: 129, 84
+  orig: 129, 84
+  offset: 0, 0
+  index: -1
+sidai_l
+  rotate: false
+  xy: 292, 154
+  size: 190, 109
+  orig: 190, 109
+  offset: 0, 0
+  index: -1
+sidai_r
+  rotate: false
+  xy: 292, 36
+  size: 173, 116
+  orig: 173, 116
+  offset: 0, 0
+  index: -1
+xing_guang
+  rotate: false
+  xy: 598, 56
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 952, 227
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+yaodai_l
+  rotate: true
+  xy: 163, 63
+  size: 41, 127
+  orig: 41, 127
+  offset: 0, 0
+  index: -1
+yaodai_r
+  rotate: true
+  xy: 467, 20
+  size: 40, 123
+  orig: 40, 123
+  offset: 0, 0
+  index: -1

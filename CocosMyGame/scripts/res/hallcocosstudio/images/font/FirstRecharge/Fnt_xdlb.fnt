@@ -1,0 +1,22 @@
+﻿info face="Fnt_xdlb" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=95 base=26 scaleW=512 scaleH=256 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="Fnt_xdlb.png"
+chars count=16
+char id=48 x=187 y=0 width=51 height=88 xoffset=0 yoffset=8 xadvance=51 page=0 chnl=0 letter="0"
+char id=49 x=128 y=170 width=33 height=85 xoffset=0 yoffset=10 xadvance=33 page=0 chnl=0 letter="1"
+char id=50 x=134 y=82 width=52 height=87 xoffset=0 yoffset=8 xadvance=52 page=0 chnl=0 letter="2"
+char id=51 x=239 y=0 width=51 height=89 xoffset=0 yoffset=8 xadvance=51 page=0 chnl=0 letter="3"
+char id=52 x=80 y=82 width=53 height=86 xoffset=0 yoffset=9 xadvance=53 page=0 chnl=0 letter="4"
+char id=53 x=239 y=90 width=50 height=88 xoffset=0 yoffset=9 xadvance=50 page=0 chnl=0 letter="5"
+char id=54 x=290 y=90 width=49 height=89 xoffset=0 yoffset=7 xadvance=49 page=0 chnl=0 letter="6"
+char id=55 x=80 y=169 width=47 height=86 xoffset=0 yoffset=9 xadvance=47 page=0 chnl=0 letter="7"
+char id=56 x=187 y=89 width=51 height=89 xoffset=0 yoffset=8 xadvance=51 page=0 chnl=0 letter="8"
+char id=57 x=291 y=0 width=47 height=88 xoffset=0 yoffset=8 xadvance=47 page=0 chnl=0 letter="9"
+char id=20803 x=0 y=172 width=79 height=81 xoffset=0 yoffset=13 xadvance=79 page=0 chnl=0 letter="元"
+char id=37 x=80 y=0 width=74 height=81 xoffset=0 yoffset=11 xadvance=74 page=0 chnl=0 letter="%"
+char id=22810 x=0 y=86 width=79 height=85 xoffset=0 yoffset=9 xadvance=79 page=0 chnl=0 letter="多"
+char id=20493 x=0 y=0 width=79 height=85 xoffset=0 yoffset=9 xadvance=79 page=0 chnl=0 letter="倍"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0

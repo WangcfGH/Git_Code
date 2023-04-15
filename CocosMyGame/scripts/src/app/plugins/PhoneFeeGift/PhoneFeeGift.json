@@ -1,0 +1,13 @@
+{
+    "PFG_TOMORRWO_REWARD": "明天再来领取",
+    "PFG_ALEADY_REWARD": "您已经领取过奖励了",
+    "PFG_DEVICE_LIMIT": "同一台设备只允许三个用户参与活动",
+    "PFG_MID_BUBBLE_TIP": "银两场对局%d场\n(已完成%d场)",
+    "PFG_BUBBLE_HUAFEI": "集齐剩余%d张碎片\n可获得%d两银子",
+    "PFG_BUBBLE_GETREWARD": "点击下方按钮领取",
+   
+    "PFG_REWARD_SOAP_FAILED": "领奖失败,库存不足",
+    "PFG_REWARD_TIME_EXCEED": "领奖过期了",
+    "PFG_UNKNOWN_ERROR": "未知错误"
+
+}

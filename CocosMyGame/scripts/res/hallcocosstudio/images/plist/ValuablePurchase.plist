@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{834,140},{72,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,110}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/btn_ljgm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{613,2},{219,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{219,84}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/img_yigoumai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{613,90},{115,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,91}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/jiaobiao_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{613,192},{159,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{159,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/jiaobiao_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{613,232},{159,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{159,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/jiaobiao_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{776,254},{159,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{159,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/yeqian_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{836,2},{162,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,65}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/yeqian_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{836,71},{162,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,65}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/zs_kuang_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{607,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{607,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/zs_kuang_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,132},{607,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{607,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/zs_kuang_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,262},{607,126}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{607,126}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ValuablePurchase/btn_liangou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{732,90},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ValuablePurchase.png</string>
+			<key>realTextureFileName</key>
+			<string>ValuablePurchase.png</string>
+			<key>size</key>
+			<string>{1000,390}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1000</integer>
+			<key>height</key>
+			<integer>390</integer>
+		</dict>
+	</dict>
+</plist>

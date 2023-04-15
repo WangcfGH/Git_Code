@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czsg_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{104,251},{4,20}}</string>
+				<key>offset</key>
+				<string>{-42,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,26}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czsg_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{104,172},{19,23}}</string>
+				<key>offset</key>
+				<string>{-35,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,26}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czsg_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,150},{33,23}}</string>
+				<key>offset</key>
+				<string>{-28,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,26}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czsg_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{80,215},{38,22}}</string>
+				<key>offset</key>
+				<string>{-16,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,26}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czsg_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{66,110},{38,22}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,26}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czsg_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{30,215},{39,23}}</string>
+				<key>offset</key>
+				<string>{11,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,26}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czsg_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{55,215},{38,23}}</string>
+				<key>offset</key>
+				<string>{25,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,26}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czsg_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{101,147},{23,23}}</string>
+				<key>offset</key>
+				<string>{34,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,26}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czsg_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{104,228},{11,21}}</string>
+				<key>offset</key>
+				<string>{40,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,26}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czylhg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{107,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{107,105}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/jist.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,110},{63,63}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,69}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/jitouguan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,110},{35,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{39,24}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/jiyoushou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,215},{27,35}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{30,41}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/jizuos.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{104,197},{12,29}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,32}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/zp1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{118,197},{5,5}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{5,5}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/zp2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{117,228},{11,9}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{11,9}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/zp3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{117,241},{8,9}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{8,9}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/ButtonAni/czyl/czyl1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,175},{101,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{101,38}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>czyl.png</string>
+			<key>realTextureFileName</key>
+			<string>czyl.png</string>
+			<key>size</key>
+			<string>{127,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>127</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

@@ -5,13 +5,20 @@ model_local.tb = {1,2,3}
 
 function model_local:funcPub()
 	print("do model_local.funcPub")
-	--[[
 	local tb1 = self.tb
 	tb1[2] = 5
 	for k,v in pairs(self.tb) do
 		print(k,v)
 	end
-	--]]
+end
+
+function model_local:funcPubPrint()
+	print("do model_local.funcPubPrint")
+	local tb1 = self.tb
+	--tb1[2] = 5
+	for k,v in pairs(self.tb) do
+		print(k,v)
+	end
 end
 
 local function funcPri()

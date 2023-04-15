@@ -1,0 +1,799 @@
+{
+    "ID": "AdditionConfig",
+    "data": {
+        "functions": {
+            "deposit": {
+                "support": 1
+            },
+            "score": {
+                "support": 1
+            },
+            "share": {
+                "support": 0,
+                "supportByTcyChannel": { "1000001879": 0 },
+                "supportBySdkName": { "tcyapp": 1 },
+                "shareForGift": 2
+            },
+            "checkin": {
+                "support": 0
+            },
+            "relief": {
+                "support": 1,
+                "lowlimit": 2500,
+                "VideoAdSupport": 1,
+                "shopItemID":1,
+                "largerPrice":6,
+                "smallPrice":2,
+                "largerExchangID": 12951,
+                "smallExchangeID": 1,
+                "largeExtraSilver":55500,
+                "smallExtraSilver":16000,
+                "smallExtraSilverHeJi":10000,
+                "reliefSilver":3000
+            },
+            "exitgame": {
+                "support": 1
+            },
+            "safebox": {
+                "support": 1,
+                "NeedCheckCreateInfo": 0,
+                "NeedCheckCreateInfoByTcyChannel": {},
+                "CheckCreateStartDate": 20210622,
+                "SaveLimitConfig": {
+                    "EnableLimit": 0,
+                    "NPLevelLimit": 0,
+                    "TimesLimit": 100,
+                    "CountLimit": 1000000000
+                }
+            },
+            "backbox": {
+                "support": 0
+            },
+            "shop": {
+                "support": 1,
+                "tongbao": 1,
+                "exchange": 1
+            },
+            "exchange": {
+                "support": 1,
+                "realItem": {
+                    "support": 0
+                },
+                "phoneFee": {
+                    "support": 1,
+                    "supportBySdkName": { "duokusingle": 0 }
+
+                }
+            },
+            "tongbao": {
+                "support": 0
+            },
+            "vip": {
+                "support": 1
+            },
+            "firstrecharge": {
+                "support": 1
+            },
+            "limitTimeSpecial":{
+                "support":1
+            },
+            "shoptip": {
+                "support": 1
+            },
+            "bindphone": {
+                "support": 1,
+                "supportBySdkName": { "qh360": 0, "yingyongbao": 0, "cps": 0, "wandoujia": 0, "oppo": 0, "meizu": 0, "tiantian": 0, "duokusingle": 0, "msdk": 0, "ysdksingle": 0, "huawei": 0, "huawei_qipai": 0, "vivo": 0, "mi": 0, "uconline": 0, "uc": 0, "htc": 0, "yixin": 0, "nubia": 0, "vivo_online": 0, "samsung": 0 },
+                "modifyphone": {
+                    "support": 1
+                }
+            },
+            "modifyname": {
+                "support": 1
+            },
+            "modifynickname": {
+                "support": 1
+            },
+            "modifysex": {
+                "support": 1
+            },
+            "modifypassword": {
+                "support": 1,
+                "supportBySdkName": { "qh360": 0, "yingyongbao": 0, "cps": 0, "wandoujia": 0, "oppo": 0, "meizu": 0, "tiantian": 0, "duokusingle": 0, "msdk": 0, "ysdksingle": 0, "huawei": 0, "huawei_qipai": 0, "vivo": 0, "mi": 0, "uconline": 0, "uc": 0, "htc": 0, "yixin": 0, "nubia": 0, "vivo_online": 0, "samsung": 0 }
+            },
+            "issocial": {
+                "support": 0,
+                "sdkball": {
+                    "support": 0
+                },
+                "friend": {
+                    "support": 0,
+                    "supportBySdkName": { "tcy": 0, "ysdksingle": 0 }
+                },
+                "socialroom": {
+                    "support": 0,
+                    "supportBySdkName": { "ysdksingle": 0 }
+                }
+            },
+            "isyueleroom": {
+                "support": 0
+            },
+            "moregame": {
+                "support": 0
+            },
+            "realname": {
+                "support": 0
+            },
+            "antiaddiction": {
+                "support": 0
+            },
+            "switchaccount": {
+                "support": 1,
+                "supportByTcyChannel": { "1000000949": 0, "1000000950": 0, "1000000951": 0, "1000000952": 0, "1000000953": 0, "1000000954": 0, "1000000955": 0, "1000000956": 0, "1000001270": 0, "1000001388": 0, "1000001423": 0, "1000001458": 0, "1000001579": 0, "1000001621": 0, "1000001629": 0, "1000001691": 0, "1000001720": 0 },
+                "supportBySdkName": { "tcyappand": 0 }
+            },
+            "account_safe": {
+                "support": 1
+            },
+            "showloginwindowwhenfailed": {
+                "support": 0
+            },
+            "qqshow": {
+                "support": 0,
+                "qqstring": "官方群号：597295802"
+            },
+            "uploadheadicon": {
+                "support": 1,
+                "supportBySdkName": { "tcyappand": 0 }
+            },
+            "rollitem": {
+                "support": 0
+            },
+            "task": {
+                "support": 1
+            },
+            "ranking": {
+                "support": 0
+            },
+            "rankmatch": {
+                "support": 0
+            },
+            "invitegift": {
+                "support": 1
+            },
+            "goodFriendGiftInviteGift": {
+                "support": 1
+            },
+            "healthdescription": {
+                "support": 1,
+                "time": 1
+            },
+            "copyright": {
+                "time": 1,
+                "line": 4,
+                "reverseline1": "备案文号：文网游备字[2014]M-CBG129号",
+                "reverseline2": "著作权人：浙江畅唐网络股份有限公司 | 出版服务单位：宁波东海岸电子音像出版社 | 新广出审[2016]1882号 | ISBN 978-7-7979-0626-5",
+                "reverseline3": "抵制不良游戏  拒绝盗版游戏  注意自我保护  谨防受骗上当 适度游戏益脑  沉迷游戏伤身  合理安排时间  享受健康生活",
+                "reverseline4": "健康游戏忠告"
+            },
+            "useritems": {
+                "support": 0
+            },
+            "lognetstatus": {
+                "support": 1
+            },
+            "gameloguserstack": {
+                "support": 1
+            },
+            "ios_logsdk": {
+                "support": 1
+            },
+            "header_img_log": {
+                "support": 1
+            },
+            "auto_update_dbg_log": {
+                "support": 1,
+                "game_reconnect_count": 8,
+                "hall_reconnect_time": 5
+            },
+            "switch_2dgame_dialog": {
+                "support": 0
+            },
+            "dwc": {
+                "support": 0,
+                "depositlimit": 7000,
+                "supportByTcyChannel": {
+                    "171358907": 0,
+                    "172746577": 0,
+                    "170310299": 0,
+                    "172746430": 0,
+                    "100000175": 0,
+                    "1000001754": 0,
+                    "1000001757": 0,
+                    "1000001611": 0,
+                    "172833983": 0,
+                    "204276611": 0,
+                    "153845756": 0,
+                    "141151230": 0,
+                    "1000001610": 0,
+                    "154335943": 0,
+                    "153027926": 0,
+                    "153356128": 0,
+                    "139258030": 0,
+                    "138809594": 0,
+                    "152236752": 0,
+                    "151681286": 0,
+                    "140002297": 0,
+                    "1000001608": 0,
+                    "149283693": 0,
+                    "171359107": 0,
+                    "155836281": 0,
+                    "156500117": 0,
+                    "1000001607": 0,
+                    "1000001606": 0,
+                    "154983416": 0,
+                    "138809470": 0,
+                    "155018656": 0,
+                    "156830127": 0,
+                    "204276470": 0,
+                    "1000001612": 0,
+                    "140002328": 0,
+                    "155456053": 0,
+                    "1000001609": 0,
+                    "143136658": 0,
+                    "140002374": 0,
+                    "1000001591": 0,
+                    "133244680": 0,
+                    "1000001633": 0,
+                    "1000001634": 0,
+                    "1000001879": 0
+                },
+                "supportBySdkName": { "qh360": 0, "yingyongbao": 0, "cps": 0, "wandoujia": 0, "oppo": 0, "meizu": 0, "tiantian": 0, "duokusingle": 0, "msdk": 0, "ysdksingle": 0, "huawei": 0, "huawei_qipai": 0, "vivo": 0, "mi": 0, "uconline": 0, "uc": 0, "htc": 0, "yixin": 0, "nubia": 0, "vivo_online": 0, "samsung": 0 }
+            },
+            "novicepacks": {
+                "support": 1
+            },
+            "moregameconfig": {
+                "support": 0,
+                "recommand": 1,
+                "hallentrypicurl":"",
+                "comment":"panelType(1大按钮 2小按钮) 对应图片为picurl1和picurl2",
+                "panelType": 2,
+                "moregame_set": [
+                    {
+                        "customType": "webView",
+                        "gameCode": "cqllsy",
+                        "gameID": "7000082",
+                        "url":"https://lymix.tcy365.com/tcylianyun/login/4d4517bf192303d6?accesstoken=%s&userid=%s&appversion=%s&imei=%s&os=%s&tcychannelid=%s",
+                        "picurl1": "",
+                        "picurl2": "http://fdsimg.tcy365.net/news/ct0-909915a4-4121-456d-b02f-47c2cf99f03c.png",
+                        "recpicurl": ""
+                    },
+                    {
+                        "customType": "webView",
+                        "gameCode": "fszrsy",
+                        "gameID": "7000459",
+                        "url":"https://lymix.tcy365.com/tcylianyun/login/5605521640cb75e8?accesstoken=%s&userid=%s&appversion=%s&imei=%s&os=%s&tcychannelid=%s",
+                        "picurl1": "",
+                        "picurl2": "http://fdsimg.tcy365.net/news/ct0-bae3289d-6b9e-4118-888d-9cba0af592fb.png",
+                        "recpicurl": ""
+                    },
+                    {
+                        "customType": "webView",
+                        "gameCode": "djtxsy",
+                        "gameID": "7000237",
+                        "url":"https://lymix.tcy365.com/tcylianyun/login/8318b4b938bca9e8?accesstoken=%s&userid=%s&appversion=%s&imei=%s&os=%s&tcychannelid=%s",
+                        "picurl1": "",
+                        "picurl2": "http://fdsimg.tcy365.net/news/ct0-0f4c8427-66c7-40e6-9f49-2479e0de9b44.png",
+                        "recpicurl": ""
+                    },
+                    {
+                        "customType": "webView",
+                        "gameCode": "zycssy",
+                        "gameID": "7000370",
+                        "url":"https://lymix.tcy365.com/tcylianyun/login/8bef932e1cf9e112?accesstoken=%s&userid=%s&appversion=%s&imei=%s&os=%s&tcychannelid=%s",
+                        "picurl1": "",
+                        "picurl2": "http://fdsimg.tcy365.net/news/ct0-ca4344c7-8742-46d6-8ed8-9570e678cb8e.png",
+                        "recpicurl": ""
+                    },
+                    {
+                        "customType": "webView",
+                        "gameCode": "jpsgzsy",
+                        "gameID": "7000486",
+                        "url":"https://lymix.tcy365.com/tcylianyun/login/61b934c76d9b9bf7?accesstoken=%s&userid=%s&appversion=%s&imei=%s&os=%s&tcychannelid=%s",
+                        "picurl1": "",
+                        "picurl2": "http://fdsimg.tcy365.net/news/ct0-3a8b0608-d541-4ac2-b946-8f0cfb1545f0.png",
+                        "recpicurl": ""
+                    },
+                    {
+                        "customType": "webView",
+                        "gameCode": "sbkcqsy",
+                        "gameID": "7000231",
+                        "url":"https://lymix.tcy365.com/tcylianyun/login/f8fc0f505f12ad97?accesstoken=%s&userid=%s&appversion=%s&imei=%s&os=%s&tcychannelid=%s",
+                        "picurl1": "",
+                        "picurl2": "http://fdsimg.tcy365.net/news/ct0-61807a87-db12-4dcc-8ff6-fb56740fcdb0.png",
+                        "recpicurl": ""
+                    }
+                ]
+            },
+            "guidedownload": {
+                "support": 0
+            },
+            "userconvert": {
+                "support": 0
+            },
+
+            "limitTimeGift": {
+                "support": 0
+            },
+            "activityCenter": {
+                "support": 1
+            },
+            "monthCard": {
+                "support": 1
+            },
+            "newPlayerGift": {
+                "support": 1
+            },
+            "topRank": {
+                "support": 1
+            },
+            "rechargeActivity": {
+                "support": 1
+            },
+            "PPL": {
+                "support": 0,
+                "depositlimit": 5000
+            },
+            "goldegg":{
+                "support": 1
+            },
+            "goldSilver": {
+                "support": 1,
+                "tiplevel": 10,
+                "tipday": 0
+            },
+            "goldSilverCopy": {
+                "support": 1,
+                "tiplevelCopy": 10,
+                "tipdayCopy": 0,
+                "goldSilverCopyStartDate":[2021, 12, 5],
+                "goldSilverCopyEndDate":[2021, 12, 30]
+            },
+            "outlayGame": {
+                "support": 1,
+                "supportByTcyChannel": { "1000001879": 0 },
+                "boutLimit": 10
+            },
+            "legendCome": {
+                "support": 0
+            },
+            "customerService": {
+                "support": 1,
+                "supportBySdkName": { "mi": 0 }
+            },
+            "WinningStreak": {
+                "support": 0,
+                "needbout": 0
+            },
+            "telephonelabel": {
+                "support": 1,
+                "exchangenum": 20
+            },
+            "redpacket100": {
+                "support": 0,
+                "supportBySdkName": { "qh360": 1, "yingyongbao": 1, "cps": 1, "wandoujia": 1, "oppo": 1, "meizu": 1, "tiantian": 1, "duokusingle": 1, "msdk": 1, "ysdksingle": 1, "huawei": 1, "huawei_qipai": 1, "vivo": 1, "mi": 1, "uconline": 1, "uc": 1, "htc": 1, "yixin": 1, "nubia": 1, "vivo_online": 1, "samsung": 1 }
+            },
+            "nobilityprivilege": {
+                "support": 1
+            },
+            "nobilityprivilegegift": {
+                "support": 0
+            },
+            "luckycat": {
+                "support": 1
+            },
+            "adver": {
+                "support": 1,
+                "supportByTcyChannel": {"1000000851":1},
+                "supportBySdkName": {"qh360": 1,"yingyongbao": 1,"cps": 1,"wandoujia": 1,"oppo": 1,"meizu": 1,"tiantian": 1,"duokusingle": 1,"msdk": 1,"ysdksingle": 1,"huawei": 1,"huawei_qipai": 1,"vivo": 1,"mi": 1,"uconline": 1,"uc": 1,"htc": 1,"yixin": 1,"nubia": 1,"vivo_online": 1,"samsung": 1},
+                "room": {"2579": 1, "7627": 1,"9438": 1, "19754": 1,"18148": 1, "8136": 1},
+                "bout": {"1": 20, "2": 50, "3":20},
+                "InterStitialScene":{"201":1,"202":1,"203":1,"204":1,"205":1,"206":1},
+                "InterStitialLimit":{"201":100,"202":100,"203":-1,"204":-1,"205":-1,"206":-1},
+                "InterStitialPro":{"201":-1,"202":-1,"203":-1,"204":0,"205":-1,"206":-1},
+                "InterStitiaBout":{"201":1,"202":1,"203":1,"204":1,"205":1,"206":1},
+                "InterStitiaStandTime":{"201":3,"202":-1,"203":-1,"204":-1,"205":3,"206":3}
+            },
+            "quickstart":
+            {
+                "matchtype": 3,
+                "matchrandom": 50,
+                "roomdeposit_matchset":
+                {
+                    "7119":2,
+                    "7120":1.5,
+                    "7121":3,
+                    "7122":4,
+                    "10809":3,
+                    "10810":1.5,
+                    "10811":3,
+                    "10812":1.8,
+                    "2579":1,
+                    "2660":2,
+                    "2661":3,
+                    "8803":1,
+                    "7627":1,
+                    "7628":2,
+                    "10185":3,
+                    "10560":1.8,
+                    "8136":1,
+                    "10321":1.5,
+                    "10163":1.5,
+                    "18934":1.5,
+                    "18148":1,
+                    "19015":1.5,
+                    "21040":1.5,
+                    "21758":1.5
+                 }
+            },
+            "autosupply": {
+                "support": 1,
+                "supportByTcyChannel": { },
+                "supportBySdkName": { },
+                "room": {"11460": 1,"11463": 1,"11471": 1,"10813": 1, "10814": 0, "2579": 1, "2660": 1, "2661": 1, "8803": 1, "7627": 1, "7628": 1, "10185": 1, "10560": 1,"9438": 1,"9530": 1,"9439": 1, "19018": 1, "19754": 1, "19755": 1, "21204": 1, "21948": 1,"18148": 1,"19015": 1,"21040": 1, "21758": 1, "8136": 1, "10321": 1, "10163": 1, "18934": 1},
+                "ratio": { "11463": 1,"11471": 1,"10813": 1.3, "10814": 1.2, "2579": 1.2, "2660": 1.2, "2661": 1.2, "8803": 1.2, "7627": 1.2, "7628": 1.2, "10185": 1.2, "10560": 1.2,"9438": 1.2,"9530": 1.2,"9439": 1.2, "19018": 1.2, "19754": 1.2, "19755":1.2, "21204": 1.2, "21948": 1.2,"18148": 1.2,"19015": 1.2,"21040": 1.2, "21758": 1.2, "8136": 1.2, "10321": 1.2, "10163": 1.2, "18934": 1.2},
+                "depositlimit": 10000
+            },
+            "autoJumpRoom": {
+                "support": 1,
+                "supportByTcyChannel": { },
+                "supportBySdkName": { "tcyapp": 1 , "qh360": 0, "yingyongbao": 0, "cps": 0, "wandoujia": 0, "oppo": 0, "meizu": 0, "tiantian": 0, "duokusingle": 0, "msdk": 0, "ysdksingle": 0, "huawei": 0, "huawei_qipai": 0, "vivo": 0, "mi": 0, "uconline": 0, "uc": 0, "htc": 0, "yixin": 0, "nubia": 0, "vivo_online": 0, "samsung": 0 },
+                "normalroom": {"11459": 5000,"11460": 25000,"2579": 12000,"2660": 35000,"11463": 5000,"11464": 25000},
+                "nowashroom": {"11467": 12000,"11468": 35000,"7627": 12000,"7628": 35000,"11471": 12000,"11472": 35000},
+                "dashiroomdeposit":40000,
+                "nowashdashiroomdeposit":50000,
+                "normalroomsafe": {"11459": 5000,"11460": 25000,"2579": 12000,"2660": 35000,"11463": 5000,"11464": 25000},
+                "nowashroomsafe": {"11459": 5000,"11460": 25000,"2579": 12000,"2660": 35000,"11463": 5000,"11464": 25000}
+            },
+            "autosave": {
+                "support": 0,
+                "supportByTcyChannel": { },
+                "supportBySdkName": { }
+            },
+            "exchangemax": {
+                "defaultcount": 1,
+                "limit125":{"50元话费":1,"2元话费":1,"100元话费":1,"同城游银子2000两":5,"同城游银子5000两":5,"同城游银子5万两":5,"同城游银子20万两":5,"掼蛋记牌器-1天":999,"掼蛋记牌器-7天":999,"掼蛋记牌器-30天":999},
+                "limitzs":{"10元话费":1,"同城游银子2000两":5,"同城游银子5000两":5,"同城游银子1万两":5,"同城游银子5万两":5,"同城游银子20万两":5,"同城游银子50万两":5,"掼蛋记牌器-1天":999,"掼蛋记牌器-7天":999,"掼蛋记牌器-30天":999}
+            },
+            "exchangelottery": {
+                "readme":"用于判断买闪电是否送抽奖次数",
+                "support": 1
+            },
+            "bankruptcy": {
+                "support": 1
+            },
+            "dailyrecharge": {
+                "support": 1
+            },
+            "giftexchange": {
+                "support": 1
+            },
+            "weekCard": {
+                "support": 1,
+                "boutLimit": 5
+            },
+            "weekMonthSuperCard": {
+                "support": 1
+            },
+            "useMarkWithout": {
+                "support": 0,
+                "supportByTcyChannel": {}
+            },
+            "useMarkJd": {
+                "support": 0,
+                "supportByTcyChannel": {}
+            },
+            "HSoxPay": {
+                "support": 0,
+                "supportByTcyChannel": {}
+            },
+            "timingGame": {
+                "support": 1,
+                "entryType": 1,
+                "hallTips": [
+                    "开启“金/银杯”，每个阶段都能额外领银子，超级划算！",
+                    "话费赛获得的话费及其他奖励会通过邮件发放，请注意查看。",
+                    "话费赛每天12:00-18:00进行，真实话费直接送，可别错过哦~",
+                    "话费赛门票除了商城购买，还可通过对局获得，还等什么呢~",
+                    "提升贵族等级，购买银子可享额外加赠，还有其他特权等你领！"
+                ],
+                "getTicketWay": {
+                    "task" : 1,
+                    "deposit": 1,
+                    "rmb":1
+                },
+                "chaoGeRoomBg":0,
+                "chaoGeRoomBgByTcyChannel":{"100003":1,"1000002058":1, "1000002077":1},
+                "longQiRoomBg":0,
+                "longQiRoomBgByTcyChannel":{"100003":1,"1000002079":1, "1000002084":1},
+                "readme":"entryType:1话费赛,2定时赛",
+                "supportByTcyChannel": {},
+                "firstItemExchangeIDs":{"13628":4, "13629":4, "13630":4},
+                "broadCastTip":"话费赛已经开启，真实话费直接拿，赶紧去报名参加吧~",
+                "broadCastRepeatTimes":1,
+                "ticketEntranceSwitch":1,
+                "ticketTaskEntranceSwitch":1
+            },
+            "rechargepool" : {
+                "support": 1,
+                "rankupdateintervals" : 300,
+                "promoteNumTip":"200-2000"
+            },
+            "springFestivalView": {
+                "support": 1,
+                "startDate": 20201224,
+                "endDate": 20201225
+            },
+            "continuerecharge" : {
+                "support" : 1, 
+                "weak" : 1
+            },
+            "luckyPack": {
+                "support": 1,
+                "SpringFestival":0,
+                "supportByTcyChannel": {}
+            },
+            "autoPopCount": {
+                "support": 1,
+                "newPlayer":3,
+                "nomarlPlayer":5
+            },
+            "roomQuickRecharge" : {
+                "deposit" : {
+                    "comment" : "经典",
+                    "junior" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "middle" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "senior" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "master" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "supermaster" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "zongshi" : { "ios" : -1, "android" : -1, "heji" : -1}
+                },
+                "noshuffle" : {
+                    "comment" : "不洗牌",
+                    "junior" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "middle" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "senior" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "master" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "supermaster" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "zongshi" : { "ios" : -1, "android" : -1, "heji" : -1}
+                },
+                "jisu" : { 
+                    "comment" : "血战",
+                    "junior" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "quanming" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "senior" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "master" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "supermaster" : { "ios" : -1, "android" : -1, "heji" : -1},
+                    "zongshi" : { "ios" : -1, "android" : -1, "heji" : -1}
+                }
+            },
+            "DoubleExchange": {
+                "support": 1,
+                "DoubleExchangeStartDate":6,
+                "DoubleExchangeEndDate":7
+            },
+            "GuideComments": {
+                "support": 1,
+                "supportByTcyChannel": {"1000000851":1},
+                "guideCommentsMinBout":100,
+                "winningStreakBout":3,
+                "guideTip": "亲爱的玩家:\n  您好，现在前往应用市场搜索同城游掼蛋，五星好评+20字评论截图后返回【游戏大厅右下角】联系客服即可得1万银子。"
+            },
+            "WeakenScoreRoom": {
+                "AllChannelActive": false,
+                "ActiveChannelList": ["100003"]
+            },
+            "VivoVipActivity": {
+                "support": 0,
+                "supportByTcyChannel": {}
+            },
+            "loginlottery" : {
+                "support" : 1,
+                "applyVideoAd" : 1,
+                "applyVideoAdchannels" : {}
+            },
+            "watchvideotakereward" : {
+                "support" : 1
+            },
+            "HideJuniorRoom": {
+                "support": 1,
+                "supportByTcyChannel": {},
+                "mergeHideRoomID":7627,
+                "HideRoomID":11714,
+                "UserCountLimit":18
+            },
+            "HallAnchorInfo":{
+                "support": 0,
+                "supportByTcyChannel": {"1000002058":1, "1000002077":1, "1000002079":1, "1000002084":1},
+                "weixintitle":"",
+                "weixintitleByTcyChannel":{"1000002058":"超哥", "1000002077":"超哥", "1000002079":"龙崎", "1000002084":"龙崎"},
+                "weixinname":"",
+                "weixinnameByTcyChannel":{"1000002058":"hfcg222", "1000002077":"hfcg222", "1000002079":"17333076808", "1000002084":"17333076808"}
+            },
+            "HallAnchorPoster":{
+                "support": 0,
+                "supportByTcyChannel": {"100003":1,"1000002058":1, "1000002077":1, "1000002079":1, "1000002084":1},
+                "AnchorPosterNum":1,
+                "AnchorPosterNumByTcyChannel":{"100003":3,"1000002058":1, "1000002077":1, "1000002079":1, "1000002084":1},
+                "AnchorPosterName":["合肥超哥", "龙琦大V", "掼蛋测试"],
+                "AnchorPosterNameByTcyChannel":{"100003":["合肥超哥", "龙琦大V", "掼蛋测试"],"1000002058":["合肥超哥"], "1000002077":["合肥超哥"], "1000002079":["合肥超哥"], "1000002084":["合肥超哥"]},
+                "AnchorPosterTime":["每天19:00-22:00直播", "每天20:00-23:00直播", "每天21:00-24:00直播"],
+                "AnchorPosterTimeByTcyChannel":{"100003":["每天19:00-22:00直播", "每天20:00-23:00直播", "每天21:00-24:00直播"],"1000002058":["每天19:00-22:00直播"], "1000002077":["每天19:00-22:00直播"], "1000002079":["每天19:00-22:00直播"], "1000002084":["每天19:00-22:00直播"]},
+                "AnchorPosterUrl":["http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png", "http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png", "http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png"],
+                "AnchorPosterUrlByTcyChannel":{"100003":["http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png", "http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png", "http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png"],"1000002058":["http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png"], "1000002077":["http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png"], "1000002079":["http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png"], "1000002084":["http:\/\/fdsimgtest.tcy365.net\/news\/ct0-a68a0565-26a5-42f3-998d-29f4b3775187.png"]},
+                "AnchorID":["fatgada", "rfgafha1345", "gahffgj6846"],
+                "AnchorIDByTcyChannel":{"100003":["fatgada", "rfgafha1345", "gahffgj6846"],"1000002058":["fatgada"], "1000002077":["fatgada"], "1000002079":["fatgada"], "1000002084":["fatgada"]},
+                "WechatID":["illh458", "ioear465543", "sdgajop46513"],
+                "WechatByTcyChannel":{"100003":["illh458", "ioear465543", "sdgajop46513"],"1000002058":["illh458"], "1000002077":["illh458"], "1000002079":["illh458"], "1000002084":["illh458"]}
+            },
+            "HallAnchorRoom":{
+                "support": 0,
+                "supportByTcyChannel": {"100003":1,"1000002058":1, "1000002077":1, "1000002079":1, "1000002084":1},
+                "WarnningTip":"主播娱乐房仅供娱乐，请勿作他用",
+                "AnchorPlayerNum":3,
+                "AnchorPlayerNumByTcyChannel":{"100003":3,"1000002058":1, "1000002077":1, "1000002079":1, "1000002084":1},
+                "AnchorPlayerUseID":{"Anchor_1":[426437, 426508, 426509], "Anchor_2":[426510], "Anchor_3":[426511]},
+                "AnchorPlayerUseIDTcyChannel":{"100003":{"Anchor_1":[426437, 426508, 426509], "Anchor_2":[426510], "Anchor_3":[426511]},"1000002058":{"Anchor_1":[426513]}, "1000002077":{"Anchor_1":[426514]}, "1000002079":{"Anchor_1":[426515]}, "1000002084":{"Anchor_1":[426516]}},
+                "AnchorPlayerUseTableNO":{"Anchor_1":["1-2", "3-4", "5-6"], "Anchor_2":["7-8"], "Anchor_3":["9-10"]},
+                "AnchorPlayerUseTableNOTcyChannel":{"100003":{"Anchor_1":["1-2", "3-4", "5-6"], "Anchor_2":["7-8"], "Anchor_3":["9-10"]},"1000002058":{"Anchor_1":["11-12"]}, "1000002077":{"Anchor_1":["13-14"]}, "1000002079":{"Anchor_1":["15-16"]}, "1000002084":{"Anchor_1":["17-18"]}},                
+                "AnchorPlayerTime":{"Anchor_1":[14352000, 8352000, 14352000], "Anchor_2":[15002300], "Anchor_3":[16002300]},
+                "AnchorPlayerTimeTcyChannel":{"100003":{"Anchor_1":[14352000, 8352000, 14352000], "Anchor_2":[15002300], "Anchor_3":[16002300]},"1000002058":{"Anchor_1":[16002300]}, "1000002077":{"Anchor_1":[16002300]}, "1000002079":{"Anchor_1":[16002300]}, "1000002084":{"Anchor_1":[16002300]}}
+            },
+            "rechargeflopcard" : {
+                "support" : 1
+            },
+            "OpenTime" : {
+                "support" : 1,
+                "supportByTcyChannel": {},
+                "GameOpenTime":{"11778": 9002200,"11769": 9002200,"11779": 9002200,"11767": 9002200}
+            },
+            "CpsApp" : {
+                "support" : 0,
+                "supportByTcyChannel": {}
+            },
+            "GameMark" : {
+                "support" : 1,
+                "supportByTcyChannel": {}
+            },
+            
+            "PluginProcess": {
+                "support": 1,
+                "SupportPopPluginsDes": "以下为支持启动弹窗的插件，仅做参考配置",
+                "SupportPopPlugins": [
+                        "NewUserRewardPlugin:新手奖励",
+                        "NewPlayerGiftCtrl:登陆礼包",
+                        "OldUserInitGiftCtrl:鸿运当头",
+                        "NewUserInviteGiftCtrlEx:好友送礼",
+                        "NewUserInviteGiftCtrl:好友送礼",
+                        "ContinueRechargeCtrl:白送30元（连充活动）",
+                        "LuckyPackCtrl:幸运礼包",
+                        "LoginLotteryCtrl:每日抽奖",
+                        "FirstRecharge:超值首充",
+                        "GoldSilverCtrl:金银杯",
+                        "GoldSilverCtrlCopy:金银杯副本",
+                        "WeekCard:周月卡",
+                        "RechargeActivityCtrl:充值有礼",
+                        "ActivityCenterCtrl:活动公告",
+                        "ValuablePurchase:超值连购",
+                        "GratitudeRepayCtrl:感恩回馈",
+                        "MemberTransferCtrl：会员",
+                        "RechargePool：超级奖池",
+                        "redpackPluginName：可能是百元红包",
+                        "WeekMonthSuperCardCtrl:超级周月卡",
+                        "下面两个活动 安卓版可能不通用",
+                        "NewUserActivityCtrl:新版新手7天活动",
+                        "LimitTimeSpecial:特惠礼包"
+                ],
+
+                "NewUserPopPluginListDes": "以下配置为新玩家启动时指定弹出插件的顺序",
+                "NewUserPopPluginList": [
+                    "NewUserRewardPlugin",
+                    "NewUserInviteGiftCtrlEx",
+                    "NewUserInviteGiftCtrl"
+                ],
+
+                "NormalUserPopPluginListDes": "以下配置为普通玩家启动时指定弹出插件的顺序",
+                "NormalUserPopPluginList": [
+                    "NewPlayerGiftCtrl",
+                    "OldUserInitGiftCtrl",
+                    "NewUserInviteGiftCtrlEx",
+                    "NewUserInviteGiftCtrl",
+                    "ActivityCenterCtrl",
+                    "LuckyPackCtrl",
+                    "LoginLotteryCtrl"
+                ]
+            },
+            "NewUserReward": {
+                "support": 1
+            },
+            "AnchorLuckyBag": {
+                "support": 1
+            },
+            "ValuablePurchase": {
+                "support": 1
+            },
+            "GratitudeRepay": {
+                "support": 1
+            },
+            "JiSuRoom": {
+                "support": 1
+            },
+            "Team2V2Room": {
+                "support": 0,
+                "team2V2Share": 1,
+                "boutNumLock": 3,
+                "inviteExpire": 3600,
+                "shareObj": {
+                    "shareTo": "C2DXPlatTypeWeixiSession",
+                    "type":"C2DXContentTypeNews",
+                    "title": "【快来组队玩掼蛋】",
+                    "content": "你的好友正在邀请你一起组队玩掼蛋，带不带的动？！",
+                    "image":"https://fdsimg.tcy365.net/news/ct0-955615d7-f76f-458b-a47a-4e6a6037c762.png",
+                    "url":"http://tg.saiqu.net/zudui/index.html?"
+                },
+                "roomList":[ {
+                        "nRoomID":11876,
+                        "szTeamRoomName": "初级场",
+                        "nRoomLevel":1,
+                        "nLeastRank":5,
+                        "nEnterMin":10000,
+                        "nEnterMax":200000
+                    }, {
+                        "nRoomID":11877,
+                        "szTeamRoomName": "中级场",
+                        "nRoomLevel":2,
+                        "nLeastRank":9,
+                        "nEnterMin":25000,
+                        "nEnterMax":500000
+                    }, {
+                        "nRoomID":11878,
+                        "szTeamRoomName": "高级场",
+                        "nRoomLevel":3,
+                        "nLeastRank":13,
+                        "nEnterMin":50000,
+                        "nEnterMax":2000000000
+                    }
+                ]
+            },
+            "QRCodePay": {
+                "support": 0
+            },
+            "NewUserGuide": {
+                "support": 1,
+                "CheckCreateStartDate": 20211110,
+                "GuideBout": 3,
+                "CanSkip": 1
+            },
+            "Report": {
+                "support": 1,
+                "room": {"11767":1,"11595":1,"11779":1,"11594": 1,"10560":1, "8803": 1,"21758":1,"24140":1,"26153":1,"18934":1,"24139":1,"9533":1,"26152":1,"21948":1,"24118":1,"26113":1,"19018":1,"24117":1,"26112":1}
+            },
+            "PeakRank": {
+                "support": 1,
+                "RankListUpdateInterval": 300,
+                "TotalValueUpdateInterval": 10,
+                "AniLevelTbl": [0, 20, 40, 60, 80],
+                "RuleStrings": [
+                    "玩家通过对局等行为可参与当前各个排行项的排名竞争；",
+                    "各排行项均设置“今日”和“总榜”，“总榜”统计当前活动周期内的数据，一轮结束后立即开始下一轮；",
+                    "“今日”榜奖励会在次日0点发放，“总榜”奖励会在一轮结束后发放；",
+                    "奖励将通过邮件进行发放，请注意查收；",
+                    "排行榜仅统计玩家在【不洗牌】、【经典】、【竞技场】房间内产生的相关数据，其他房间不计入统计。"
+                ]
+            },
+            "ComonMpSvr": {
+                "support": 0
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+﻿*{ -webkit-user-select:none; -ms-touch-select:none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
+html, body, div, dl, dt, dd, span{ margin:0; padding:0; -webkit-text-size-adjust:none;}
+html{ width:100%; height:100%;font-size: 312.5%;line-height: 1.5;}
+body{ margin:0; padding:0; width:100%; height:100%; font-family:'Droidsansfallback', 'STHeiti', Helvetica, 'microsoft yahei'; font-size:0.24em;-webkit-touch-callout:none; -webkit-tap-highlight-color:rgba(0,0,0,0); -webkit-overflow-scrolling:touch; color:#fef2c3;}
+a, img{
+    /* 禁止用户在新窗口打开页面、如何禁止用户保存图片＼复制图片 for iOS */
+    -webkit-touch-callout:none;
+}
+
+
+p{font-size:0.36rem;}
+.GameRuleContent{position:relative;height:0%;width:100%;margin-left:0%;margin-top:0%;}
+
+.wrap{color:#b49b6a;padding: 0.4rem 0;}
+.wrap p{padding:0 0.38rem;font-size:0.32rem;margin:0;margin-bottom: 1em;}
+.wrap h2{color: #dd931e;padding:0 0.34rem;line-height: 0.8rem;margin: 0;font-size: 0.34rem;}
+.wrap .platform{font-size: 0.5rem;font-style: normal;margin-right: 0.08rem;}

@@ -1,0 +1,41 @@
+
+libaoheji.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hg
+  rotate: false
+  xy: 128, 18
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+images/lbhj
+  rotate: false
+  xy: 392, 96
+  size: 94, 27
+  orig: 94, 27
+  offset: 0, 0
+  index: -1
+images/libao
+  rotate: false
+  xy: 237, 47
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+images/niu_xing
+  rotate: false
+  xy: 2, 2
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1
+images/ying
+  rotate: false
+  xy: 306, 85
+  size: 84, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1

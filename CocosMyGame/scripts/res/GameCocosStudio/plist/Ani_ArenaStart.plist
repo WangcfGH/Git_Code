@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Ani_ArenaStart/Arena_Start_Blur.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{563,181}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{563,181}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Ani_ArenaStart/Arena_Start1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,187},{254,154}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{254,154}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Ani_ArenaStart/Arena_Start2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,187},{254,155}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{254,155}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Ani_ArenaStart/Arena_StartBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{569,2},{400,210}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{400,210}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Ani_ArenaStart/Arena_StartTurn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,216},{247,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{247,110}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Ani_ArenaStart.png</string>
+			<key>realTextureFileName</key>
+			<string>Ani_ArenaStart.png</string>
+			<key>size</key>
+			<string>{971,344}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>971</integer>
+			<key>height</key>
+			<integer>344</integer>
+		</dict>
+	</dict>
+</plist>

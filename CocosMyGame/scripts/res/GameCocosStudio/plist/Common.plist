@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Common/Hall_Btn_Close_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{186,130},{65,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,61}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Common/Hall_LackSilver.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,62},{268,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{268,64}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Common/Hall_MoreSilver.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{324,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{324,56}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Common/Hall_Subsidies.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{330,2},{294,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{294,60}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Common/Hall_Tips.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{274,62},{85,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{85,42}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Common/infoBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,130},{180,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{180,65}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Common.png</string>
+			<key>realTextureFileName</key>
+			<string>Common.png</string>
+			<key>size</key>
+			<string>{626,197}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>626</integer>
+			<key>height</key>
+			<integer>197</integer>
+		</dict>
+	</dict>
+</plist>

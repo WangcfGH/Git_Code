@@ -1,0 +1,15 @@
+﻿syntax = "proto2";
+package pbMemberTrans;
+
+//对应消息：GR_MEMBER_TRANS_MSG_REQ 和 GR_MEMBER_TRANS_GET_INFO
+//会员系统转换为贵族系统请求
+message memberTransInfo {
+    optional int32  userID         = 1;             //玩家ID
+    optional int32  platform       = 2;             //客户端请求字段 平台分为 1-安卓集成包，2-ios集成包, 3-合集包
+    optional int32  endDate        = 3;             //会员结束日期
+    optional int32  transStatus    = 4;             //转换状态 0--未转换 1--已转换
+	optional int32  memberRemainSeconds = 5;        //会员剩余时间(单位:秒)
+	optional int32  remainDays     = 6;             //会员剩余天数(单位：天)
+	optional int32  nobilityLevel  = 7;             //对应贵族等级
+	optional int32  transGainExperience  = 8;       //转换后获得的贵族经验
+}

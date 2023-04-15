@@ -1,0 +1,28 @@
+﻿info face=byhbl_sz_02" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=28 base=26 scaleW=128 scaleH=128 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="byhbl_sz_02.png"
+chars count=22
+char id=40 x=88 y=57 width=8 height=31 xoffset=0 yoffset=1 xadvance=8 page=0 chnl=0 letter="("
+char id=41 x=84 y=25 width=8 height=31 xoffset=0 yoffset=1 xadvance=8 page=0 chnl=0 letter=")"
+char id=47 x=74 y=75 width=13 height=25 xoffset=0 yoffset=4 xadvance=13 page=0 chnl=0 letter="/"
+char id=48 x=70 y=0 width=14 height=24 xoffset=0 yoffset=4 xadvance=14 page=0 chnl=0 letter="0"
+char id=49 x=74 y=101 width=9 height=25 xoffset=0 yoffset=3 xadvance=9 page=0 chnl=0 letter="1"
+char id=50 x=59 y=79 width=14 height=24 xoffset=0 yoffset=4 xadvance=14 page=0 chnl=0 letter="2"
+char id=51 x=69 y=50 width=14 height=24 xoffset=0 yoffset=4 xadvance=14 page=0 chnl=0 letter="3"
+char id=52 x=28 y=82 width=15 height=25 xoffset=0 yoffset=3 xadvance=15 page=0 chnl=0 letter="4"
+char id=53 x=70 y=25 width=13 height=24 xoffset=0 yoffset=4 xadvance=13 page=0 chnl=0 letter="5"
+char id=54 x=55 y=0 width=14 height=24 xoffset=0 yoffset=4 xadvance=14 page=0 chnl=0 letter="6"
+char id=55 x=55 y=25 width=14 height=24 xoffset=0 yoffset=4 xadvance=14 page=0 chnl=0 letter="7"
+char id=56 x=54 y=54 width=14 height=24 xoffset=0 yoffset=4 xadvance=14 page=0 chnl=0 letter="8"
+char id=57 x=44 y=82 width=14 height=25 xoffset=0 yoffset=4 xadvance=14 page=0 chnl=0 letter="9"
+char id=26377 x=28 y=0 width=26 height=27 xoffset=0 yoffset=2 xadvance=26 page=0 chnl=0 letter="有"
+char id=26426 x=0 y=56 width=27 height=27 xoffset=0 yoffset=2 xadvance=27 page=0 chnl=0 letter="机"
+char id=20250 x=28 y=54 width=25 height=27 xoffset=0 yoffset=2 xadvance=25 page=0 chnl=0 letter="会"
+char id=24471 x=0 y=28 width=27 height=27 xoffset=0 yoffset=2 xadvance=27 page=0 chnl=0 letter="得"
+char id=20803 x=28 y=28 width=26 height=25 xoffset=0 yoffset=4 xadvance=26 page=0 chnl=0 letter="元"
+char id=31036 x=0 y=84 width=27 height=27 xoffset=0 yoffset=2 xadvance=27 page=0 chnl=0 letter="礼"
+char id=21048 x=0 y=0 width=27 height=27 xoffset=0 yoffset=2 xadvance=27 page=0 chnl=0 letter="券"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=12 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=96 page=0 chnl=0 letter="	"
+
+kernings count=0

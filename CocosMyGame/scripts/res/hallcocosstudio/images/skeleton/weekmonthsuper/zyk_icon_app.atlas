@@ -1,0 +1,41 @@
+
+zyk_icon_app.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niu_xing
+  rotate: false
+  xy: 2, 2
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1
+yue
+  rotate: false
+  xy: 301, 49
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+zg
+  rotate: false
+  xy: 128, 18
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+zhou
+  rotate: false
+  xy: 237, 45
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 363, 85
+  size: 95, 38
+  orig: 95, 38
+  offset: 0, 0
+  index: -1

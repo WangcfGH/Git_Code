@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Report/btn_commit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{841,818},{183,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,71}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/check_is.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{941,889},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/check_no.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{841,710},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/common_bg_biaotou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{813,200},{314,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{314,68}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/common_bg_main_exam.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{813,532}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{813,532}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1013,0},{818,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{818,2}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/No.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{881,200},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/play_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{841,514},{196,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{196,66}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/tishi_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{813,514},{485,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{485,28}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/Yes.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{881,272},{72,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,72}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/common_bg_bai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{841,889},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Report/ItemIcon_Deposit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{813,0},{200,200}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Report.png</string>
+			<key>realTextureFileName</key>
+			<string>Report.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

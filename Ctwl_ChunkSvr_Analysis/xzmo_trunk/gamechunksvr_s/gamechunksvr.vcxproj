@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="ReleaseS125|Win32">
+      <Configuration>ReleaseS125</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="ReleaseS|Win32">
+      <Configuration>ReleaseS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <Keyword>MFCProj</Keyword>
+    <ProjectGuid>{946D241E-79AE-4261-898C-EBB4F5CAAFE8}</ProjectGuid>
+    <ProjectName>xzmoChunkSvr</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(VS_CTLibPath)module\ms;$(VS_CTLibPath)module\uwl.com;$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTNetlibPath);$(VS_CTLibPath)TcyCommon;$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)xyGame1.0;$(VS_CTLibPath)tcLog\include;$(VS_CTLibPath)mysql-connector-1.1.9\win32\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTLibPath)TcyCommon;$(VS_CTNetlibPath);$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)boost_1_62_0\stage\lib;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)mysql-connector-1.1.9\win32\lib\Release;$(VS_CTLibPath)tcLog\lib\Win32;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(VS_CTLibPath)module\ms;$(VS_CTLibPath)module\uwl.com;$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTNetlibPath);$(VS_CTLibPath)TcyCommon;$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)xyGame1.0;$(VS_CTLibPath)tcLog\include;$(VS_CTLibPath)mysql-connector-1.1.9\win32\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTLibPath)TcyCommon;$(VS_CTNetlibPath);$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)boost_1_62_0\stage\lib;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)tcLog\lib\Win32;$(VS_CTLibPath)mysql-connector-1.1.9\win32\lib\Release;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(VS_CTLibPath)module\ms;$(VS_CTLibPath)module\uwl.com;$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTNetlibPath);$(VS_CTLibPath)TcyCommon;$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)xyGame1.0;$(VS_CTLibPath)mysql-connector-1.1.9\win32\include;$(VS_CTLibPath)tcLog\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTLibPath)TcyCommon;$(VS_CTNetlibPath);$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0\stage\lib;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)mysql-connector-1.1.9\win32\lib\Debug;$(VS_CTLibPath)tcLog\lib\Win32;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PreprocessorDefinitions>UWL_TRACE;WIN32;_DEBUG;_CONSOLE;CPPCONN_LIB_BUILD;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <BrowseInformation>true</BrowseInformation>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <AdditionalIncludeDirectories>../common;../common/plana;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>/Zm115 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+    </ResourceCompile>
+    <Bscmake />
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>uwl-vc12d.lib;uwlnt-vc12d.lib;uwltrace-vc12d.lib;tcns-vc12d.lib;xyapi-vc12d.lib;jsoncpp-vc12d.lib;TcyCommon-vc12d.lib;tcRedis-vc12d.lib;libprotobufd.lib;tcElkInOut-vc12d.lib;mysqlcppconn.lib;tcLogD.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>UWL_SERVICE;WIN32;NDEBUG;_CONSOLE;CPPCONN_LIB_BUILD;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <BrowseInformation>true</BrowseInformation>
+      <MinimalRebuild>true</MinimalRebuild>
+      <AdditionalIncludeDirectories>../common;../common/plana;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>-Zm111 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+    </ResourceCompile>
+    <Bscmake />
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>uwl-vc12.lib;uwlnt-vc12.lib;uwltrace-vc12.lib;tcns-vc12.lib;xyapi-vc12.lib;jsoncpp-vc12.lib;TcyCommon-vc12.lib;tcRedis-vc12.lib;libprotobuf.lib;tcElkInOut-vc12.lib;tcLog.lib;mysqlcppconn-static.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PreprocessorDefinitions>_RS125;UWL_SERVICE;WIN32;NDEBUG;_CONSOLE;CPPCONN_LIB_BUILD;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <WarningLevel>Level3</WarningLevel>
+      <BrowseInformation>true</BrowseInformation>
+      <MinimalRebuild>true</MinimalRebuild>
+      <AdditionalIncludeDirectories>../common;../common/plana;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <Optimization>Disabled</Optimization>
+      <AdditionalOptions>-Zm111 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+    </ResourceCompile>
+    <Bscmake />
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>uwl-vc12.lib;uwlnt-vc12.lib;uwltrace-vc12.lib;tcns-vc12.lib;xyapi-vc12.lib;jsoncpp-vc12.lib;TcyCommon-vc12.lib;tcRedis-vc12.lib;libprotobuf.lib;tcElkInOut-vc12.lib;tcLog.lib;mysqlcppconn-static.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\common\dbconnectpool\DBConnectPool.cpp" />
+    <ClCompile Include="..\common\dbconnectpool\TcyMySqlConnect.cpp" />
+    <ClCompile Include="..\common\dbconnectpool\TcySqlSvrConnect.cpp" />
+    <ClCompile Include="..\common\HttpClient.cpp" />
+    <ClCompile Include="..\common\plana\component\Component.cpp" />
+    <ClCompile Include="..\common\plana\thread_pool\EventPools.cpp" />
+    <ClCompile Include="..\common\tcycomponents\DingTalkRobot.cpp" />
+    <ClCompile Include="..\common\tcycomponents\DumpUnhandleException.cpp" />
+    <ClCompile Include="..\common\tcycomponents\MySvrInOut.cpp" />
+    <ClCompile Include="..\common\tcycomponents\TcyInputTest.cpp" />
+    <ClCompile Include="..\common\tcycomponents\TcyMsgCenter.cpp" />
+    <ClCompile Include="..\common\tcycomponents\TcySockClient.cpp" />
+    <ClCompile Include="..\common\tcycomponents\TcySockSvr.cpp" />
+    <ClCompile Include="..\pb\TestPbModule\TestPbModule.pb.cc">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="BroadToMobile.cpp" />
+    <ClCompile Include="GameDBConnectPool.cpp" />
+    <ClCompile Include="PlayerLogon.cpp" />
+    <ClCompile Include="SimpleSubClient.cpp" />
+    <ClCompile Include="PlayerInfoModule.cpp" />
+    <ClCompile Include="Predefine.cpp" />
+    <ClCompile Include="MainServer.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="RobotPlayerData.cpp" />
+    <ClCompile Include="StdAfx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="TaskModule.cpp" />
+    <ClCompile Include="TestPbModule.cpp" />
+    <ClCompile Include="TreasureModule.cpp" />
+    <ClCompile Include="WxTaskModule.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\common\BroadcastReq.h" />
+    <ClInclude Include="..\common\CommonDef.h" />
+    <ClInclude Include="..\common\CommonReq.h" />
+    <ClInclude Include="..\common\dbconnectpool\DBConnectPool.h" />
+    <ClInclude Include="..\common\dbconnectpool\TcyMySqlConnect.h" />
+    <ClInclude Include="..\common\dbconnectpool\TcySqlSvrConnect.h" />
+    <ClInclude Include="..\common\ExPlayerInfoReq.h" />
+    <ClInclude Include="..\common\HttpClient.h" />
+    <ClInclude Include="..\common\plana\component\Component.h" />
+    <ClInclude Include="..\common\plana\event\Event.h" />
+    <ClInclude Include="..\common\plana\thread_pool\EventPools.h" />
+    <ClInclude Include="..\common\ProjectDef.h" />
+    <ClInclude Include="..\common\RobotReq.h" />
+    <ClInclude Include="..\common\TaskReq.h" />
+    <ClInclude Include="..\common\tcycomponents\DingTalkRobot.h" />
+    <ClInclude Include="..\common\tcycomponents\DumpUnhandleException.h" />
+    <ClInclude Include="..\common\tcycomponents\MySvrInOut.h" />
+    <ClInclude Include="..\common\tcycomponents\TcyInputTest.h" />
+    <ClInclude Include="..\common\tcycomponents\TcyMsgCenter.h" />
+    <ClInclude Include="..\common\tcycomponents\TcySockClient.h" />
+    <ClInclude Include="..\common\tcycomponents\TcySockSvr.h" />
+    <ClInclude Include="..\common\TreasureReq.h" />
+    <ClInclude Include="..\common\WxTaskReq.h" />
+    <ClInclude Include="..\pb\TestPbModule\TestPbModule.pb.h" />
+    <ClInclude Include="BroadToMobile.h" />
+    <ClInclude Include="ChunkDef.h" />
+    <ClInclude Include="GameDBConnectPool.h" />
+    <ClInclude Include="PlayerLogon.h" />
+    <ClInclude Include="SimpleSubClient.h" />
+    <ClInclude Include="PlayerInfoModule.h" />
+    <ClInclude Include="Predefine.h" />
+    <ClInclude Include="MainServer.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="RobotPlayerData.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="TaskModule.h" />
+    <ClInclude Include="TestPbModule.h" />
+    <ClInclude Include="TreasureModule.h" />
+    <ClInclude Include="WxTaskModule.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="gameChunkSvr.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

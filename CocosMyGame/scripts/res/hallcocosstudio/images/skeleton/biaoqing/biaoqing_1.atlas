@@ -1,0 +1,132 @@
+
+biaoqing_1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_1
+  rotate: false
+  xy: 267, 50
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+eye_1_1
+  rotate: false
+  xy: 401, 187
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 703, 465
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+eye_2_2
+  rotate: false
+  xy: 576, 308
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 152
+  size: 339, 339
+  orig: 339, 339
+  offset: 0, 0
+  index: -1
+hongyun
+  rotate: false
+  xy: 401, 240
+  size: 97, 23
+  orig: 97, 23
+  offset: 0, 0
+  index: -1
+jiao_1
+  rotate: false
+  xy: 454, 201
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+jiao_2
+  rotate: false
+  xy: 576, 269
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+jiguang
+  rotate: false
+  xy: 2, 2
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 2, 49
+  size: 101, 263
+  orig: 101, 263
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 343, 265
+  size: 231, 226
+  orig: 231, 226
+  offset: 0, 0
+  index: -1
+shou_1
+  rotate: false
+  xy: 576, 361
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: false
+  xy: 650, 437
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+wenzi_1
+  rotate: false
+  xy: 83, 5
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+wenzi_2
+  rotate: false
+  xy: 141, 16
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+xiahua_1
+  rotate: false
+  xy: 576, 418
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+xiahua_2
+  rotate: false
+  xy: 267, 78
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 343, 161
+  size: 56, 102
+  orig: 56, 102
+  offset: 0, 0
+  index: -1

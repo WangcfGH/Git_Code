@@ -1,0 +1,91 @@
+{
+	"DefaulteImagePath":"res/hall/hallpic/Game/GamePic/hall_share/",
+	"TipNotInstalledWeChat":"微信未安装！！",
+    "TipGoToWeChatShare": "分享跳转中，请稍候...",
+	"TIP_WECHATE_NOTINSTALLED": "微信未安装！！",
+	"TIP_SHARE_ING": "分享跳转中，请稍候...",
+    "TIP_SHARE_SUCCESS": "分享成功",
+    "TIP_SHARE_FAILED": "分享失败",
+    "TIP_FUNCTION_NOTSUPPORT": "功能暂时未开放",
+    "TIP_IMAGE_NOTEXIST": "分享失败，请稍后再试",
+    "WORD_CMD_INVITE_TITLE": "邀请口令",
+    "WORD_CMD_RECORD_TITLE": "录像口令",
+    "WORD_CMD_INVITE_TIP": "已为您生成邀请口令，点击跳转微信粘贴",
+    "WORD_CMD_RECORD_TIP": "已为您生成录像口令，点击跳转微信粘贴",
+    "WORD_CMD_INVITE_TEXT": "【同城游掼蛋，房间号#%s#，<<%s>>，“%s”】复制这条信息后打开应用即可加入房间",
+    "WORD_CMD_RECORD_TEXT": "【同城游掼蛋，录像码$%s$，“录像有效期至：%s”】复制这条信息后打开应用即可观看录像",
+	"WORD_CMD_CLUB_TEXT":	"【%s，亲友圈号*%s*】复制这条消息打开应用并进入游戏，即可自动识别口令，加入亲友圈。",
+    "NOTE":"这是一段注释：randArray表中的子项在每次分享的时候会随机覆盖进上一级目录",
+    "TipNeedPlayFirst":"对局1局后才能分享哦~",
+	"ToWeiBo":
+	{
+		 "title": "玩掼蛋",
+		 "image":"QR.png",
+		 "imagePath":"QR.png",
+		 "url":"https://m.tcy365.com/mtcyapp.html",
+		 "type":"C2DXContentTypeText"
+	},
+	"ToWeiXin":
+	{
+		 "title": "玩掼蛋",
+		 "content":"",
+		 "content1": "今天天气好晴朗，处处好风光，好风光…同城游掼蛋的牌运也是风光无限呢！",
+		 "content2": "都说踩到狗屎是好运，我中奖了…你看我掼蛋会不会胜到手软？！",
+		 "content3": "苦苦等待多年，今天终于玩到了！没错，就是掼蛋，根本停不下来！",
+		 "content4": "走南闯北常来一盘同城游掼蛋,肚子也不饿了,人也变靓了,请叫我雷锋不谢！",
+		 "description":"一起和老乡玩掼蛋",
+		 "image":"game_share_tips.jpg",
+		 "imagePath":"game_share_tips.jpg",
+		 "url":"https://m.tcy365.com/mtcyapp.html",
+		 "type":"C2DXContentTypeImage"
+	},
+	"ToWeiXinFriend":
+	{
+		 "title": "玩掼蛋",
+		 "content":"",
+		 "content1": "今天天气好晴朗，处处好风光，好风光…同城游掼蛋的牌运也是风光无限呢！",
+		 "content2": "都说踩到狗屎是好运，我中奖了…你看我掼蛋会不会胜到手软？！",
+		 "content3": "苦苦等待多年，今天终于玩到了！没错，就是掼蛋，根本停不下来！",
+		 "content4": "走南闯北常来一盘同城游掼蛋,肚子也不饿了,人也变靓了,请叫我雷锋不谢！",
+		 "description":"一起和老乡玩掼蛋",
+		 "image":"game_share_tips.jpg",
+		 "imagePath":"game_share_tips.jpg",
+		 "url":"https://m.tcy365.com/mtcyapp.html",
+		 "type":"C2DXContentTypeImage"
+	},
+	"ToGameShare":
+	{
+		 "title": "玩掼蛋",
+		 "image":"screen_shot.jpg",
+		 "imagePath":"screen_shot.jpg",
+		 "url":"https://m.tcy365.com/mtcyapp.html",
+		 "type":"C2DXContentTypeImage"
+	},
+	
+    "ToInviteGiftShare": {
+        "title": "玩掼蛋领话费",
+        "content": "快帮我点击一下，你也能领10元话费！",
+        "description": "快帮我点击一下，你也能领10元话费！",
+        "image": "share_logo_new.png",
+        "imagePath": "share_logo_new.png",
+        "url": "",
+        "type": "C2DXContentTypeNews",
+        "randArray": [
+            {
+                "title": "玩掼蛋领话费",
+                "description": "快帮我点击一下，你也能领10元话费！",
+                "content": "快帮我点击一下，你也能领10元话费！"
+            },
+            {
+                "title": "玩掼蛋领话费",
+                "description": "送你新人专属奖励，玩掼蛋当天必领10元话费！",
+                "content": "送你新人专属奖励，玩掼蛋当天必领10元话费！"
+            } ,   
+            {
+                "title": "玩掼蛋领话费",
+                "description": "同城游掼蛋发福利啦，10元话费先到先得!",
+                "content": "送你新人专属奖励，玩掼蛋当天必领10元话费！"
+            }             
+        ]
+    }
+}

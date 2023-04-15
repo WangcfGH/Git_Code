@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_ckdyh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{848,349},{134,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,24}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_jiesuo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{848,237},{86,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,52}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_join.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{848,56},{117,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{117,55}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_queding.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{819,556},{183,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,71}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_shurukuang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{848,2},{144,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,50}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_tijiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{819,631},{183,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,71}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_xiala.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{969,109},{48,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{48,51}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/common_bg_biaotou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1817},{314,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{314,68}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/common_bg_main_exam.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,556},{813,532}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{813,532}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/img_fzdyh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1092},{730,410}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{730,410}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/img_rili.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{969,56},{51,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{51,49}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/img_zhizhang_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{842,550}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{842,550}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_zhantie.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{848,293},{86,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,52}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/img_empty.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1506},{337,307}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{337,307}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_lingfudai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{848,115},{78,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,77}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorLuckyBag/btn_lingfudai_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{930,164},{68,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{68,69}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AnchorLuckyBag.png</string>
+			<key>realTextureFileName</key>
+			<string>AnchorLuckyBag.png</string>
+			<key>size</key>
+			<string>{1022,1887}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1022</integer>
+			<key>height</key>
+			<integer>1887</integer>
+		</dict>
+	</dict>
+</plist>

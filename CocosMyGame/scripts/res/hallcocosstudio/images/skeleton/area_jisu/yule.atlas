@@ -1,0 +1,90 @@
+
+yule.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yl_di
+  rotate: false
+  xy: 2, 42
+  size: 299, 206
+  orig: 299, 206
+  offset: 0, 0
+  index: -1
+yl_jb1
+  rotate: false
+  xy: 2, 2
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+yl_jb2
+  rotate: false
+  xy: 699, 198
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+yl_jb3
+  rotate: false
+  xy: 303, 50
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+yl_sb
+  rotate: false
+  xy: 303, 75
+  size: 154, 173
+  orig: 154, 173
+  offset: 0, 0
+  index: -1
+yl_xx
+  rotate: false
+  xy: 459, 136
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+yl_zi
+  rotate: false
+  xy: 459, 186
+  size: 238, 62
+  orig: 238, 62
+  offset: 0, 0
+  index: -1
+yl_zx1
+  rotate: false
+  xy: 459, 112
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+yl_zx2
+  rotate: false
+  xy: 511, 170
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+yl_zx3
+  rotate: true
+  xy: 699, 187
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+yl_zx4
+  rotate: false
+  xy: 746, 234
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+yl_zx5
+  rotate: false
+  xy: 39, 27
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

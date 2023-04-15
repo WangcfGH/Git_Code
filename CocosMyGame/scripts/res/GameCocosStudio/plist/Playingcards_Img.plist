@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Playingcards_Img/faguang1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{882,2},{136,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,70}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Playingcards_Img/faguang2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{882,76},{136,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,70}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Playingcards_Img/Playingcards_BGlight.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{238,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{238,158}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Playingcards_Img/PlayingcardsTip1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{680,2},{198,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{198,91}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Playingcards_Img/PlayingcardsTip2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{476,2},{200,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,91}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Playingcards_Img/PlayingcardsTipBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{244,2},{228,147}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,147}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Playingcards_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>Playingcards_Img.png</string>
+			<key>size</key>
+			<string>{1020,162}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1020</integer>
+			<key>height</key>
+			<integer>162</integer>
+		</dict>
+	</dict>
+</plist>

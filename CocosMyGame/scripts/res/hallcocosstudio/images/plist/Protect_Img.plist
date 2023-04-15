@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Protect_Img/bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{223,454}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{223,454}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Protect_Img/exitBtn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,466},{139,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Protect_Img/goOnBtn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{151,466},{139,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{139,38}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Protect_Img/havenBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{416,4},{170,168}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{170,168}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Protect_Img/havenText.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,372},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Protect_Img/lottery.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{235,4},{176,173}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{176,173}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Protect_Img/safe.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{235,188},{176,173}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{176,173}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Protect_Img/title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{235,372},{85,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{85,42}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Protect_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>Protect_Img.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

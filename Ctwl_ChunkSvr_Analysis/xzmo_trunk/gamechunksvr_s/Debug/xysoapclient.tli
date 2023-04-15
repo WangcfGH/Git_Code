@@ -1,0 +1,55 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.00.24215.1 (1f520211).
+//
+// e:\wangcfgh\git_code\ctwl_chunksvr_analysis\xzmo_trunk\gamechunksvr_s\debug\xysoapclient.tli
+//
+// Wrapper implementations for Win32 type library XYSoapClient.dll
+// compiler-generated file created 04/24/20 at 10:11:48 - DO NOT EDIT!
+
+#pragma once
+
+//
+// interface IXYSoapClient wrapper method implementations
+//
+
+inline long IXYSoapClient::InitService ( _bstr_t WSDL, _bstr_t ServiceName, _bstr_t Port, _bstr_t WSML ) {
+    long _result = 0;
+    HRESULT _hr = raw_InitService(WSDL, ServiceName, Port, WSML, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long IXYSoapClient::SetClientProperty ( _bstr_t PropName, const _variant_t & PropValue ) {
+    long _result = 0;
+    HRESULT _hr = raw_SetClientProperty(PropName, PropValue, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline long IXYSoapClient::SetConnectorProperty ( _bstr_t PropName, const _variant_t & PropValue ) {
+    long _result = 0;
+    HRESULT _hr = raw_SetConnectorProperty(PropName, PropValue, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _result;
+}
+
+inline _bstr_t IXYSoapClient::GetLastError ( ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_GetLastError(&_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}
+
+inline _variant_t IXYSoapClient::InvokeMethod ( _bstr_t MethodName, const _variant_t & Input1, const _variant_t & Input2, const _variant_t & Input3, const _variant_t & Input4, const _variant_t & Input5 ) {
+    VARIANT _result;
+    VariantInit(&_result);
+    HRESULT _hr = raw_InvokeMethod(MethodName, Input1, Input2, Input3, Input4, Input5, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _variant_t(_result, false);
+}
+
+inline _bstr_t IXYSoapClient::SetSoapToolkitVersion ( _bstr_t sVersion ) {
+    BSTR _result = 0;
+    HRESULT _hr = raw_SetSoapToolkitVersion(sVersion, &_result);
+    if (FAILED(_hr)) _com_issue_errorex(_hr, this, __uuidof(this));
+    return _bstr_t(_result, false);
+}

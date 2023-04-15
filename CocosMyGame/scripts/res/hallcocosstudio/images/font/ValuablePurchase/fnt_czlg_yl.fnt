@@ -1,0 +1,25 @@
+﻿info face="fnt_czlg_yl" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=36 base=26 scaleW=128 scaleH=128 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt_czlg_yl.png"
+chars count=19
+char id=48 x=54 y=0 width=20 height=28 xoffset=0 yoffset=8 xadvance=17 page=0 chnl=0 letter="0"
+char id=49 x=94 y=29 width=13 height=28 xoffset=0 yoffset=8 xadvance=10 page=0 chnl=0 letter="1"
+char id=50 x=82 y=58 width=18 height=28 xoffset=0 yoffset=8 xadvance=15 page=0 chnl=0 letter="2"
+char id=51 x=81 y=87 width=18 height=28 xoffset=0 yoffset=8 xadvance=15 page=0 chnl=0 letter="3"
+char id=52 x=33 y=0 width=20 height=28 xoffset=0 yoffset=8 xadvance=17 page=0 chnl=0 letter="4"
+char id=53 x=62 y=87 width=18 height=28 xoffset=0 yoffset=8 xadvance=15 page=0 chnl=0 letter="5"
+char id=54 x=75 y=0 width=19 height=28 xoffset=0 yoffset=8 xadvance=16 page=0 chnl=0 letter="6"
+char id=55 x=74 y=29 width=19 height=28 xoffset=0 yoffset=8 xadvance=16 page=0 chnl=0 letter="7"
+char id=56 x=62 y=58 width=19 height=28 xoffset=0 yoffset=8 xadvance=16 page=0 chnl=0 letter="8"
+char id=57 x=54 y=29 width=19 height=28 xoffset=0 yoffset=8 xadvance=16 page=0 chnl=0 letter="9"
+char id=46 x=19 y=101 width=9 height=12 xoffset=0 yoffset=24 xadvance=6 page=0 chnl=0 letter="."
+char id=21315 x=0 y=0 width=32 height=33 xoffset=0 yoffset=6 xadvance=29 page=0 chnl=0 letter="千"
+char id=19975 x=31 y=68 width=30 height=31 xoffset=0 yoffset=7 xadvance=27 page=0 chnl=0 letter="万"
+char id=20159 x=0 y=34 width=31 height=33 xoffset=0 yoffset=5 xadvance=28 page=0 chnl=0 letter="亿"
+char id=20004 x=0 y=68 width=30 height=32 xoffset=0 yoffset=7 xadvance=27 page=0 chnl=0 letter="两"
+char id=120 x=0 y=101 width=18 height=23 xoffset=0 yoffset=13 xadvance=15 page=0 chnl=0 letter="x"
+char id=88 x=32 y=34 width=21 height=28 xoffset=0 yoffset=8 xadvance=18 page=0 chnl=0 letter="X"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0

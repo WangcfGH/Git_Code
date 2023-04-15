@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bshfwk_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{98,83},{102,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{102,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bshfwz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,98},{92,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{92,27}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{127,44},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,2},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{204,78},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,36},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{313,2},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{302,70},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{323,36},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{411,2},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{400,70},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{421,36},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/bssg_00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{509,2},{94,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/hhqhm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{92,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{92,68}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/hhqqianm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{74,2},{77,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{77,49}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/jinbeiguang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{519,36},{23,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,24}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/jjdwc_lizi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{302,104},{16,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,16}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/liuguang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{498,70},{47,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{47,31}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/huafeiLiuguang/wzhyy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{127,2},{84,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{84,38}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>huafeiLiuguang.png</string>
+			<key>realTextureFileName</key>
+			<string>huafeiLiuguang.png</string>
+			<key>size</key>
+			<string>{605,127}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>605</integer>
+			<key>height</key>
+			<integer>127</integer>
+		</dict>
+	</dict>
+</plist>

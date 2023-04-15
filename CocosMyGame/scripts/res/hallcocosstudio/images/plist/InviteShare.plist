@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{565,364}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{565,364}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{710,423},{32,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,32}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_btn_wechat.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,424},{241,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{241,68}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_dot1_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{892,392},{39,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,40}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_dot1_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{892,436},{39,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,40}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_dot2_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{752,392},{39,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,40}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_dot2_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{667,423},{39,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,40}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_dot3_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{795,392},{39,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,40}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_dot3_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{838,392},{39,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,40}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_progress_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{492,478},{396,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{396,18}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_progress_main.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{522,370},{396,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{396,18}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_tab_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,370},{341,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{341,50}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_tab_sharecode1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{522,392},{111,27}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{171,50}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_tab_sharecode2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{347,370},{171,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{171,50}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_tab_sharepic1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{637,392},{111,27}}</string>
+				<key>offset</key>
+				<string>{6,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{171,50}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_tab_sharepic2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{492,424},{171,50}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{171,50}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/InviteShare/wechat_btn_wechatshare.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{247,424},{241,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{241,68}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>InviteShare.png</string>
+			<key>realTextureFileName</key>
+			<string>InviteShare.png</string>
+			<key>size</key>
+			<string>{933,498}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>933</integer>
+			<key>height</key>
+			<integer>498</integer>
+		</dict>
+	</dict>
+</plist>

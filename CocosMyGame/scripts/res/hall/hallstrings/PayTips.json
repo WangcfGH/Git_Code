@@ -1,0 +1,71 @@
+{
+   "EnterTongbaoInvalidate":"输入通宝数量不对",
+   "EnterTongbaoNumber":"请输入数字",
+   "ExchangeOK":"兑换成功，请稍后查看您的保险箱",
+   "ExchangeFail":"兑换失败",
+   "NoTongBao":"您无通宝可兑换",
+   "BuyTongBaoOk":"充值通宝成功，到账可能会有些延迟，稍后请到商城查看",
+   "InExchange":"正在兑换中,请稍等",
+   "BuyFailed":"充值失败，请重试",
+   "BuyOK":"充值成功，尽情享受吧",
+   "Infoincomplete":"充值信息提供不全",
+   "InPay":"正在购买中，请稍等",
+   "Timeout":"购买超时，请检查网络后重试",
+   
+   "ScoreAboveLimit":"抱歉，您的分数超出限制，不可购买此道具，试一试别的吧~",
+
+   
+   "BuyDepositInboxOK":"充值银子成功，到账可能会有些延迟，稍后请到保险箱查看",
+   "BuyDepositInbackboxOK":"充值银子成功，到账可能会有些延迟，稍后请到后备箱查看",
+   "BuyDepositOK":"充值银子成功，到账可能会有些延迟，请稍后查看",
+   "BuyScoreOK":"购买积分成功！积分到账可能会有延迟，请稍后查看。", 
+   "BuyVIPOK":"购买会员成功，到账可能会有些延迟，请稍后查看",
+   "AccountDepositInboxOK":"银子到账，已经放到您的保险箱",
+   "AccountDepositInbackboxOK":"银子到账，已经放到您的后备箱",
+   "AccountDepositOK":"银子到账，请查收",
+   "AccountScoreOK":"积分到账，请查收",
+   "AccountVIPOK":"您已经成为会员，开始尽情享受游戏带来的快乐吧！！！",
+   
+   "NoProductAvailable":"很抱歉，暂时没有商品",
+
+   "NotVIPDes":" 您现在还不是会员",
+   "VIPDes":"您的会员到期时间是%d年%d月%d日",
+
+   "FirstChargeDescription":"首充%d元即获大礼",
+   "SCORE_OVER":"您身上所带的积分超过了即将购买的积分值，无法购买！",
+   "VIP_ICON_DES": "会员专属蓝钻标志",
+   "PRODUCT_OVER":"没有符合要求的商品可购买!",
+
+   "VIPRightDesConfig":
+   [
+	   {
+		 "icon_name": "Btn_VIP",
+		 "icon_des": "会员专属蓝钻标志"
+	   },
+	   {
+		 "icon_name": "Btn_VIP2",
+		 "icon_des": "1：会员每日抽奖奖励翻倍\n2：会员连续登陆奖励翻倍"
+	   },
+	   {
+		 "icon_name": "Btn_VIP3",
+		 "icon_des": "低保次数+%d，每天享有%d次"
+	   },
+	   {
+		 "icon_name": "Btn_VIP4",
+		 "icon_des": "积分房游戏输了有几率可以免扣分，赢了有几率获得的积分加倍"
+	   }
+    ],
+
+	"showLimitTimeGiftTips":"当前正在一局游戏中，请在本局游戏结算后购买",
+	 "TOOLS_NUM_OUT":"一次最多购买20个",
+	 "TOOLS_BUY_FAILED":"道具购买失败，若有疑问，请咨询客服",
+	 "TOOLS_BUY_SUCCESS":"记牌器购买成功，快去游戏中体验吧",
+	 "TOOLS_HAVE_SLIVER":"您的局数记牌器尚未使用完，请使用完再来购买吧",
+     "TOOLS_HAVE_RMB":"您的天数记牌器尚未使用完，请使用完再来购买吧",
+     "EXPRESSION_PANEL_TIPS":"携银达到%d两，才能购买互动表情",
+	 "EXPRESSION_CLICK_TIPS":"您的携银不足，请先取银或充值",
+     "EXPRESSION_CD_TIPS":"您的操作太频繁了，请慢点啦",
+     "BuyCommonOK":"购买成功，到账可能会有些延迟，请稍后查看",
+     "BUY_PROP_FAIL_ANDROID": "保险箱银子不足",
+     "BUY_PROP_FAIL_IOS": "后备箱银子不足"
+}

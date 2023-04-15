@@ -1,0 +1,26 @@
+{
+	"player_username_not_logined":"未登录",
+	"HLS_CONTINUE_PWDWRONG":"由于您连续的密码错误,4小时之内您无法使用此名字登录。",
+	"BINDUSER_ALREADY":"您的账号已与电脑绑定，如需在手机上游戏，还需绑定本台手机。",
+	"Update_Quit":"游戏版本过低，请退出同城游后再重启进行版本升级。",
+	"Update_Failed":"更新失败，请退出后再次进入程序。",
+	"Forbid_TwoHall":"对不起，不能同时登录两个同城游大厅",
+	"Forbid_TwoHall_BT":"重新登录",
+	"COPY_SUCCESS":"用户序号已复制到剪切板",
+	"HARDID_MISMATCH":"您的帐号已经绑定设备，无法登录",
+
+	"GAME_NET_NOT_CONNECTED":"当前网络不可用，请确认网络连接",
+	"GAME_DOWNLOADCANCEL":"下载已取消",
+	"GAME_GETINFO_ERROR":"对不起，获取更新信息失败",
+	"GAME_DOWNLOAD_START":"开始下载",
+	"GAME_DOWNLOAD_FAILED":"对不起，下载失败",
+	"GAME_DOWNLOAD_SUCCESS":"下载成功",
+	"GAME_NOTOPEN":"该功能暂未开放，敬请期待",
+	"GAME_DOWNLOAD_PAUSE":"下载已暂停",
+	"GAME_DOWNLOAD_RESURE_UNDER4G":"您当前在非wifi环境下，本次加载游戏将会消耗少量流量，是否继续？",
+	"GAME_DOWNLOAD_RESURE_CHANGETO4G":"您目前在非无线网络环境下下载游戏，会消耗流量产生费用。是否继续下载？",
+	"GAME_DOWNLOAD_CONTINUE":"暂停下载中，是否继续下载？",
+	"GAME_DOWNLOAD_PAUSE_SURE":"是否需要暂停下载？",
+	"GAME_DOWNLOAD_PAUSE_CURRENT":"有其他游戏正在下载中，需要先终止该下载，确定要进行该操作？",
+	"GAME_TCYAPP_VERSION_LOW":"同城游版本过低，需要更新到最新版本"
+}

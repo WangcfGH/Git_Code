@@ -1,0 +1,18 @@
+syntax = "proto2";
+package pbAnchorMatch;
+
+message SetGameRuleInfo {
+    required int32 userid = 1;
+    required int32 playtype = 2;
+    required int32 bouttype = 3;
+    required int32 encryption = 4;
+    required int32 anchoruserid = 5;
+}
+
+message GetGameRuleInfo {
+    required int32 userid = 1;
+    optional int32 playtype = 2;
+    optional int32 bouttype = 3;
+    optional int32 encryption = 4;
+    optional int32 anchoruserid = 5;
+}

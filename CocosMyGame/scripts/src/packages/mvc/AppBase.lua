@@ -3,8 +3,8 @@ local AppBase = class("AppBase")
 
 function AppBase:ctor(configs)
     self.configs_ = {
-        viewsRoot  = "app.views",
-        modelsRoot = "app.models",
+        viewsRoot  = "src.app.GameHall.views",
+        modelsRoot = "src.app.GameHall.models",
         defaultSceneName = "MainScene",
     }
 
@@ -27,6 +27,11 @@ function AppBase:ctor(configs)
         cc.Director:getInstance():setDisplayStats(true)
     end
 
+    if CC_DEFAULT_ANIMATIONINTERVAL then
+        if CC_DEFAULT_ANIMATIONINTERVAL <= 1 / 25 and CC_DEFAULT_ANIMATIONINTERVAL > 1 / 60 then
+            cc.Director:getInstance():setAnimationInterval(CC_DEFAULT_ANIMATIONINTERVAL)
+        end
+    end
     -- event
     self:onCreate()
 end
@@ -45,7 +50,7 @@ end
 function AppBase:createView(name)
     for _, root in ipairs(self.configs_.viewsRoot) do
         local packageName = string.format("%s.%s", root, name)
-        local status, view = xpcall(function()
+		local status, view = my.mxpcall(function()
                 return require(packageName)
             end, function(msg)
             if not string.find(msg, string.format("'%s' not found:", packageName)) then

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_BG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,799},{1213,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1213,14}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_Title_Ju.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{726,817},{109,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{109,107}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_Title_Le.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{381,817},{112,124}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,124}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_Title_LeBlue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{497,817},{112,124}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,124}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_Title_Lian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{613,817},{110,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,109}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_Title_Ni.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,817},{131,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{131,120}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_Title_NiBlue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{257,817},{131,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{131,120}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_Title_Shu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,817},{130,127}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,127}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_Title_Ying.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{320,610},{130,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,130}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Result_TitleScoring.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{189,610},{127,145}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{127,145}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Victory_Light3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{604,377}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{604,377}</string>
+			</dict>
+			<key>GameCocosStudio/plist/Result_Img/Victory_PlayerBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,610},{183,185}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,185}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Result_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>Result_Img.png</string>
+			<key>size</key>
+			<string>{1217,950}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1217</integer>
+			<key>height</key>
+			<integer>950</integer>
+		</dict>
+	</dict>
+</plist>

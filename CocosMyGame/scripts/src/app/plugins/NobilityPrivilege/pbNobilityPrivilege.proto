@@ -1,0 +1,146 @@
+﻿syntax = "proto2";
+package pbNobilityPrivilege;
+
+// local开头的为pb内部使用的数据结构
+
+// 1.获取活动info信息消息start
+// json配置打包start
+message localSingleRewardConfig {
+    required int32 rewardID    = 1;
+    required int32 rewardType  = 2;
+    required int32 rewardCount = 3;
+    required string strWebID   = 4;
+}
+
+message localSinglePrivilegeConfig {
+    required int32 privilegeID    = 1;
+    required int32 privilegeType  = 2;
+    required int32 privilegeLevel = 3;
+    optional int32 showIcon       = 4;
+    repeated int32 showValue      = 5;
+}
+
+message localPrivilegeDetail {
+    required int32 privilegeID = 1;
+}
+
+message localUpgradeGiftBagDetail {
+    required int32 upgradeGiftBagID = 1;
+}
+
+message localDailyGiftBagDetail {
+    required int32 dailyGiftBagID = 1;
+}
+
+message localWeekGiftBagDetail {
+    required int32 weekGiftBagID = 1;
+}
+
+message localMonthGiftBagDetail {
+    required int32 monthGiftBagID = 1;
+}
+
+message localSingleNobilityLevelInfo {
+    required int32 level                                      = 1;
+    optional int32 experienceNeed                             = 2;
+    optional int32 experienceTotal                            = 3;
+    repeated localPrivilegeDetail privilegeDetail             = 4;
+    repeated localUpgradeGiftBagDetail upgradeGiftBagDetail   = 5;
+    repeated localDailyGiftBagDetail   dailyGiftBagDetail     = 6;
+	repeated localWeekGiftBagDetail    weekGiftBagDetail      = 7;
+	repeated localMonthGiftBagDetail   monthGiftBagDetail     = 8;
+}
+
+message localNobilityPrivilegeConfig {
+    optional int32 actID                                       = 1;
+    repeated localSinglePrivilegeConfig privilegeList          = 2;
+    repeated localSingleRewardConfig  upgradeGiftBagList       = 3;
+    repeated localSingleRewardConfig  dailyGiftBagList         = 4;
+    repeated localSingleNobilityLevelInfo nobilityLevelList    = 5;
+	repeated localSingleRewardConfig  weekGiftBagList          = 6;
+	repeated localSingleRewardConfig  monthGiftBagList         = 7;
+}
+// json配置打包end
+
+message localNobilityPrivilegeInfo {
+    required int32 userID               = 1;          //玩家ID
+    required int32 level                = 2;          //玩家贵族等级
+    optional int32 dailyGiftBagStatus   = 3;          //每日礼包领取状态 -1未解锁, 0可领取, 1已领取
+    repeated int32 upgradeGiftBagStatus = 4;          //升级礼包领取状态 -1未解锁, 0可领取, 1已领取
+	optional int32 weekGiftBagStatus    = 5;          //每周礼包领取状态  0未解锁, 1可领取, 2已领取
+	optional int32 monthGiftBagStatus   = 6;          //每月礼包领取状态  0未解锁, 1可领取, 2已领取
+}
+
+// 传输使用的获取贵族系统活动info信息消息
+// 对应消息号：GR_NOBILITY_PRIVILEGE_GET_INFO
+message NobilityPrivilegeInfo {
+    required int32 userID                                          = 1;   // 客户端请求字段
+    optional int32 enable                                          = 2;   // 活动开关
+    optional localNobilityPrivilegeConfig  nobilityPrivilegeConfig = 3;   // 完整json配置
+    optional int32 level                                           = 4;   // 玩家贵族等级
+    optional int32 rechargeTotal                                   = 5;   // 总充值金额
+    optional int32 dailyGiftBagStatus                              = 6;   // 每日礼包领取状态  -1未解锁, 0可领取, 1已领取
+    repeated int32 upgradeGiftBagStatus                            = 7;   // 升级礼包领取状态  -1未解锁, 0可领取, 1已领取
+    optional int32 channelType                                     = 8;   // 用户平台类型
+    optional int32 channelID                                       = 9;   // 渠道号
+    optional int32 privilegeFrozen                                 = 10;  // 特权是否冻结   0-未冻结  1-冻结
+	optional int32 weekGiftBagStatus                               = 11;  // 每周礼包领取状态  0未解锁, 1可领取, 2已领取
+	optional int32 monthGiftBagStatus                              = 12;  // 每月礼包领取状态  0未解锁, 1可领取, 2已领取
+}
+// 1.获取活动info信息消息end
+
+// 2.领取升级礼包奖励使用消息start
+// 传输使用的领取奖励信息消息
+// 对应消息号：GR_NOBILITY_PRIVILEGE_UPGRADEGIFTBAG_TAKE
+message TakeUpgradeGiftBagReward {
+    required int32 userID                         = 1;          // 客户端请求字段
+    optional int32 level                          = 2;          // 当前领取的升级礼包等级
+    repeated localSingleRewardConfig rewardIDList = 3;          // 奖励列表
+    optional int32 actID                          = 4;          // assist任务发银需要
+}
+// 2.领取奖励使用消息end
+
+// 3.领取每日奖励消息start
+// 对应消息号：GR_NOBILITY_PRIVILEGE_DAILYGIFTBAG_TAKE
+message TakeDailyGiftBagReward {
+    required int32 userID                         = 1;         // 客户端请求字段
+    optional int32 level                          = 2;         // 当前领取的每日礼包等级
+    repeated localSingleRewardConfig rewardIDList = 3;         // 奖励列表       
+    optional int32 actID                          = 4;         // assist任务发银需要
+}
+// 3.领取每日奖励使用消息end
+
+// 对应消息号：GR_NOBILITY_PRIVILEGE_WEEKGIFTBAG_TAKE
+message TakeWeekGiftBagReward {
+    required int32 userID                         = 1;         // 客户端请求字段
+    optional int32 level                          = 2;         // 当前领取的每日礼包等级
+    repeated localSingleRewardConfig rewardIDList = 3;         // 奖励列表       
+    optional int32 actID                          = 4;         // assist任务发银需要
+}
+// 4.领取每周奖励使用消息end
+
+// 对应消息号：GR_NOBILITY_PRIVILEGE_MONTHGIFTBAG_TAKE
+message TakeMonthGiftBagReward {
+    required int32 userID                         = 1;         // 客户端请求字段
+    optional int32 level                          = 2;         // 当前领取的每日礼包等级
+    repeated localSingleRewardConfig rewardIDList = 3;         // 奖励列表       
+    optional int32 actID                          = 4;         // assist任务发银需要
+}
+// 5.领取每月奖励使用消息end
+
+
+message NobilityLevelInfo {
+    required int32 userID               = 1;          //玩家ID
+    optional int32 rechargeTotal        = 2;          //玩家充值总金额
+    optional int32 nobilityLevel        = 3;          //玩家贵族等级
+    optional int32 upgradeGiftBagLevel  = 4;          //玩家升级礼包等级
+    optional int32 dailyGiftBagLevel    = 5;          //玩家每日礼包等级
+	optional int32 weekGiftBagLevel     = 6;          //玩家每周礼包等级
+	optional int32 monthGiftBagLevel    = 7;          //玩家每月礼包等级
+}
+
+//贵族玩家登录信息
+message NobilityPlayerLogin {
+    optional int32  userID    = 1;
+    optional string userName  = 2;
+}

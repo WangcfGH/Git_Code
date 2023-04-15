@@ -1,0 +1,27 @@
+info face="Î¢ÈíÑÅºÚ" size=44 bold=0 italic=1 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=5,5,5,5 spacing=5,5
+common lineHeight=74 base=47 scaleW=512 scaleH=128 pages=1 packed=0
+page id=0 file="Arena_mrfont_zi2.png"
+chars count=22
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=47    xadvance=18     page=0  chnl=0 
+char id=22806   x=0     y=0     width=59     height=55     xoffset=-5     yoffset=4    xadvance=49     page=0  chnl=0 
+char id=27036   x=59     y=0     width=58     height=54     xoffset=-3     yoffset=5    xadvance=49     page=0  chnl=0 
+char id=26410   x=117     y=0     width=58     height=54     xoffset=-5     yoffset=4    xadvance=49     page=0  chnl=0 
+char id=47   x=175     y=0     width=45     height=52     xoffset=-7     yoffset=7    xadvance=24     page=0  chnl=0 
+char id=19978   x=220     y=0     width=57     height=51     xoffset=-6     yoffset=5    xadvance=49     page=0  chnl=0 
+char id=48   x=277     y=0     width=38     height=46     xoffset=-1     yoffset=7    xadvance=31     page=0  chnl=0 
+char id=57   x=315     y=0     width=36     height=46     xoffset=-1     yoffset=7    xadvance=31     page=0  chnl=0 
+char id=56   x=351     y=0     width=36     height=46     xoffset=-2     yoffset=7    xadvance=31     page=0  chnl=0 
+char id=55   x=387     y=0     width=38     height=46     xoffset=1     yoffset=7    xadvance=31     page=0  chnl=0 
+char id=54   x=425     y=0     width=35     height=46     xoffset=0     yoffset=7    xadvance=31     page=0  chnl=0 
+char id=53   x=460     y=0     width=36     height=46     xoffset=-1     yoffset=7    xadvance=31     page=0  chnl=0 
+char id=52   x=0     y=55     width=37     height=46     xoffset=-4     yoffset=7    xadvance=31     page=0  chnl=0 
+char id=51   x=37     y=55     width=34     height=46     xoffset=-2     yoffset=7    xadvance=31     page=0  chnl=0 
+char id=50   x=71     y=55     width=38     height=46     xoffset=-3     yoffset=7    xadvance=31     page=0  chnl=0 
+char id=49   x=109     y=55     width=31     height=45     xoffset=-1     yoffset=8    xadvance=31     page=0  chnl=0 
+char id=65306   x=140     y=55     width=20     height=36     xoffset=14     yoffset=17    xadvance=49     page=0  chnl=0 
+char id=43   x=160     y=55     width=33     height=33     xoffset=3     yoffset=17    xadvance=38     page=0  chnl=0 
+char id=42   x=193     y=55     width=30     height=29     xoffset=1     yoffset=7    xadvance=25     page=0  chnl=0 
+char id=65292   x=223     y=55     width=20     height=23     xoffset=12     yoffset=36    xadvance=49     page=0  chnl=0 
+char id=8220   x=243     y=55     width=30     height=22     xoffset=27     yoffset=7    xadvance=49     page=0  chnl=0 
+char id=12290   x=273     y=55     width=24     height=22     xoffset=-3     yoffset=36    xadvance=49     page=0  chnl=0 
+char id=45   x=297     y=55     width=25     height=15     xoffset=0     yoffset=26    xadvance=24     page=0  chnl=0 

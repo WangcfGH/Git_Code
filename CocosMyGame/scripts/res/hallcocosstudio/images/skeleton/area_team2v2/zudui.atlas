@@ -1,0 +1,153 @@
+
+zudui.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban
+  rotate: false
+  xy: 2, 44
+  size: 300, 197
+  orig: 300, 197
+  offset: 0, 0
+  index: -1
+gu
+  rotate: false
+  xy: 575, 168
+  size: 127, 73
+  orig: 127, 73
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 544, 189
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+p2
+  rotate: false
+  xy: 146, 19
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+p3
+  rotate: false
+  xy: 830, 193
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+pai
+  rotate: true
+  xy: 68, 2
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 766, 186
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 830, 213
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+y_bang
+  rotate: false
+  xy: 2, 2
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+y_bang_y
+  rotate: false
+  xy: 637, 126
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+y_shou
+  rotate: false
+  xy: 798, 190
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 623, 69
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+yjiao
+  rotate: false
+  xy: 112, 4
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+you_ji
+  rotate: true
+  xy: 304, 46
+  size: 131, 150
+  orig: 131, 150
+  offset: 0, 0
+  index: -1
+z_bang
+  rotate: false
+  xy: 575, 98
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+z_bang_y
+  rotate: false
+  xy: 704, 173
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+z_shou
+  rotate: false
+  xy: 575, 47
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+zj
+  rotate: true
+  xy: 637, 98
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+zjiao
+  rotate: true
+  xy: 544, 215
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+zudui
+  rotate: false
+  xy: 304, 179
+  size: 238, 62
+  orig: 238, 62
+  offset: 0, 0
+  index: -1
+zuo_ji
+  rotate: false
+  xy: 456, 43
+  size: 117, 134
+  orig: 117, 134
+  offset: 0, 0
+  index: -1

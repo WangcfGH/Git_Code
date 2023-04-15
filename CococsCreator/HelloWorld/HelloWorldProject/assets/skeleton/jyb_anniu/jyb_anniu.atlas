@@ -1,0 +1,97 @@
+
+jyb_anniu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sg_00000
+  rotate: false
+  xy: 2, 146
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00001
+  rotate: false
+  xy: 2, 74
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00002
+  rotate: false
+  xy: 191, 146
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00003
+  rotate: false
+  xy: 2, 2
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00004
+  rotate: false
+  xy: 191, 74
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00005
+  rotate: false
+  xy: 380, 146
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00006
+  rotate: false
+  xy: 191, 2
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00007
+  rotate: false
+  xy: 380, 74
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00008
+  rotate: false
+  xy: 569, 146
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00009
+  rotate: false
+  xy: 380, 2
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00010
+  rotate: false
+  xy: 569, 74
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00011
+  rotate: false
+  xy: 758, 146
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1
+images/sg_00012
+  rotate: false
+  xy: 569, 2
+  size: 187, 70
+  orig: 187, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+biaoqing_4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 974, 329
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+doudong_1
+  rotate: false
+  xy: 637, 300
+  size: 291, 205
+  orig: 291, 205
+  offset: 0, 0
+  index: -1
+doudong_2
+  rotate: false
+  xy: 343, 299
+  size: 292, 206
+  orig: 292, 206
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 166
+  size: 339, 339
+  orig: 339, 339
+  offset: 0, 0
+  index: -1
+jiao_1
+  rotate: false
+  xy: 2, 28
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+jiao_2
+  rotate: false
+  xy: 974, 371
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+jiguan
+  rotate: true
+  xy: 880, 214
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+maojing
+  rotate: false
+  xy: 558, 165
+  size: 72, 43
+  orig: 72, 43
+  offset: 0, 0
+  index: -1
+shenti_1
+  rotate: true
+  xy: 665, 92
+  size: 206, 213
+  orig: 206, 213
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: true
+  xy: 343, 2
+  size: 206, 213
+  orig: 206, 213
+  offset: 0, 0
+  index: -1
+shou_1
+  rotate: false
+  xy: 880, 156
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: false
+  xy: 930, 346
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+text_1
+  rotate: false
+  xy: 2, 78
+  size: 321, 86
+  orig: 321, 86
+  offset: 0, 0
+  index: -1
+text_2
+  rotate: false
+  xy: 343, 210
+  size: 320, 87
+  orig: 320, 87
+  offset: 0, 0
+  index: -1
+yan_1
+  rotate: false
+  xy: 930, 324
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+yan_2
+  rotate: true
+  xy: 632, 171
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 930, 417
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+ganen_pai.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lba
+  rotate: false
+  xy: 2, 21
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 201, 149
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+ym
+  rotate: false
+  xy: 238, 139
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+yshou
+  rotate: false
+  xy: 201, 128
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+yyz
+  rotate: false
+  xy: 201, 108
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+zhang
+  rotate: false
+  xy: 2, 82
+  size: 197, 172
+  orig: 197, 172
+  offset: 0, 0
+  index: -1
+zm
+  rotate: false
+  xy: 296, 209
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+zshou
+  rotate: false
+  xy: 296, 220
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 60, 66
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+zyz
+  rotate: false
+  xy: 2, 2
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1

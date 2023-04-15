@@ -1,0 +1,292 @@
+
+jyb_suo.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b_00000
+  rotate: false
+  xy: 2, 39
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+images/b_00001
+  rotate: false
+  xy: 184, 30
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+images/b_00002
+  rotate: false
+  xy: 366, 30
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+images/b_00003
+  rotate: false
+  xy: 548, 30
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+images/b_00004
+  rotate: false
+  xy: 730, 2
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+images/bl_00000
+  rotate: true
+  xy: 888, 851
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00001
+  rotate: true
+  xy: 2, 808
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00002
+  rotate: true
+  xy: 885, 684
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00003
+  rotate: true
+  xy: 760, 619
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00004
+  rotate: true
+  xy: 885, 517
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00005
+  rotate: true
+  xy: 760, 452
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00006
+  rotate: true
+  xy: 885, 350
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00007
+  rotate: false
+  xy: 381, 313
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00008
+  rotate: false
+  xy: 548, 313
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00009
+  rotate: false
+  xy: 715, 313
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00010
+  rotate: false
+  xy: 2, 197
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00011
+  rotate: false
+  xy: 169, 197
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00012
+  rotate: false
+  xy: 336, 188
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00013
+  rotate: false
+  xy: 503, 188
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/bl_00014
+  rotate: false
+  xy: 670, 188
+  size: 165, 123
+  orig: 165, 123
+  offset: 0, 0
+  index: -1
+images/k_00000
+  rotate: false
+  xy: 130, 902
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00001
+  rotate: false
+  xy: 509, 902
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00002
+  rotate: false
+  xy: 127, 786
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00003
+  rotate: false
+  xy: 506, 786
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00004
+  rotate: false
+  xy: 2, 670
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00005
+  rotate: false
+  xy: 381, 670
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00006
+  rotate: false
+  xy: 2, 554
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00007
+  rotate: false
+  xy: 381, 554
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00008
+  rotate: false
+  xy: 2, 438
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00009
+  rotate: false
+  xy: 381, 438
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/k_00010
+  rotate: false
+  xy: 2, 322
+  size: 377, 114
+  orig: 377, 114
+  offset: 0, 0
+  index: -1
+images/paixing_guang
+  rotate: false
+  xy: 837, 160
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+images/suo
+  rotate: true
+  xy: 78, 975
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+images/suo_s
+  rotate: false
+  xy: 2, 995
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+images/suo_x
+  rotate: false
+  xy: 35, 986
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+
+jyb_suo2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b_00005
+  rotate: false
+  xy: 310, 26
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+images/b_00006
+  rotate: false
+  xy: 492, 26
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+images/b_00007
+  rotate: false
+  xy: 674, 26
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+images/b_00008
+  rotate: true
+  xy: 856, 2
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+images/g1_00000
+  rotate: false
+  xy: 2, 22
+  size: 306, 160
+  orig: 306, 160
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_AttachmentBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{637,174},{160,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,30}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_Btn_Delete.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{732,4},{80,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,68}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_Btn_Next.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{354,75},{169,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{169,90}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_Btn_Pre.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{822,4},{170,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{170,90}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_DetailLine.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,506},{728,4}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{728,4}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_Dot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{732,80},{29,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{29,31}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_EditRight.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{637,75},{46,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,33}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_EditWrong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{691,75},{33,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{33,33}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_InsideBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{531,75},{98,98}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,98}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_TagExpire.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{354,173},{138,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,64}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_TagExpired.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{769,102},{138,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{138,64}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_UnitBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,378},{810,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{810,120}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_ImgEmpty.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{342,366}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{342,366}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Mail/Mail_ImgEmptyPapo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{354,4},{370,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{370,63}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Mail.png</string>
+			<key>realTextureFileName</key>
+			<string>Mail.png</string>
+			<key>size</key>
+			<string>{996,514}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>996</integer>
+			<key>height</key>
+			<integer>514</integer>
+		</dict>
+	</dict>
+</plist>

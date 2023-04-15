@@ -1,0 +1,25 @@
+info face="»ª¿µÔ²ÌåW9(P)" size=38 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=3,3,3,3 spacing=0,0
+common lineHeight=45 base=33 scaleW=1024 scaleH=64 pages=1 packed=0
+page id=0 file="number_shuoming.png"
+chars count=20
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=33    xadvance=19     page=0  chnl=0 
+char id=35745   x=0     y=0     width=41     height=43     xoffset=-1     yoffset=-2    xadvance=44     page=0  chnl=0 
+char id=22870   x=41     y=0     width=43     height=43     xoffset=-2     yoffset=-2    xadvance=44     page=0  chnl=0 
+char id=26412   x=84     y=0     width=43     height=43     xoffset=-2     yoffset=-2    xadvance=44     page=0  chnl=0 
+char id=26102   x=127     y=0     width=42     height=42     xoffset=-1     yoffset=-1    xadvance=44     page=0  chnl=0 
+char id=20498   x=169     y=0     width=42     height=42     xoffset=-2     yoffset=-1    xadvance=44     page=0  chnl=0 
+char id=20998   x=211     y=0     width=42     height=42     xoffset=-1     yoffset=-1    xadvance=44     page=0  chnl=0 
+char id=29916   x=253     y=0     width=43     height=42     xoffset=-2     yoffset=-1    xadvance=44     page=0  chnl=0 
+char id=27744   x=296     y=0     width=42     height=42     xoffset=-2     yoffset=-1    xadvance=44     page=0  chnl=0 
+char id=26085   x=338     y=0     width=36     height=40     xoffset=2     yoffset=0    xadvance=44     page=0  chnl=0 
+char id=57   x=374     y=0     width=31     height=35     xoffset=-1     yoffset=4    xadvance=33     page=0  chnl=0 
+char id=56   x=405     y=0     width=32     height=35     xoffset=-2     yoffset=4    xadvance=33     page=0  chnl=0 
+char id=54   x=437     y=0     width=31     height=35     xoffset=-1     yoffset=4    xadvance=33     page=0  chnl=0 
+char id=52   x=468     y=0     width=32     height=35     xoffset=-2     yoffset=4    xadvance=33     page=0  chnl=0 
+char id=51   x=500     y=0     width=32     height=35     xoffset=-2     yoffset=4    xadvance=33     page=0  chnl=0 
+char id=49   x=532     y=0     width=19     height=35     xoffset=2     yoffset=4    xadvance=33     page=0  chnl=0 
+char id=48   x=551     y=0     width=30     height=35     xoffset=-1     yoffset=4    xadvance=33     page=0  chnl=0 
+char id=55   x=581     y=0     width=31     height=34     xoffset=-1     yoffset=5    xadvance=33     page=0  chnl=0 
+char id=53   x=612     y=0     width=30     height=34     xoffset=-1     yoffset=5    xadvance=33     page=0  chnl=0 
+char id=50   x=642     y=0     width=30     height=34     xoffset=-1     yoffset=4    xadvance=33     page=0  chnl=0 
+char id=65306   x=672     y=0     width=16     height=29     xoffset=2     yoffset=8    xadvance=44     page=0  chnl=0 

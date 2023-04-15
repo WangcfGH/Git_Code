@@ -1,0 +1,79 @@
+{
+	"payconfig": {
+		"activity": {
+			"firstpay": {
+				"support": 1
+			}
+		},
+
+		"paytype": 2,
+
+		"products": {
+			"product": [{
+					"exchangeid": 2457,
+					"price": 20,
+					"productnum": 10000,
+					"icontype": 1,
+					"icondesplayno": 1,
+					"producttype": 1,
+					"title": "20000两银子",
+					"description": "购买20000两银子且每日赠送3300两",
+					"productname": "20000两银子首充半价",
+					"productfinalname": "20000两银子",
+					"chargepoint": 1,
+					"labeltype": 1,
+					"firstpayrewardnum": 10000,
+					"firstpaydescription": "首充半价20元",
+					"firstpaychargepoint": 4,
+					"paymodeids": [1, 2, 3, 5, 6, 7]
+				},
+				{
+					"exchangeid": 2458,
+					"price": 40,
+					"productnum": 20000,
+					"icontype": 1,
+					"icondesplayno": 1,
+					"producttype": 1,
+					"title": "20000两银子",
+					"description": "购买20000两银子且每日赠送3300两",
+					"productname": "20000两银子",
+					"productfinalname": "20000两银子",
+					"chargepoint": 1,
+					"labeltype": 1,
+					"firstpayrewardnum": 10000,
+					"firstpaydescription": "首充半价20元",
+					"firstpaychargepoint": 4,
+					"paymodeids": [1, 2, 3, 5, 6, 7]
+				},
+				{
+					"exchangeid": 10807,
+					"price": 28,
+					"productnum": 120000,
+					"icontype": 1,
+					"icondesplayno": 1,
+					"producttype": 1,
+					"title": "120000两银子",
+					"description": "购买120000两银子，每日赠送3000两",
+					"productname": "120000两银子",
+					"productfinalname": "共210000两银子",
+					"chargepoint": 1,
+					"labeltype": 1,
+					"firstpayrewardnum": 120000,
+					"firstpaydescription": "首充28元",
+					"firstpaychargepoint": 4,
+					"paymodeids": [1, 2, 3, 5, 6, 7]
+				}
+			]
+		},
+
+		"SMSconfig": {
+			"userdaymax": 2,
+			"usermonthmax": 10,
+			"devicedaymax": 2,
+			"devicemonthmax": 10,
+			"userstart": 2,
+			"maxparvalue": 10,
+			"channelid": "daiji_"
+		}
+	}
+}

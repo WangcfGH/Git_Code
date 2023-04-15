@@ -1,0 +1,101 @@
+syntax = "proto2";
+package pbNewFirstRecharge;
+
+// local开头的为pb内部使用的数据结构
+
+// 1.获取活动info信息消息start
+// json配置打包start
+message localRewardList {
+    required int32 RewardID = 1;
+    optional int32 RewardType = 2;
+    optional int32 RewardCount = 3;
+    optional string WebID = 4;
+    optional int32 NeedReward = 5;
+    optional float Price = 6;
+}
+
+message localRewardConfig {
+    required int32 RewardID = 1;
+}
+
+message localActivityDetail {
+    required int32 Day = 1;
+    optional int32 Bout = 2;
+    optional int32 RewardID = 3;
+}
+
+message localFirstRecharge {
+    required int32 RechargeExchangeID = 1;
+    optional int32 Platform = 2;
+    optional int32 OriginalPrice = 3;
+    optional int32 DiscountPrice = 4;
+    optional int32 RechargeTimeLimit = 5;
+    repeated localRewardConfig RewardConfig = 6;
+    repeated localActivityDetail ActivityDetail = 7;
+}
+
+message localNewFirstRechargeConfig {
+    required int32 ActivityEnable = 1;
+    optional int32 ActID = 2;
+    repeated localRewardList RewardList = 3;
+    repeated localFirstRecharge FirstRecharge = 4;
+}
+// json配置打包end
+
+message localNewFirstRechargeStatus {
+    required int32 nUserID = 1;
+    optional int32 nExchangeID = 2;
+    optional int32 nPayStatus = 3;          // 充值状态 0--未充值 1--已充值
+    repeated int32 nStatus = 4;             // 0未解锁, 1已解锁任务进行中可领取, 2可领取, 3已领取
+    repeated int32 nBouts = 5; 
+    optional int32 nActivityType = 6;       // 活动类型 0-首充活动 1-限时活动
+    optional int32 nStartDate = 7;          // 活动开始日期
+    optional int32 nRemainTime = 8;         // 限时活动的剩余时间(秒)
+}
+
+// 传输使用的获取活动info信息消息
+message NewFirstRechargeInfo {
+    required int32 nUserID = 1;              // 客户端请求字段
+    optional int32 nPlatform = 2;            // 客户端请求字段 平台分为 1-安卓集成包，2-ios集成包, 3-合集包
+    optional bool bEnable = 3;
+    optional string szHardID = 4;            // 设备硬件信息
+    optional localNewFirstRechargeConfig NewFirstRechargeConfig = 5; // 完整json配置
+    optional localNewFirstRechargeStatus NewFirstRechargeStatus = 6; // 活动状态
+}
+// 1.获取活动info信息消息end
+
+// 2.领取奖励使用消息start
+// 传输使用的领取奖励信息消息
+message TakeReward {
+    required int32 nUserID = 1;          // 客户端请求字段
+    optional int32 nExchangeID = 2;     // 客户端请求字段
+    optional int32 nDay = 3;            // 第几天1/2/3  // 客户端请求字段
+    optional int32 nStatus = 4;
+    optional int32 nAwardStatus = 5;    // 充值状态 0未充值 1已充值
+    optional int32 nStartDate = 6;      // 充值的时间
+    repeated localRewardList RewardIDList = 7;
+    
+    optional int32 nActID = 8;          // assist任务发银需要
+}
+// 2.领取奖励使用消息end
+
+// 3.请求Bout消息start
+// 传输使用的请求Bout消息
+message GetBouts {
+    required int32 nUserID = 1;           // 客户端请求
+    optional int32 nExchangeID = 2;       // 客户端请求
+    optional int32 nStartDate = 3;        // 充值日期
+    repeated int32 nBouts = 4;            // 1/2/3天完成的对局数
+}
+// 3.请求Bout消息end
+
+
+// 4.领取所有奖励使用消息start
+// 传输使用的领取奖励信息消息
+message TakeAllReward {
+    required int32 nUserID = 1;          // 客户端请求字段
+    repeated localRewardList RewardIDList = 2;
+
+    optional int32 nActID = 3;          // assist任务发银需要
+}
+// 4.领取所有奖励使用消息end

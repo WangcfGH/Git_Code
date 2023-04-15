@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,2},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{356,2},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{533,2},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{710,2},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,169},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,346},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,523},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,700},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{169,169},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{346,169},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{523,169},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{700,169},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{169,336},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/x_00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{169,513},{173,163}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{173,163}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd 01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{887,2},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd 05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{934,2},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd 10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{981,2},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{887,42},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{934,42},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{981,49},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{887,82},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{934,82},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{981,96},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/FirstRechargeAni/xd09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{887,122},{43,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,36}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>FirstRechargeAni.png</string>
+			<key>realTextureFileName</key>
+			<string>FirstRechargeAni.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

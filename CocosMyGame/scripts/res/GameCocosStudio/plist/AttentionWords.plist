@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_Bomb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,82},{143,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{143,38}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_CancelRobot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{800,2},{221,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{221,46}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_CancelRobot_Dot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{376,41},{16,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,20}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_Color.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,82},{143,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{143,38}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_Dot.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{396,41},{7,7}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{7,7}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_duijia.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{781,52},{150,47}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,47}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_LianDui.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{296,82},{92,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{92,41}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_LianSanZhang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,166},{112,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,41}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_Odds.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{420,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{420,35}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_PayBack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{426,2},{370,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{370,37}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_ShunZi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{296,127},{92,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{92,41}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_Size.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,124},{143,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{143,38}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_Skip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,41},{370,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{370,37}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_ThreeBandTwo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{392,84},{112,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,42}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_Tribute.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{407,43},{370,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{370,37}</string>
+			</dict>
+			<key>GameCocosStudio/plist/AttentionWords/Attention_NumSort.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,124},{143,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{143,38}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AttentionWords.png</string>
+			<key>realTextureFileName</key>
+			<string>AttentionWords.png</string>
+			<key>size</key>
+			<string>{1023,209}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1023</integer>
+			<key>height</key>
+			<integer>209</integer>
+		</dict>
+	</dict>
+</plist>

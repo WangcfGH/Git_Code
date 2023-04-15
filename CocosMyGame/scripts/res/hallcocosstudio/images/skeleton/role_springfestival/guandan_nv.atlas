@@ -1,0 +1,293 @@
+
+guandan_nv.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1
+  rotate: true
+  xy: 157, 2
+  size: 20, 58
+  orig: 20, 58
+  offset: 0, 0
+  index: -1
+fa10
+  rotate: false
+  xy: 490, 51
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 431, 79
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 494, 78
+  size: 27, 75
+  orig: 27, 75
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 986, 174
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: true
+  xy: 331, 81
+  size: 38, 98
+  orig: 38, 98
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: false
+  xy: 2, 46
+  size: 122, 208
+  orig: 122, 208
+  offset: 0, 0
+  index: -1
+fa7
+  rotate: false
+  xy: 360, 2
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+fa8
+  rotate: false
+  xy: 372, 48
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+fa9
+  rotate: false
+  xy: 452, 54
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 526, 47
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 284, 25
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+ji_x
+  rotate: false
+  xy: 571, 78
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+ji_zc
+  rotate: false
+  xy: 593, 59
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+jishen
+  rotate: false
+  xy: 496, 107
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+pd_c
+  rotate: true
+  xy: 647, 182
+  size: 72, 140
+  orig: 72, 140
+  offset: 0, 0
+  index: -1
+pd_d
+  rotate: true
+  xy: 899, 182
+  size: 72, 85
+  orig: 72, 85
+  offset: 0, 0
+  index: -1
+pd_j
+  rotate: false
+  xy: 331, 37
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 126, 41
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+sz_1
+  rotate: true
+  xy: 331, 121
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+sz_2
+  rotate: true
+  xy: 632, 83
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+sz_3
+  rotate: false
+  xy: 217, 2
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+sz_4
+  rotate: false
+  xy: 331, 150
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 346, 121
+  size: 133, 148
+  orig: 133, 148
+  offset: 0, 0
+  index: -1
+toudai
+  rotate: false
+  xy: 157, 24
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 578, 107
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+xiuz
+  rotate: false
+  xy: 331, 2
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 411, 48
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+yifu_h
+  rotate: false
+  xy: 415, 7
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 2
+  size: 153, 37
+  orig: 153, 37
+  offset: 0, 0
+  index: -1
+yj
+  rotate: true
+  xy: 126, 171
+  size: 83, 218
+  orig: 83, 218
+  offset: 0, 0
+  index: -1
+yj_1
+  rotate: false
+  xy: 388, 3
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+ym
+  rotate: false
+  xy: 237, 14
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+yshou
+  rotate: false
+  xy: 789, 182
+  size: 108, 72
+  orig: 108, 72
+  offset: 0, 0
+  index: -1
+yyan
+  rotate: false
+  xy: 264, 2
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+zj
+  rotate: true
+  xy: 496, 181
+  size: 73, 149
+  orig: 73, 149
+  offset: 0, 0
+  index: -1
+zm
+  rotate: false
+  xy: 557, 49
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+zshou
+  rotate: true
+  xy: 284, 74
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+zuishang
+  rotate: false
+  xy: 557, 60
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+zuix
+  rotate: true
+  xy: 615, 79
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+zyan
+  rotate: false
+  xy: 308, 4
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1

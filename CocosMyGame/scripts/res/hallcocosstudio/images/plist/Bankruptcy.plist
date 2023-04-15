@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Bankruptcy/Img_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{898,545}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{898,545}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Bankruptcy/Img_boxbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,545},{153,164}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{153,164}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Bankruptcy/Img_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{898,276},{111,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,103}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Bankruptcy/Img_depositbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{898,379},{151,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{151,41}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Bankruptcy/Img_mark1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{939,379},{66,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,66}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Bankruptcy/Img_mark2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{939,445},{66,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,66}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Bankruptcy/Img_yellow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{898,0},{276,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{276,92}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Bankruptcy.png</string>
+			<key>realTextureFileName</key>
+			<string>Bankruptcy.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

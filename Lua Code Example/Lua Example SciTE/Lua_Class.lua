@@ -1,7 +1,8 @@
 -- Meta class
 Shape = {area = 0}
--- åŸºç¡€ç±»æ–¹æ³• new
-function Shape:new (o,side)
+
+-- »ù´¡Àà·½·¨ new
+function Shape:new(o,side)
   o = o or {}
   setmetatable(o, self)
   self.__index = self
@@ -9,36 +10,49 @@ function Shape:new (o,side)
   self.area = side*side;
   return o
 end
--- åŸºç¡€ç±»æ–¹æ³• printArea
-function Shape:printArea ()
-  print("é¢ç§¯ä¸º ",self.area)
+
+-- »ù´¡Àà·½·¨ printArea
+function Shape:printArea()
+  print("Ãæ»ıÎª ",self.area)
 end
 
--- åˆ›å»ºå¯¹è±¡
+-- ´´½¨¶ÔÏó
 myshape = Shape:new(nil,10)
 myshape:printArea()
 
+myshape2 = Shape:new(nil,50)
+myshape2:printArea()
+
+myshape:printArea()
+
+
 Square = Shape:new()
--- æ´¾ç”Ÿç±»æ–¹æ³• new
-function Square:new (o,side)
+
+-- ÅÉÉúÀà·½·¨ new
+function Square:new(o,side)
   o = o or Shape:new(o,side)
   setmetatable(o, self)
   self.__index = self
   return o
 end
 
--- æ´¾ç”Ÿç±»æ–¹æ³• printArea
-function Square:printArea ()
-  print("æ­£æ–¹å½¢é¢ç§¯ä¸º ",self.area)
+-- ÅÉÉúÀà·½·¨ printArea
+function Square:printArea()
+  print("Õı·½ĞÎÃæ»ıÎª ",self.area)
 end
 
--- åˆ›å»ºå¯¹è±¡
+-- ´´½¨¶ÔÏó
 mysquare = Square:new(nil,10)
 mysquare:printArea()
 
+mysquare2 = Square:new(nil,20)
+mysquare2:printArea()
+
+mysquare:printArea()
+
 Rectangle = Shape:new()
--- æ´¾ç”Ÿç±»æ–¹æ³• new
-function Rectangle:new (o,length,breadth)
+-- ÅÉÉúÀà·½·¨ new
+function Rectangle:new(o,length,breadth)
   o = o or Shape:new(o)
   setmetatable(o, self)
   self.__index = self
@@ -46,11 +60,12 @@ function Rectangle:new (o,length,breadth)
   return o
 end
 
--- æ´¾ç”Ÿç±»æ–¹æ³• printArea
-function Rectangle:printArea ()
-  print("çŸ©å½¢é¢ç§¯ä¸º ",self.area)
+-- ÅÉÉúÀà·½·¨ printArea
+function Rectangle:printArea()
+  print("¾ØĞÎÃæ»ıÎª ",self.area)
 end
 
--- åˆ›å»ºå¯¹è±¡
+-- ´´½¨¶ÔÏó
 myrectangle = Rectangle:new(nil,10,20)
 myrectangle:printArea()
+

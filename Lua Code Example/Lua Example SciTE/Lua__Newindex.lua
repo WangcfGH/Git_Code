@@ -29,6 +29,8 @@ end
 t1.sayHello()
 
 
+
+
 -- Р§зг2
 local smartMan = {
     name = "none",
@@ -86,3 +88,4 @@ print(w.wangbin)
 
 rawset(w,"wangbin","nVal")
 print(w.wangbin)
+

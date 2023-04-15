@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_huguang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{560,674},{228,169}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{228,169}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,490},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,733},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{188,490},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{190,246},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{246,2},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{188,733},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{374,489},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{376,245},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{432,2},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{374,732},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{560,488},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{562,245},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{618,2},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{748,245},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{804,2},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xuanzhong_00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{803,488},{239,182}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,182}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/cj_xz_deng_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,246},{240,184}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{240,184}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/LoginLotteryAni_Img/xz_guang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>LoginLotteryAni.png</string>
+			<key>realTextureFileName</key>
+			<string>LoginLotteryAni.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

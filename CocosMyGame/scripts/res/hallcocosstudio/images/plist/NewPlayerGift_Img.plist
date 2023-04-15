@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/btn_ljlingqu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{867,308},{255,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{255,95}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/btn_ljlingqu_f.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{867,567},{255,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{255,95}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/dj_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{746,826},{146,146}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{146,146}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/dj_bg_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,2},{172,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{172,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/rw.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,606},{382,481}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{382,481}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/text_xslb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{867,2},{302,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{302,90}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/xslb_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{861,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{861,600}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/btn_mrzl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{487,826},{255,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{255,95}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/BtnClose.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{896,826},{76,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{76,79}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/NewPlayerGift_Img/BtnClose_f.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{896,906},{76,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,79}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>NewPlayerGift_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>NewPlayerGift_Img.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

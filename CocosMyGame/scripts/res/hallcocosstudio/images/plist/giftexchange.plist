@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/giftexchange/img_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{713,463}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{713,463}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/giftexchange/img_confirm.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{795,4},{195,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{195,79}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/giftexchange/img_duihuanma.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{795,142},{78,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,77}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/giftexchange/img_textbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{725,4},{538,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{538,62}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/giftexchange/img_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{795,91},{167,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{167,43}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>giftexchange.png</string>
+			<key>realTextureFileName</key>
+			<string>giftexchange.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

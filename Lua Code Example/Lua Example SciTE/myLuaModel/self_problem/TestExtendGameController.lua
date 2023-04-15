@@ -1,0 +1,6 @@
+local mygamecontroller = require("MyGameController")
+mygamecontroller:ntfGameStart()
+print("\n\n")
+mygamecontroller:ntfGameThrow()
+print("\n\n")
+mygamecontroller:ntfGameWin()

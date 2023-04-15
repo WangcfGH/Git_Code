@@ -1,6 +1,6 @@
 --[[
 
-Copyright (c) 2014-2017 Chukong Technologies Inc.
+Copyright (c) 2011-2015 chukong-incc.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,9 +22,9 @@ THE SOFTWARE.
 
 ]]
 
-require "cocos.cocos2d.Cocos2d"
-require "cocos.cocos2d.Cocos2dConstants"
-require "cocos.cocos2d.functions"
+require "src.cocos.cocos2d.Cocos2d"
+require "src.cocos.cocos2d.Cocos2dConstants"
+require "src.cocos.cocos2d.functions"
 
 __G__TRACKBACK__ = function(msg)
     local msg = debug.traceback(msg, 3)
@@ -33,77 +33,74 @@ __G__TRACKBACK__ = function(msg)
 end
 
 -- opengl
-require "cocos.cocos2d.Opengl"
-require "cocos.cocos2d.OpenglConstants"
+require "src.cocos.cocos2d.Opengl"
+require "src.cocos.cocos2d.OpenglConstants"
 -- audio
-require "cocos.cocosdenshion.AudioEngine"
+require "src.cocos.cocosdenshion.AudioEngine"
 -- cocosstudio
 if nil ~= ccs then
-    require "cocos.cocostudio.CocoStudio"
+    require "src.cocos.cocostudio.CocoStudio"
 end
 -- ui
 if nil ~= ccui then
-    require "cocos.ui.GuiConstants"
-    require "cocos.ui.experimentalUIConstants"
+    require "src.cocos.ui.GuiConstants"
+    require "src.cocos.ui.experimentalUIConstants"
 end
 
 -- extensions
-require "cocos.extension.ExtensionConstants"
+require "src.cocos.extension.ExtensionConstants"
 -- network
-require "cocos.network.NetworkConstants"
+require "src.cocos.network.NetworkConstants"
 -- Spine
 if nil ~= sp then
-    require "cocos.spine.SpineConstants"
+    require "src.cocos.spine.SpineConstants"
 end
 
-require "cocos.cocos2d.deprecated"
-require "cocos.cocos2d.DrawPrimitives"
+require "src.cocos.cocos2d.deprecated"
+require "src.cocos.cocos2d.DrawPrimitives"
 
 -- Lua extensions
-require "cocos.cocos2d.bitExtend"
+require "src.cocos.cocos2d.bitExtend"
 
 -- CCLuaEngine
-require "cocos.cocos2d.DeprecatedCocos2dClass"
-require "cocos.cocos2d.DeprecatedCocos2dEnum"
-require "cocos.cocos2d.DeprecatedCocos2dFunc"
-require "cocos.cocos2d.DeprecatedOpenglEnum"
+require "src.cocos.cocos2d.DeprecatedCocos2dClass"
+require "src.cocos.cocos2d.DeprecatedCocos2dEnum"
+require "src.cocos.cocos2d.DeprecatedCocos2dFunc"
+require "src.cocos.cocos2d.DeprecatedOpenglEnum"
 
 -- register_cocostudio_module
 if nil ~= ccs then
-    require "cocos.cocostudio.DeprecatedCocoStudioClass"
-    require "cocos.cocostudio.DeprecatedCocoStudioFunc"
+    require "src.cocos.cocostudio.DeprecatedCocoStudioClass"
+    require "src.cocos.cocostudio.DeprecatedCocoStudioFunc"
 end
 
 
 -- register_cocosbuilder_module
-require "cocos.cocosbuilder.DeprecatedCocosBuilderClass"
+require "src.cocos.cocosbuilder.DeprecatedCocosBuilderClass"
 
 -- register_cocosdenshion_module
-require "cocos.cocosdenshion.DeprecatedCocosDenshionClass"
-require "cocos.cocosdenshion.DeprecatedCocosDenshionFunc"
+require "src.cocos.cocosdenshion.DeprecatedCocosDenshionClass"
+require "src.cocos.cocosdenshion.DeprecatedCocosDenshionFunc"
 
 -- register_extension_module
-require "cocos.extension.DeprecatedExtensionClass"
-require "cocos.extension.DeprecatedExtensionEnum"
-require "cocos.extension.DeprecatedExtensionFunc"
+require "src.cocos.extension.DeprecatedExtensionClass"
+require "src.cocos.extension.DeprecatedExtensionEnum"
+require "src.cocos.extension.DeprecatedExtensionFunc"
 
 -- register_network_module
-require "cocos.network.DeprecatedNetworkClass"
-require "cocos.network.DeprecatedNetworkEnum"
-require "cocos.network.DeprecatedNetworkFunc"
+require "src.cocos.network.DeprecatedNetworkClass"
+require "src.cocos.network.DeprecatedNetworkEnum"
+require "src.cocos.network.DeprecatedNetworkFunc"
 
--- register_ui_module
+-- register_ui_moudle
 if nil ~= ccui then
-    require "cocos.ui.DeprecatedUIEnum"
-    require "cocos.ui.DeprecatedUIFunc"
+    require "src.cocos.ui.DeprecatedUIEnum"
+    require "src.cocos.ui.DeprecatedUIFunc"
 end
 
 -- cocosbuilder
-require "cocos.cocosbuilder.CCBReaderLoad"
-
--- physics3d
-require "cocos.physics3d.physics3d-constants"
+require "src.cocos.cocosbuilder.CCBReaderLoad"
 
 if CC_USE_FRAMEWORK then
-    require "cocos.framework.init"
+    require "src.cocos.framework.init"
 end

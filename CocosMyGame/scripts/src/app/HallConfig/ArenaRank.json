@@ -1,0 +1,162 @@
+{
+	"DeadlineWithHours": "%d天%d小时",
+	"RankFromTo": "第%d-%d名",
+	"PrizeCount": "x%d",
+	"SignUpProcessing": "报名正在处理中",
+	"SignUpFailed": "报名失败！",
+	"TakeRewardProcessing": "正在发放奖励",
+	"TakeRewardError": "发放奖励异常",
+	"OutRankTotal": "榜外",
+	"TotalRankTxt": "第%d名",
+	"SunDayReWardTxt":"每周日24点结算",
+	"PrizeList":
+	[
+		{
+			"prizeID": 1,
+			"image": "hallcocosstudio/images/plist/Common/Upgrade_Img_rewardSilver.png",
+			"prizeName": "银子"
+		},
+		{
+			"prizeID": 2,
+			"image":"hallcocosstudio/images/plist/Common/Upgrade_Img_rewardExchange.png",
+			"prizeName": "礼券"
+		}
+	],
+
+	"GroupReward":
+	[
+		{
+			"rankBegin": 1,
+			"rankEnd": 1,
+			"prizeList":
+			[
+				{
+					"prizeID": 1,
+					"count": 30000
+				},
+				{
+					"prizeID": 2,
+					"count": 50
+				},
+				{
+					"prizeID": 3,
+					"count": 0
+				}
+			]			
+		},
+		{
+			"rankBegin": 2,
+			"rankEnd": 2,
+			"prizeList":
+			[
+				{
+					"prizeID": 1,
+					"count": 20000
+				},
+				{
+					"prizeID": 2,
+					"count": 40
+				},
+				{
+					"prizeID": 3,
+					"count": 0
+				}
+			]			
+		},
+		{
+			"rankBegin": 3,
+			"rankEnd": 3,
+			"prizeList":
+			[
+				{
+					"prizeID": 1,
+					"count": 10000
+				},
+				{
+					"prizeID": 2,
+					"count": 30
+				},
+				{
+					"prizeID": 3,
+					"count": 0
+				}
+			]			
+		},
+		{
+			"rankBegin": 4,
+			"rankEnd": 10,
+			"prizeList":
+			[
+				{
+					"prizeID": 1,
+					"count": 5000
+				},
+				{
+					"prizeID": 2,
+					"count": 20
+				},
+				{
+					"prizeID": 3,
+					"count": 0
+				}
+			]			
+		},
+		{
+			"rankBegin": 11,
+			"rankEnd": 20,
+			"prizeList":
+			[
+				{
+					"prizeID": 1,
+					"count": 3000
+				},
+				{
+					"prizeID": 2,
+					"count": 10
+				},
+				{
+					"prizeID": 3,
+					"count": 0
+				}
+			]			
+		},
+		{
+			"rankBegin": 21,
+			"rankEnd": 50,
+			"prizeList":
+			[
+				{
+					"prizeID": 1,
+					"count": 1500
+				},
+				{
+					"prizeID": 2,
+					"count": 5
+				},
+				{
+					"prizeID": 3,
+					"count": 0
+				}
+			]			
+		},
+		{
+			"rankBegin": 51,
+			"rankEnd": 100,
+			"prizeList":
+			[
+				{
+					"prizeID": 1,
+					"count": 500
+				},
+				{
+					"prizeID": 2,
+					"count": 1
+				},
+				{
+					"prizeID": 3,
+					"count": 0
+				}
+			]			
+		}
+	]
+}

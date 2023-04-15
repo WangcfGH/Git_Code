@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_Btn_Change.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,475},{127,184}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{127,184}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_Btn_ChangeText.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{971,516},{32,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{32,128}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_Btn_Create.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{491,475},{311,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{311,72}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_Btn_CreateText.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{971,322},{190,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{190,40}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_Btn_Detail.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{447,778},{68,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{68,23}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_Btn_Enter_L.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,730},{218,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{218,68}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_Btn_Enter_N.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{375,778},{218,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{218,68}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_Btn_RefreshText.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{441,606},{33,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{33,119}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_Btn_RoomBack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1000},{66,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,22}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_IconBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{72,806},{116,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,116}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_IconFriend_S.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{441,729},{45,45}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{45,45}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_IconMask1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{447,850},{116,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,116}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_NoRoomAttention.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{566,469}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{566,469}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_RoomBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{572,2},{316,426}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{316,426}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_RoomZBG1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,475},{297,327}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{297,327}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_RoomZBG2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{572,322},{297,395}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{297,395}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_RoomZBG3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{303,606},{120,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,134}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/charteredroom/Friend_RoomZBG2line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1002,2},{276,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{276,2}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>charteredroom.png</string>
+			<key>realTextureFileName</key>
+			<string>charteredroom.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

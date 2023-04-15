@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{243,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{243,69}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,249},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{64,249},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{75,2},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,241},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{137,2},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{188,241},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,2},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{250,241},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{261,2},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{312,241},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{323,2},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{374,241},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{385,2},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{436,241},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{447,2},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_dqjd/dqjd_00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{498,241},{235,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,58}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Ani_dqjd.png</string>
+			<key>realTextureFileName</key>
+			<string>Ani_dqjd.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

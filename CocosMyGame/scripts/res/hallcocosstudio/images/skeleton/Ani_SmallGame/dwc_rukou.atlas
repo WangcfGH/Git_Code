@@ -1,0 +1,146 @@
+
+dwc_rukou.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dwc
+  rotate: false
+  xy: 2, 25
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+images/guang_00000
+  rotate: false
+  xy: 2, 2
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+images/z_00000
+  rotate: false
+  xy: 95, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00017
+  rotate: false
+  xy: 95, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00001
+  rotate: true
+  xy: 95, 14
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00002
+  rotate: false
+  xy: 133, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00003
+  rotate: true
+  xy: 163, 14
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00004
+  rotate: false
+  xy: 171, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00005
+  rotate: false
+  xy: 209, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00006
+  rotate: true
+  xy: 231, 14
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00007
+  rotate: false
+  xy: 247, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00008
+  rotate: false
+  xy: 285, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00009
+  rotate: true
+  xy: 299, 14
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00010
+  rotate: false
+  xy: 323, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00011
+  rotate: false
+  xy: 361, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00012
+  rotate: true
+  xy: 367, 14
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00013
+  rotate: false
+  xy: 399, 52
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00014
+  rotate: true
+  xy: 437, 82
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00015
+  rotate: true
+  xy: 437, 44
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+images/z_00016
+  rotate: true
+  xy: 435, 6
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1

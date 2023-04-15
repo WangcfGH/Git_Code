@@ -1,0 +1,23 @@
+info face="yinzi" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=80 base=26 scaleW=128 scaleH=128 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="yinzi.png"
+chars count=17
+char id=48 x=45 y=72 width=18 height=23 xoffset=0 yoffset=57 xadvance=19 page=0 chnl=0 letter="0"
+char id=49 x=46 y=48 width=9 height=23 xoffset=0 yoffset=57 xadvance=10 page=0 chnl=0 letter="1"
+char id=50 x=46 y=24 width=18 height=23 xoffset=0 yoffset=57 xadvance=19 page=0 chnl=0 letter="2"
+char id=51 x=26 y=48 width=19 height=23 xoffset=0 yoffset=57 xadvance=20 page=0 chnl=0 letter="3"
+char id=52 x=24 y=80 width=20 height=23 xoffset=0 yoffset=57 xadvance=21 page=0 chnl=0 letter="4"
+char id=53 x=26 y=0 width=19 height=23 xoffset=0 yoffset=57 xadvance=20 page=0 chnl=0 letter="5"
+char id=54 x=26 y=24 width=19 height=23 xoffset=0 yoffset=57 xadvance=20 page=0 chnl=0 letter="6"
+char id=55 x=24 y=104 width=19 height=23 xoffset=0 yoffset=57 xadvance=20 page=0 chnl=0 letter="7"
+char id=56 x=44 y=104 width=19 height=23 xoffset=0 yoffset=57 xadvance=20 page=0 chnl=0 letter="8"
+char id=57 x=46 y=0 width=18 height=23 xoffset=0 yoffset=57 xadvance=19 page=0 chnl=0 letter="9"
+char id=46 x=0 y=107 width=6 height=8 xoffset=0 yoffset=70 xadvance=7 page=0 chnl=0 letter="."
+char id=19975 x=0 y=54 width=25 height=25 xoffset=0 yoffset=55 xadvance=26 page=0 chnl=0 letter="万"
+char id=20004 x=0 y=80 width=23 height=26 xoffset=0 yoffset=54 xadvance=24 page=0 chnl=0 letter="两"
+char id=38134 x=0 y=26 width=25 height=27 xoffset=0 yoffset=53 xadvance=26 page=0 chnl=0 letter="银"
+char id=23376 x=0 y=0 width=25 height=25 xoffset=0 yoffset=55 xadvance=26 page=0 chnl=0 letter="子"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=160 page=0 chnl=0 letter="	"
+
+kernings count=0

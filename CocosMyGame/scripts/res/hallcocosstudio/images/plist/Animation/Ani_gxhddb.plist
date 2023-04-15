@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,288},{244,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,69}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,361},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,422},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,361},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,422},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{96,2},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{157,2},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{218,2},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{250,243},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{484,304},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{484,365},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{484,426},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{725,2},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{491,2},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{491,243},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{552,2},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdsg_00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{613,2},{237,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{237,57}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/Animation/Ani_gxhddb/gxhdwkg_00015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{282,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{282,90}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Ani_gxhddb.png</string>
+			<key>realTextureFileName</key>
+			<string>Ani_gxhddb.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

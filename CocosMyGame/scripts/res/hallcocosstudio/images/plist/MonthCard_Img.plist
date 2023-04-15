@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_add.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,682},{44,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{44,42}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{821,670}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{821,670}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_boxbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,1067},{202,211}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{202,211}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_buy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,682},{280,94}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{280,94}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{186,810},{91,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{91,75}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_giftitle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{833,536},{523,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{523,144}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_mark.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,939},{96,81}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{96,81}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_mul.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,734},{36,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,40}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_takedaily.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,970},{121,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{121,72}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_takenow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,810},{121,72}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{121,72}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{833,4},{524,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{524,144}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/MonthCard_Img/Img_yinzi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,682},{120,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,118}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>MonthCard_Img.png</string>
+			<key>realTextureFileName</key>
+			<string>MonthCard_Img.png</string>
+			<key>size</key>
+			<string>{1024,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

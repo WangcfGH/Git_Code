@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="ReleaseS125|Win32">
+      <Configuration>ReleaseS125</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="ReleaseS|Win32">
+      <Configuration>ReleaseS</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <Keyword>MFCProj</Keyword>
+    <ProjectGuid>{946D241E-79AE-4261-898C-EBB4F5CAAFE8}</ProjectGuid>
+    <ProjectName>gameAssitSvr</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(VS_CTLibPath)module\ms;$(VS_CTLibPath)module\uwl.com;$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTNetlibPath);$(VS_CTLibPath)TcyCommon;$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)tcLog\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTLibPath)TcyCommon;$(VS_CTNetlibPath);$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)boost_1_62_0\stage\lib;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)tcLog\lib\Win32;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(VS_CTLibPath)module\ms;$(VS_CTLibPath)module\uwl.com;$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTNetlibPath);$(VS_CTLibPath)TcyCommon;$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)tcLog\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTLibPath)TcyCommon;$(VS_CTNetlibPath);$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)boost_1_62_0\stage\lib;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)tcLog\lib\Win32;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(VS_CTLibPath)module\ms;$(VS_CTLibPath)module\uwl.com;$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTNetlibPath);$(VS_CTLibPath)TcyCommon;$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)tcLog\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(VS_CTLibPath)3thParty;$(VS_CTLibPath)xyapi1.0;$(VS_CTLibPath)jsoncpp1.7.7;$(VS_CTLibPath)TcyCommon;$(VS_CTNetlibPath);$(VS_CTLibPath)tcRedis1.0;$(VS_CTLibPath)boost_1_62_0\stage\lib;$(VS_CTLibPath)protobuf3.5.0;$(VS_CTLibPath)xygamepb;$(VS_CTLibPath)tcElkInOut;$(VS_CTLibPath)tcLog\lib\Win32;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PreprocessorDefinitions>UWL_TRACE;WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <BrowseInformation>true</BrowseInformation>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <AdditionalIncludeDirectories>../common;../common/plana;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>-Zm111 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+    </ResourceCompile>
+    <Bscmake />
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>uwl-vc12d.lib;uwlnt-vc12d.lib;uwltrace-vc12d.lib;tcns-vc12d.lib;xyapi-vc12d.lib;jsoncpp-vc12d.lib;TcyCommon-vc12d.lib;tcRedis-vc12d.lib;libprotobufd.lib;tcElkInOut-vc12d.lib;tcLogD.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>UWL_SERVICE;WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <BrowseInformation>true</BrowseInformation>
+      <MinimalRebuild>true</MinimalRebuild>
+      <AdditionalIncludeDirectories>../common;../common/plana;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+    </ResourceCompile>
+    <Bscmake />
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>uwl-vc12.lib;uwlnt-vc12.lib;uwltrace-vc12.lib;tcns-vc12.lib;xyapi-vc12.lib;jsoncpp-vc12.lib;TcyCommon-vc12.lib;tcRedis-vc12.lib;libprotobuf.lib;tcElkInOut-vc12.lib;tcLog.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PreprocessorDefinitions>_RS125;UWL_SERVICE;WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <WarningLevel>Level3</WarningLevel>
+      <BrowseInformation>true</BrowseInformation>
+      <MinimalRebuild>true</MinimalRebuild>
+      <AdditionalIncludeDirectories>../common;../common/plana;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+    </ResourceCompile>
+    <Bscmake />
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>uwl-vc12.lib;uwlnt-vc12.lib;uwltrace-vc12.lib;tcns-vc12.lib;xyapi-vc12.lib;jsoncpp-vc12.lib;TcyCommon-vc12.lib;tcRedis-vc12.lib;libprotobuf.lib;tcElkInOut-vc12.lib;tcLog.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+      <AdditionalOptions>-Zm111 %(AdditionalOptions)</AdditionalOptions>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\common\HttpClient.cpp" />
+    <ClCompile Include="..\common\plana\component\Component.cpp" />
+    <ClCompile Include="..\common\plana\thread_pool\EventPools.cpp" />
+    <ClCompile Include="..\common\tcycomponents\DingTalkRobot.cpp" />
+    <ClCompile Include="..\common\tcycomponents\DumpUnhandleException.cpp" />
+    <ClCompile Include="..\common\tcycomponents\HttpSoapModule.cpp" />
+    <ClCompile Include="..\common\tcycomponents\TcyInputTest.cpp" />
+    <ClCompile Include="..\common\tcycomponents\TcyMsgCenter.cpp" />
+    <ClCompile Include="..\common\tcycomponents\TcySockClient.cpp" />
+    <ClCompile Include="..\common\tcycomponents\TcySockSvr.cpp" />
+    <ClCompile Include="..\pb\TestPbModule\TestPbModule.pb.cc">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="BroadcastModule.cpp" />
+    <ClCompile Include="ChunkLogSockClient.cpp" />
+    <ClCompile Include="FirstRecharge.cpp" />
+    <ClCompile Include="LimitConfig.cpp" />
+    <ClCompile Include="PlayerLogon.cpp" />
+    <ClCompile Include="TestPbModule.cpp" />
+    <ClCompile Include="UserRecordData.cpp" />
+    <ClCompile Include="Predefine.cpp" />
+    <ClCompile Include="ChunkSockClient.cpp" />
+    <ClCompile Include="MainServer.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="StdAfx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='ReleaseS|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='ReleaseS125|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="TaskModule.cpp" />
+    <ClCompile Include="TreasureModule.cpp" />
+    <ClCompile Include="WxTaskModule.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\common\CommonDef.h" />
+    <ClInclude Include="..\common\CommonReq.h" />
+    <ClInclude Include="..\common\HttpClient.h" />
+    <ClInclude Include="..\common\plana\component\Component.h" />
+    <ClInclude Include="..\common\plana\event\Event.h" />
+    <ClInclude Include="..\common\plana\thread_pool\EventPools.h" />
+    <ClInclude Include="..\common\TaskReq.h" />
+    <ClInclude Include="..\common\tcycomponents\DingTalkRobot.h" />
+    <ClInclude Include="..\common\tcycomponents\DumpUnhandleException.h" />
+    <ClInclude Include="..\common\tcycomponents\HttpSoapModule.h" />
+    <ClInclude Include="..\common\tcycomponents\TcyInputTest.h" />
+    <ClInclude Include="..\common\tcycomponents\TcyMsgCenter.h" />
+    <ClInclude Include="..\common\tcycomponents\TcySockClient.h" />
+    <ClInclude Include="..\common\tcycomponents\TcySockSvr.h" />
+    <ClInclude Include="..\common\TreasureReq.h" />
+    <ClInclude Include="..\common\UserRecordDataReq.h" />
+    <ClInclude Include="..\common\WxTaskReq.h" />
+    <ClInclude Include="..\pb\TestPbModule\TestPbModule.pb.h" />
+    <ClInclude Include="BroadcastModule.h" />
+    <ClInclude Include="ChunkLogSockClient.h" />
+    <ClInclude Include="FirstRecharge.h" />
+    <ClInclude Include="LimitConfig.h" />
+    <ClInclude Include="PlayerLogon.h" />
+    <ClInclude Include="TestPbModule.h" />
+    <ClInclude Include="UserRecordData.h" />
+    <ClInclude Include="Predefine.h" />
+    <ClInclude Include="ChunkSockClient.h" />
+    <ClInclude Include="MainServer.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="TaskModule.h" />
+    <ClInclude Include="TreasureModule.h" />
+    <ClInclude Include="WxTaskModule.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="gameAssitSvr.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

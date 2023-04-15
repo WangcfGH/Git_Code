@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hallcocosstudio/images/plist/AnchorPoster/img_AnchorNodeBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{374,556}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{374,556}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorPoster/img_Close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,420},{76,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,79}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorPoster/img_CopyBtn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,420},{115,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{115,55}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorPoster/img_DefaultPoster.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{562,263},{310,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{310,240}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorPoster/img_IconBtn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{201,420},{80,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{80,67}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorPoster/img_InfoBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,380},{220,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,36}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorPoster/img_PosterBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{562,2},{324,257}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{324,257}</string>
+			</dict>
+			<key>hallcocosstudio/images/plist/AnchorPoster/img_RollTip.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{272,380},{55,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{55,60}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AnchorPoster.png</string>
+			<key>realTextureFileName</key>
+			<string>AnchorPoster.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

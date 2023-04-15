@@ -1,0 +1,83 @@
+{
+  "payconfig": {
+    "activity": {
+      "firstpay": {
+        "support": 1
+      }
+    },
+
+    "paytype": 2,
+
+    "products": {
+      "product": [{
+          "sid": "com.uc108.mobile.hagd.hy3",
+          "exchangeid": 2231,
+          "price": 3,
+          "productnum": 19000,
+          "icontype": 1,
+          "icondesplayno": 1,
+          "producttype": 1,
+          "title": "50000两银子",
+          "description": "购买50000两银子，每日赠送1500两",
+          "productname": "50000两银子(首充半价)",
+          "productfinalname": "51500两银子",
+          "chargepoint": 2,
+          "labeltype": 1,
+          "firstpayrewardnum": 50000,
+          "firstpaydescription": "首充半价3元",
+          "firstpaychargepoint": 5,
+          "paymodeids": [1, 2, 5, 6, 7]
+        },
+        {
+          "sid": "com.uc108.mobile.hagd.hy6",
+          "exchangeid": 2219,
+          "price": 6,
+          "productnum": 50000,
+          "icontype": 1,
+          "icondesplayno": 1,
+          "producttype": 1,
+          "title": "50000两银子",
+          "description": "购买50000两银子，每日赠送1500两",
+          "productname": "50000两银子",
+          "productfinalname": "51500两银子",
+          "chargepoint": 2,
+          "labeltype": 1,
+          "firstpayrewardnum": 50000,
+          "firstpaydescription": "首充半价3元",
+          "firstpaychargepoint": 5,
+          "paymodeids": [1, 2, 5, 6, 7]
+        },
+        {
+          "sid": "com.uc108.mobile.hagd.hy12",
+          "exchangeid": 10808,
+          "price": 12,
+          "productnum": 100000,
+          "icontype": 1,
+          "icondesplayno": 1,
+          "producttype": 1,
+          "title": "100000两银子",
+          "description": "购买100000两银子，每日赠送3000两",
+          "productname": "100000两银子",
+          "productfinalname": "共190000两银子",
+          "chargepoint": 2,
+          "labeltype": 1,
+          "firstpayrewardnum": 100000,
+          "firstpaydescription": "首充12元",
+          "firstpaychargepoint": 5,
+          "paymodeids": [1, 2, 5, 6, 7]
+        }
+
+      ]
+    },
+
+    "SMSconfig": {
+      "userdaymax": 2,
+      "usermonthmax": 10,
+      "devicedaymax": 2,
+      "devicemonthmax": 10,
+      "userstart": 2,
+      "maxparvalue": 10,
+      "channelid": "daiji_"
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+	"ExchangeOK":"已兑换成功，可至兑换记录中查看状态哦~",
+	"ExchangeNotEnough":"您的礼券不足,可以去游戏中赚取",
+	"InputPhoneNumberEmpty":"输入的手机号码不能为空",
+	"InputPhoneNumberNotLegal":"输入的手机号码不合法",
+	"InputPhoneNumberSureEmpty":"请确认手机号码",
+	"InputPhoneNumberNotSame":"两次输入的手机号码不一致",	
+	"InputNameEmpty":"输入的姓名不能为空",
+	"InputAddressEmpty":"输入的地址不能为空",
+	"ExchangeSuccessed":"兑换成功",
+	"ExchangeFailed":"兑换失败",
+	"ExchangeCellphoneOK":"话费已充值到指定手机，请注意短信提醒",
+	"ExchangeEntityOK":"物品将7个工作日寄出，请注意查收，可去兑换记录中查看状态",
+
+	"AccessPath":
+	[
+		{
+			"name" : "游戏对局",
+			"description":"经典场、不洗牌房间对局可获得大量礼券",
+			"nType" : 3
+		},
+		{
+			"name" : "抽奖活动",
+			"description":"抽奖有几率抽中礼券",
+			"nType" : 2
+		},
+		{
+			"name" : "等级提升",
+			"description":"提升人物等级获取礼券",
+			"nType" : 3
+		},
+		{
+			"name" : "砸金蛋",
+			"description":"完成20局游戏对局有机会获得礼券",
+			"nType" : 3
+		}
+	],
+	
+	"Product":
+	[	
+		{		
+			"prizeID" : 1,	
+			"image":"Img_Telephonerate1",
+			"count":1,
+			"price":100,
+			"prizeName":"1元话费",
+			"nType" : 2
+		},
+		{		
+			"prizeID" : 48,	
+			"image":"Img_Telephonerate2",
+			"count":2,
+			"price":200,
+			"prizeName":"2元话费",
+			"nType" : 2
+		},
+		{		
+			"prizeID" : 2,	
+			"image":"Img_Telephonerate3",
+			"count":5,
+			"price":500,
+			"prizeName":"5元话费",
+			"nType" : 2
+		},
+		{		
+			"prizeID" : 3,	
+			"image":"Img_Telephonerate4",
+			"count":10,
+			"price":1000,
+			"prizeName":"10元话费",
+			"nType" : 2
+		},
+		{		
+			"prizeID" : 4,	
+			"image":"Img_Telephonerate5",
+			"count":50,
+			"price":5000,
+			"prizeName":"50元话费",
+			"nType" : 2
+		},
+		{		
+			"prizeID" : 5,	
+			"image":"Img_Telephonerate6",
+			"count":100,
+			"price":10000,
+			"prizeName":"100元话费",
+			"nType" : 2
+		},	
+		{		
+			"prizeID" : 15,	
+			"image":"Img_Telephonerate7",
+			"count":500,
+			"price":50000,
+			"prizeName":"500元话费",
+			"nType" : 2
+		},
+		{		
+			"prizeID" : 10,	
+			"image":"Img_Iphone",
+			"count":1,
+			"price":560000,
+			"prizeName":"iphone7Plus",
+			"nType" : 3
+		},
+		{		
+			"prizeID" : 106,	
+			"image":"Img_Silver1",
+			"count":2000,
+			"price":20,
+			"prizeName":"同城游银子2千两",
+			"nType" : 1
+		},
+		{		
+			"prizeID" : 20,	
+			"image":"Img_Silver1",
+			"count":5000,
+			"price":50,
+			"prizeName":"同城游银子5千两",
+			"nType" : 1
+		},
+		{		
+			"prizeID" : 11,	
+			"image":"Img_Silver1",
+			"count":10000,
+			"price":100,
+			"prizeName":"同城游银子1万两",
+			"nType" : 1
+		},
+		{		
+			"prizeID" : 12,	
+			"image":"Img_Silver2",
+			"count":50000,
+			"price":500,
+			"prizeName":"同城游银子5万两",
+			"nType" : 1
+		},
+		{		
+			"prizeID" : 13,	
+			"image":"Img_Silver3",
+			"count":200000,
+			"price":2000,
+			"prizeName":"同城游银子20万两",
+			"nType" : 1
+		},
+        {
+            "prizeID": 14,
+            "image": "Img_Silver4",
+            "count": 500000,
+            "price": 5000,
+            "prizeName": "同城游银子50万两",
+            "nType": 1
+        },
+        {
+            "prizeID": 233,
+            "image": "Img_Goods_1",
+            "count": 1,
+            "price": 4790,
+            "prizeName": "5L金龙鱼调和油",
+            "nType": 3
+        },
+        {
+            "prizeID": 169,
+            "image": "Img_Goods_2",
+            "count": 1,
+            "price": 17900,
+            "prizeName": "24寸旅行箱",
+            "nType": 3
+        },
+        {
+            "prizeID": 243,
+            "image": "Img_Goods_3",
+            "count": 1,
+            "price": 5000,
+            "prizeName": "蒙牛纯牛奶",
+            "nType": 3
+        },
+        {
+            "prizeID": 248,
+            "image": "Img_Goods_4",
+            "count": 1,
+            "price": 2490,
+            "prizeName": "190g黑人牙膏",
+            "nType": 3
+        },
+        {
+            "prizeID": 232,
+            "image": "Img_Goods_5",
+            "count": 1,
+            "price": 2690,
+            "prizeName": "500g蓝月亮洗手液",
+            "nType": 3
+        },
+        {
+            "prizeID": 239,
+            "image": "Img_Goods_6",
+            "count": 1,
+            "price": 3490,
+            "prizeName": "1kg蓝月亮洗衣液",
+            "nType": 3
+        },
+        {
+            "prizeID": 240,
+            "image": "Img_Goods_7",
+            "count": 1,
+            "price": 3690,
+            "prizeName": "120*10抽纸巾",
+            "nType": 3
+        },
+        {
+            "prizeID": 184,
+            "image": "Img_Goods_8",
+            "count": 1,
+            "price": 3799,
+            "prizeName": "5KG金龙鱼东北大米",
+            "nType": 3
+        },
+        {
+            "prizeID": 142,
+            "image": "Img_Goods_9",
+            "count": 1,
+            "price": 5890,
+            "prizeName": "1000g洗发水",
+            "nType": 3
+        },
+        {		
+			"prizeID" : 17,	
+			"image":"Img_Iphone",
+			"count":1,
+			"price":5,
+			"prizeName":"iphone5s",
+			"nType" : 3
+		},
+		{
+            "prizeID": 187,
+            "image": "Img_Prop_CardRecorder_1",
+            "count": 1,
+            "price": 100,
+            "prizeName": "掼蛋记牌器1天",
+            "nType": 4
+        },
+		{
+            "prizeID": 186,
+            "image": "Img_Prop_CardRecorder_7",
+            "count": 7,
+            "price": 700,
+            "prizeName": "掼蛋记牌器7天",
+            "nType": 4
+        },
+		{
+            "prizeID": 185,
+            "image": "Img_Prop_CardRecorder_30",
+            "count": 30,
+            "price": 2000,
+            "prizeName": "掼蛋记牌器30天",
+            "nType": 4
+        }
+	]	
+}

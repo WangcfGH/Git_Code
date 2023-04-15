@@ -2,9 +2,11 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "IOCPDef.h"
 #include "Mapper.h"
+#include <functional>
+#include <mutex>
 
-typedef void (CALLBACK* NOTIFYPROC)(LPVOID, PER_IO_CONTEXT*, UINT);
 
+typedef std::function<void(LPVOID, PER_IO_CONTEXT*, UINT)> NotifyCallBack;
 typedef std::list<PER_IO_CONTEXT*> IOContextList;
 typedef std::list<IOCP_PARAM*>	IocpParamList;
 
@@ -14,7 +16,7 @@ public:
 	CIOCPServer();
 	~CIOCPServer();
 
-	bool StartIOCP(NOTIFYPROC pNotifyProc, const UINT& nPort);
+	bool StartIOCP(std::function<void(LPVOID, PER_IO_CONTEXT*, UINT)> fucNotifyProc, const UINT& nPort);
 	bool Stop();
 
 	bool PostSend(PER_IO_CONTEXT* pIoContext);				// 投递一个发送操作
@@ -55,13 +57,15 @@ protected:
 	bool OnClientWriting(PER_IO_CONTEXT* pIOContext, DWORD dwSize = 0);
 
 private:
-	NOTIFYPROC m_pNotifyProc;					// 消息回调函数
-	static CRITICAL_SECTION m_cs;				// 关键段（临界资源）
+	static std::recursive_mutex m_mtx;					// 互斥量
+
+	NotifyCallBack	m_pNotifyProc;				// 消息回调函数	
 
 	HANDLE m_hShutDownEvent;					// 系统退出事件通知
 	HANDLE m_hIOCompletionPort;					// 完成端口句柄
 	UINT m_nThreadCnt;						    // 线程数量
 	HANDLE* m_pWorkThreads;						// 工作者线程者指针
+
 
 	PER_IO_CONTEXT* m_pListenContext;		    // 用于监听的Socket的Context信息
 	SOCKET m_socListen;							// 监听套接字

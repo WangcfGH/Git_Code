@@ -1,0 +1,55 @@
+{
+	"ImagePath":"res/game/gamepic/task/",
+
+	"Reward":[{"Type":0, "Text":"奖励积分：", "Image":"commonitem4_s"},
+			  {"Type":1, "Text":"奖励银子：", "Image":"commonitem3_s"},
+			  {"Type":2, "Text":"奖励兑换劵：", "Image":"commonitem1_s"}
+			 ],
+
+	"Failed":"任务奖励领取失败，请稍候再试。",
+    
+    "Task":
+    [
+		{ "GroupID":1, "BeginID":1, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":1,
+		  "Title":"每日分享","Image":"mission_icon_1.png","FormatName":"每日分享",
+		  "TaskList":[
+		  { "ID":1, "Name":"每日分享", "Type":1, "Condition": [{"ConType":21, "ConValue":1}], "WebID":"a1001",
+		  "Reward":[{"RewardType":2, "RewardValueMin":5, "RewardValueMax":5}], "NextID":0}
+		  ]
+		},
+		{ "GroupID":2, "BeginID":2, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":3,
+		  "Title":"看广告","Image":"mission_icon_1.png","FormatName":"看广告%d次",
+		  "TaskList":[
+		  { "ID":2, "Name":"看广告", "Type":1, "Condition": [{"ConType":22, "ConValue":5}], "WebID":"a1002",
+		  "Reward":[{"RewardType":1, "RewardValueMin":1000, "RewardValueMax":1000}], "NextID":0}
+		  ]
+		},
+		{ "GroupID":3, "BeginID":3, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":2,
+		  "Title":"累计赢30万","Image":"mission_icon_1.png","FormatName":"赢%d",
+		  "TaskList":[
+		  { "ID":3, "Name":"累计赢30万", "Type":1, "Condition": [{"ConType":6, "ConValue":300000}], "WebID":"a1003",
+		  "Reward":[{"RewardType":1, "RewardValueMin":12888, "RewardValueMax":12888}], "NextID":0}
+		  ]
+		},
+		{ "GroupID":4, "BeginID":4, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":2,
+		  "Title":"胡牌30次","Image":"mission_icon_1.png","FormatName":"胡%d",
+		  "TaskList":[
+		  { "ID":4, "Name":"胡牌30次", "Type":1, "Condition": [{"ConType":7, "ConValue":30}], "WebID":"a1004",
+		  "Reward":[{"RewardType":1, "RewardValueMin":5888, "RewardValueMax":5888}], "NextID":0}
+		  ]
+		},
+		{ "GroupID":5, "BeginID":5, "InGameView":1, "Active":1, "AutoHide":0, "TagIcon":2,
+		  "Title":"对局20局","Image":"mission_icon_1.png","FormatName":"对局%d",
+		  "TaskList":[
+		  { "ID":5, "Name":"对局20局", "Type":1, "Condition": [{"ConType":1001, "ConValue":20}], "WebID":"a1005",
+		  "Reward":[{"RewardType":1, "RewardValueMin":8888, "RewardValueMax":8888}], "NextID":0}
+		  ]
+		}
+    ], 
+    
+	"Button":
+	[
+		"去做任务",
+		"分享一下"
+	]
+}
